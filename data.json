@@ -21375,5 +21375,9 @@
     "https://mp.weixin.qq.com/s/fUnhFCG40nZ1Evik1wYz1g": "Joomla JCE Editor 双高危漏洞预警（CVE-2026-48907 ∕ CVE-2026-48908）",
     "https://mp.weixin.qq.com/s/WFYj3seeH2_xti7RLU16vQ": "CTF比赛入门第十期：文件上传漏洞全解",
     "https://mp.weixin.qq.com/s/CbxafV85UwNkyL7lSRksrQ": "CVE-2026-41089：Windows Netlogon 通过 CLDAP 堆栈缓冲区溢出进行远程代码执行漏洞",
-    "https://mp.weixin.qq.com/s/3MEUCzesYJmxq1aHAreM4A": "libssh2 CVE-2026-55200 PoC 和本地 RCE"
+    "https://mp.weixin.qq.com/s/3MEUCzesYJmxq1aHAreM4A": "libssh2 CVE-2026-55200 PoC 和本地 RCE",
+    "https://mp.weixin.qq.com/s/Kp_lGaMx_tlm7uUbKFup2w": "用友U8 CRM getsrvtemplate.php SQL注入漏洞",
+    "https://mp.weixin.qq.com/s/52YAM_DXiI9hE4eXddOVlw": "邮件服务器预警：Exchange 多个 SSRF 漏洞利用细节已公开",
+    "https://mp.weixin.qq.com/s/pAhdg_YyZY-pMDA_5-muwg": "Anthropic 的 Mythos 模型在美国政府系统中发现漏洞",
+    "https://mp.weixin.qq.com/s/YEm5YIvDE_8U7EZ4aeqcOQ": "关于规范 AI 辅助漏洞报告提交标准的公告"
 }

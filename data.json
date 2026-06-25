@@ -21384,5 +21384,6 @@
     "https://mp.weixin.qq.com/s/ElFbb2djZzUy6npR595KfA": "信息安全漏洞周报（2026年第25期）",
     "https://mp.weixin.qq.com/s/LYqeuFLZr3VoeDQmHGL_PA": "逻辑漏洞之注册模块",
     "https://mp.weixin.qq.com/s/PfoHqQUojOONl1M4FMe0zw": "“冬虫夏草”供应链漏洞影响数千家组织机构的代码仓库",
-    "https://mp.weixin.qq.com/s/G9LnlaMKR93T9XGNU81hNQ": "Libssh2 严重漏洞可导致攻击者执行远程代码"
+    "https://mp.weixin.qq.com/s/G9LnlaMKR93T9XGNU81hNQ": "Libssh2 严重漏洞可导致攻击者执行远程代码",
+    "https://mp.weixin.qq.com/s/Xqd0CHRhVqbhKYXBZwu-Sw": "CVE-2026-8461（PixelSmash） - 分析及复现"
 }

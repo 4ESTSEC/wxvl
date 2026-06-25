@@ -21385,5 +21385,15 @@
     "https://mp.weixin.qq.com/s/LYqeuFLZr3VoeDQmHGL_PA": "逻辑漏洞之注册模块",
     "https://mp.weixin.qq.com/s/PfoHqQUojOONl1M4FMe0zw": "“冬虫夏草”供应链漏洞影响数千家组织机构的代码仓库",
     "https://mp.weixin.qq.com/s/G9LnlaMKR93T9XGNU81hNQ": "Libssh2 严重漏洞可导致攻击者执行远程代码",
-    "https://mp.weixin.qq.com/s/Xqd0CHRhVqbhKYXBZwu-Sw": "CVE-2026-8461（PixelSmash） - 分析及复现"
+    "https://mp.weixin.qq.com/s/Xqd0CHRhVqbhKYXBZwu-Sw": "CVE-2026-8461（PixelSmash） - 分析及复现",
+    "https://mp.weixin.qq.com/s/JI8ZinZ_oXARbjmq2KlZxg": "瑞友天翼应用虚拟化系统SQL注入漏洞",
+    "https://mp.weixin.qq.com/s/xsym4OfXmJl3-VUooMVJ3A": "【漏洞通告】Cisco Unified Communications Manager WebDialer 服务器端伪造请求漏洞(CVE-2026-20230)",
+    "https://mp.weixin.qq.com/s/d4OV7oOmDfoZhZQPDZ8TJQ": "与AI抢时间：美CISA颁布国家级漏洞防御新规",
+    "https://mp.weixin.qq.com/s/7v-1xbqVmA0-IlDCjkeb6A": "Chrome 149 安全更新——修复可导致代码执行攻击的严重漏洞",
+    "https://mp.weixin.qq.com/s/xPmomLLSLWiU0KFSk1YJ4A": "直播预告丨AI赋能的漏洞挖掘与风险管控，公开课第八节开放预约",
+    "https://mp.weixin.qq.com/s/NZYzB9yYMUWKbkXkgzD9nA": "【已复现】Gogs 远程代码执行漏洞(CVE-2026-52813)安全风险通告",
+    "https://mp.weixin.qq.com/s/BrEi4W3plsnveOcQotGgIA": "Jenkins综合漏洞利用工具",
+    "https://mp.weixin.qq.com/s/ERSGCN3tPfRDBx0WZrvUrQ": "【漏洞通告】FFmpeg MagicYUV PixelSmash 解码器堆越界写入漏洞(CVE-2026-8461)",
+    "https://mp.weixin.qq.com/s/swYPy3q5kBiRs4dNGdGiMw": "客户端漏洞挖掘skills",
+    "https://mp.weixin.qq.com/s/apu4-rIhU8ZqynmvXJIPvQ": "【论文速读】| OpenAnt：通过代码分解、对抗性验证与动态测试的LLM漏洞发现"
 }

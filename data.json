@@ -21395,5 +21395,7 @@
     "https://mp.weixin.qq.com/s/BrEi4W3plsnveOcQotGgIA": "Jenkins综合漏洞利用工具",
     "https://mp.weixin.qq.com/s/ERSGCN3tPfRDBx0WZrvUrQ": "【漏洞通告】FFmpeg MagicYUV PixelSmash 解码器堆越界写入漏洞(CVE-2026-8461)",
     "https://mp.weixin.qq.com/s/swYPy3q5kBiRs4dNGdGiMw": "客户端漏洞挖掘skills",
-    "https://mp.weixin.qq.com/s/apu4-rIhU8ZqynmvXJIPvQ": "【论文速读】| OpenAnt：通过代码分解、对抗性验证与动态测试的LLM漏洞发现"
+    "https://mp.weixin.qq.com/s/apu4-rIhU8ZqynmvXJIPvQ": "【论文速读】| OpenAnt：通过代码分解、对抗性验证与动态测试的LLM漏洞发现",
+    "https://mp.weixin.qq.com/s/G0gY7NxkyEydZmpWVQhlQA": "记一次狗运逻辑漏洞接管前台账号",
+    "https://mp.weixin.qq.com/s/ucH44lrRnMRD_pikAFl8hQ": "【高危漏洞预警】Gogs git rebase参数注入远程代码执行漏洞CVE-2026-52813"
 }

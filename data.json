@@ -21428,5 +21428,6 @@
     "https://mp.weixin.qq.com/s/hRQs9wtmkgSWhGPSubHwkw": "Nuclei 漏洞扫描图形化工具 | POC 管理、FOFA∕Hunter∕Shodan 资产测绘、AI 辅助分析、漏洞报告生成",
     "https://mp.weixin.qq.com/s/3uepeUGGnQMGIHTggkhw6w": "CISA警告：思科统一配置管理（Cisco Unified CM）漏洞已被攻击者利用",
     "https://mp.weixin.qq.com/s/nKWR5Sypju9tNsac5zPGgw": "GeoLocate CVE-2025-52465 - GeoServer漏洞利用",
-    "https://mp.weixin.qq.com/s/rqb5G7wrtgdmwCAvbIvqKA": "CVE-2026-25860 - OpenClinic GA 反射型 XSS 漏洞导致远程代码执行"
+    "https://mp.weixin.qq.com/s/rqb5G7wrtgdmwCAvbIvqKA": "CVE-2026-25860 - OpenClinic GA 反射型 XSS 漏洞导致远程代码执行",
+    "https://mp.weixin.qq.com/s/I0klN0JtPqeTGVs1zJd9Sg": "AI 生成 | Gogs CVE-2026-52813：从组织名路径穿越到 RCE 的复现全记录"
 }

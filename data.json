@@ -21416,5 +21416,14 @@
     "https://mp.weixin.qq.com/s/bhpHb834XYnWoz-rdVLjfg": "2026浏览器插件推荐 - 漏洞挖掘篇",
     "https://mp.weixin.qq.com/s/z62WmJj_6fDE0TWd_CkCig": "最新版Jeecgboot后台利用 | 从0写Reina之Jeecgboot-v3.9.2-后台RCE",
     "https://mp.weixin.qq.com/s/wsj07rjK8uKBDrRusCnJjQ": "【已复现】Gogs 组织名称路径遍历导致 Git hooks 远程代码执行漏洞（CVE-2026-52813）",
-    "https://mp.weixin.qq.com/s/4rLmpDaTPnegQYVkVhshOw": "Cisco SD-WAN 0day 被利用数月：边界控制面，不能只等补丁"
+    "https://mp.weixin.qq.com/s/4rLmpDaTPnegQYVkVhshOw": "Cisco SD-WAN 0day 被利用数月：边界控制面，不能只等补丁",
+    "https://mp.weixin.qq.com/s/RrlwDTY1WRhGWCKDTd2G_w": "CISA：Lantronix EDS5000 严重漏洞正遭活跃利用",
+    "https://mp.weixin.qq.com/s/9iErEju-T1ae-WFe8v9MxA": "【已复现】漏洞通告 | Gogs 远程代码执行漏洞(CVE-2026-52813)",
+    "https://mp.weixin.qq.com/s/DAN_bR1UF8m3Ew6FbouGaQ": "cURL 严重漏洞已存在25年，影响300亿台设备",
+    "https://mp.weixin.qq.com/s/5psMTKFqTFdshtH_NIXyTw": "【已复现】漏洞通告 | Joomla Content Editor 未授权远程代码执行漏洞(CVE-2026-48907)",
+    "https://mp.weixin.qq.com/s/yucaI3MZc8_WgobS1qT-cQ": "【漏洞通告】Gogs 目录遍历漏洞(CVE-2026-52813)",
+    "https://mp.weixin.qq.com/s/Dg1QcxfykVhPNo5p3j8Mig": "信息安全漏洞预警（2026年6月22日-2026年6月26日）",
+    "https://mp.weixin.qq.com/s/t8uwBasBjx1E2W9VJsPMzQ": "手把手教你用 kali 进行渗透测试，含信息收集、漏洞利用、权限提升等",
+    "https://mp.weixin.qq.com/s/zZXEFpxBT8kBf806tmGbUA": "Android跨用户隔离批量漏洞挖掘与利用实践",
+    "https://mp.weixin.qq.com/s/hRQs9wtmkgSWhGPSubHwkw": "Nuclei 漏洞扫描图形化工具 | POC 管理、FOFA∕Hunter∕Shodan 资产测绘、AI 辅助分析、漏洞报告生成"
 }

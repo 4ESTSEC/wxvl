@@ -21425,5 +21425,8 @@
     "https://mp.weixin.qq.com/s/Dg1QcxfykVhPNo5p3j8Mig": "信息安全漏洞预警（2026年6月22日-2026年6月26日）",
     "https://mp.weixin.qq.com/s/t8uwBasBjx1E2W9VJsPMzQ": "手把手教你用 kali 进行渗透测试，含信息收集、漏洞利用、权限提升等",
     "https://mp.weixin.qq.com/s/zZXEFpxBT8kBf806tmGbUA": "Android跨用户隔离批量漏洞挖掘与利用实践",
-    "https://mp.weixin.qq.com/s/hRQs9wtmkgSWhGPSubHwkw": "Nuclei 漏洞扫描图形化工具 | POC 管理、FOFA∕Hunter∕Shodan 资产测绘、AI 辅助分析、漏洞报告生成"
+    "https://mp.weixin.qq.com/s/hRQs9wtmkgSWhGPSubHwkw": "Nuclei 漏洞扫描图形化工具 | POC 管理、FOFA∕Hunter∕Shodan 资产测绘、AI 辅助分析、漏洞报告生成",
+    "https://mp.weixin.qq.com/s/3uepeUGGnQMGIHTggkhw6w": "CISA警告：思科统一配置管理（Cisco Unified CM）漏洞已被攻击者利用",
+    "https://mp.weixin.qq.com/s/nKWR5Sypju9tNsac5zPGgw": "GeoLocate CVE-2025-52465 - GeoServer漏洞利用",
+    "https://mp.weixin.qq.com/s/rqb5G7wrtgdmwCAvbIvqKA": "CVE-2026-25860 - OpenClinic GA 反射型 XSS 漏洞导致远程代码执行"
 }

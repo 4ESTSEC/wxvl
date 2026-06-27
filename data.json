@@ -21430,5 +21430,13 @@
     "https://mp.weixin.qq.com/s/nKWR5Sypju9tNsac5zPGgw": "GeoLocate CVE-2025-52465 - GeoServer漏洞利用",
     "https://mp.weixin.qq.com/s/rqb5G7wrtgdmwCAvbIvqKA": "CVE-2026-25860 - OpenClinic GA 反射型 XSS 漏洞导致远程代码执行",
     "https://mp.weixin.qq.com/s/I0klN0JtPqeTGVs1zJd9Sg": "AI 生成 | Gogs CVE-2026-52813：从组织名路径穿越到 RCE 的复现全记录",
-    "https://mp.weixin.qq.com/s/p6rGDIcUDb56xsw3-a9tfw": "挖洞思路｜CORS配置漏洞背后的信任陷阱，赏金猎人如何靠逻辑链破防？"
+    "https://mp.weixin.qq.com/s/p6rGDIcUDb56xsw3-a9tfw": "挖洞思路｜CORS配置漏洞背后的信任陷阱，赏金猎人如何靠逻辑链破防？",
+    "https://mp.weixin.qq.com/s/ZRo8c5NRLpNte0b1JaLtQg": "我用AI挖了隐藏N年的组合拳漏洞",
+    "https://mp.weixin.qq.com/s/zQiuwFTWRNIYV_uV5c7l4g": "保密手机功能受限反酿安全漏洞：美特勤局人员被迫用私人手机执行保护任务",
+    "https://mp.weixin.qq.com/s/6J6VJ_XGoC4lk-WrdM9N7g": "不会找漏洞 试试Nuclei这款神器",
+    "https://mp.weixin.qq.com/s/3IxDbhDRWVzFC-kE4ogi5Q": "消息模板注入漏洞",
+    "https://mp.weixin.qq.com/s/y15izv7ojxCyjrZ7BsswDA": "研究员学习Hyper-V时意外挖出微软隐藏BUG：CVE-2024-21305",
+    "https://mp.weixin.qq.com/s/eFJo2jC_jFcS4j3YkSKQug": "漏洞复现 | 天问物业ERP系统 docfileDownLoad.aspx 文件读取漏洞",
+    "https://mp.weixin.qq.com/s/bGi5a_ZLKNMmrNaIwmDAFQ": "Cisco CUCM 任意文件写入到RCE：一条被低估的攻击链",
+    "https://mp.weixin.qq.com/s/cjKao6frX3v2JjmoZWMRjg": "任意文件读取&下载漏洞的全面解析及利用"
 }

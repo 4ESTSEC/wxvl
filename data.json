@@ -21451,5 +21451,8 @@
     "https://mp.weixin.qq.com/s/wNZgCl8G7V3S0RMvXyYjhg": "漏洞复现 | 天融信上网行为管理系统 pc.php 接口存在xss漏洞",
     "https://mp.weixin.qq.com/s/GyPRpnzp7jn5yZWpJJ637g": "【重磅上线】系统0day安全——主流企业防火墙漏洞挖掘",
     "https://mp.weixin.qq.com/s/DnqojdKDBdB4u7fOM53uYA": "探索CVE-2026-31431的热补丁修复方案",
-    "https://mp.weixin.qq.com/s/Bx1GqMx-29RSjEtRtL_lCg": "DirtyClone漏洞可致本地用户静默提权至root，绕过监控不留痕迹"
+    "https://mp.weixin.qq.com/s/Bx1GqMx-29RSjEtRtL_lCg": "DirtyClone漏洞可致本地用户静默提权至root，绕过监控不留痕迹",
+    "https://mp.weixin.qq.com/s/nqi-9yFYS-oWNEP1A0XOKg": "【安全圈】三星 Galaxy 手机被曝高危安全漏洞",
+    "https://mp.weixin.qq.com/s/-dVfp5G0RhMsPU95U-0bQQ": "某34国语言综合GP交易所存在前台SQL注入漏洞 (Java)",
+    "https://mp.weixin.qq.com/s/icBvY0qLBvHyrRncG_6ubw": "OAuth 2.0 身份验证漏洞--portswigger打靶"
 }

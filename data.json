@@ -21439,5 +21439,17 @@
     "https://mp.weixin.qq.com/s/eFJo2jC_jFcS4j3YkSKQug": "漏洞复现 | 天问物业ERP系统 docfileDownLoad.aspx 文件读取漏洞",
     "https://mp.weixin.qq.com/s/bGi5a_ZLKNMmrNaIwmDAFQ": "Cisco CUCM 任意文件写入到RCE：一条被低估的攻击链",
     "https://mp.weixin.qq.com/s/cjKao6frX3v2JjmoZWMRjg": "任意文件读取&下载漏洞的全面解析及利用",
-    "https://mp.weixin.qq.com/s/Q-Vxgm4rlcbUMSQcuMV9lw": "最新Linux的本地提权漏洞分析"
+    "https://mp.weixin.qq.com/s/Q-Vxgm4rlcbUMSQcuMV9lw": "最新Linux的本地提权漏洞分析",
+    "https://mp.weixin.qq.com/s/wtTS-qK3Yd8vg3Cj_pzF8A": "Lantronix工业设备高危漏洞遭在野利用，暴露OT设备补丁窗口期风险",
+    "https://mp.weixin.qq.com/s/wNDxXW1HFrVfYEUWFmf2HQ": "用 AI 自动完成渗透测试流程，从发现漏洞到利用漏洞一步到位",
+    "https://mp.weixin.qq.com/s/HbEIBTCoOElCd_18VfWO-Q": "自动化漏洞扫描器 -- hack_scanner",
+    "https://mp.weixin.qq.com/s/NIG9PDJ-DUKEV-hSHhaCwA": "JCE 编辑＜ 2.9.99.5 — 未认证远程代码执行（CVE-2026-48907）扫描器",
+    "https://mp.weixin.qq.com/s/pUt3tAli7UbQlmlSDVdR6w": "打开一个恶意仓库就能偷走你的云账号：Amazon Q 插件高危漏洞分析",
+    "https://mp.weixin.qq.com/s/al1TIUNMPJ6GZpVL1i5i2A": "小米：车联网-站在研发视角挖漏洞",
+    "https://mp.weixin.qq.com/s/zKBNTIsSQ8qbo0GYK2We9g": "单看都是中低危，组合起来却拿下严重漏洞？赏金猎人都在练的CORS+反射XSS组合拳",
+    "https://mp.weixin.qq.com/s/1NYrbMOPYlyFLQFqrJ8V_A": "AI是阿拉丁神灯？ AI漏洞挖掘系统上手教程！",
+    "https://mp.weixin.qq.com/s/wNZgCl8G7V3S0RMvXyYjhg": "漏洞复现 | 天融信上网行为管理系统 pc.php 接口存在xss漏洞",
+    "https://mp.weixin.qq.com/s/GyPRpnzp7jn5yZWpJJ637g": "【重磅上线】系统0day安全——主流企业防火墙漏洞挖掘",
+    "https://mp.weixin.qq.com/s/DnqojdKDBdB4u7fOM53uYA": "探索CVE-2026-31431的热补丁修复方案",
+    "https://mp.weixin.qq.com/s/Bx1GqMx-29RSjEtRtL_lCg": "DirtyClone漏洞可致本地用户静默提权至root，绕过监控不留痕迹"
 }

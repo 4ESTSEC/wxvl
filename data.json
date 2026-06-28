@@ -21454,5 +21454,7 @@
     "https://mp.weixin.qq.com/s/Bx1GqMx-29RSjEtRtL_lCg": "DirtyClone漏洞可致本地用户静默提权至root，绕过监控不留痕迹",
     "https://mp.weixin.qq.com/s/nqi-9yFYS-oWNEP1A0XOKg": "【安全圈】三星 Galaxy 手机被曝高危安全漏洞",
     "https://mp.weixin.qq.com/s/-dVfp5G0RhMsPU95U-0bQQ": "某34国语言综合GP交易所存在前台SQL注入漏洞 (Java)",
-    "https://mp.weixin.qq.com/s/icBvY0qLBvHyrRncG_6ubw": "OAuth 2.0 身份验证漏洞--portswigger打靶"
+    "https://mp.weixin.qq.com/s/icBvY0qLBvHyrRncG_6ubw": "OAuth 2.0 身份验证漏洞--portswigger打靶",
+    "https://mp.weixin.qq.com/s/TH8OoTUHHgUsmCZT7MDXtQ": "【我是如何在一个电商平台上发现一个高危IDOR漏洞的】",
+    "https://mp.weixin.qq.com/s/uuVbj65Lyk9DqZAbehW7Rg": "五月学员优秀edu漏洞挖掘案例分享"
 }

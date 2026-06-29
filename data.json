@@ -21457,5 +21457,19 @@
     "https://mp.weixin.qq.com/s/icBvY0qLBvHyrRncG_6ubw": "OAuth 2.0 身份验证漏洞--portswigger打靶",
     "https://mp.weixin.qq.com/s/TH8OoTUHHgUsmCZT7MDXtQ": "【我是如何在一个电商平台上发现一个高危IDOR漏洞的】",
     "https://mp.weixin.qq.com/s/uuVbj65Lyk9DqZAbehW7Rg": "五月学员优秀edu漏洞挖掘案例分享",
-    "https://mp.weixin.qq.com/s/8YovEBZq2VKNx4lRGfCccA": "一站式 dnslog 漏洞检测平台"
+    "https://mp.weixin.qq.com/s/8YovEBZq2VKNx4lRGfCccA": "一站式 dnslog 漏洞检测平台",
+    "https://mp.weixin.qq.com/s/GxqFW15BkR0VkzdvI4wQ1A": "蓝凌EIS智慧协同平台 Getmobiles 存在SQL注入漏洞",
+    "https://mp.weixin.qq.com/s/nuI8dhxZZB7TEF_2ll1rWg": "周鸿祎急了：AI挖漏洞时代来了，中国必须有自己的Mythos",
+    "https://mp.weixin.qq.com/s/8p6cbgnf4EtlobdCG9WKcw": "用AI检测“越权漏洞”，更快更灵！",
+    "https://mp.weixin.qq.com/s/L2Yj8iqgtIjJYTB1qd38BA": "【CVE-2026-43503】DirtyClone 本地用户通过克隆数据包获得 Root 权限",
+    "https://mp.weixin.qq.com/s/LoWuMtZzwi9BwO93BIW_kg": "旧漏洞，新规则：不用捷径拿下 CVE-2023-36802",
+    "https://mp.weixin.qq.com/s/TJQ5W9jsM2dEIaH2hO6yJg": "CVE-2026-48907 Scanner",
+    "https://mp.weixin.qq.com/s/7beSUH9PKgLLpWiYoEzwWg": "CVSS 10.0！Joomla内容编辑器JCE漏洞正被积极利用，GitHub公开扫描工具",
+    "https://mp.weixin.qq.com/s/bFVWWTVN9Tmw0kdILfa19w": "安全工具丨一款AI安全审计工具。可实现目标准备、审计、漏洞利用构建和执行验证等",
+    "https://mp.weixin.qq.com/s/KCAkSVibPDd0dEn2gtxg7Q": "蓝凌EIS智慧协同平台mobile_define.aspx∕Getmobiles接口存在SQL注入漏洞 附POC",
+    "https://mp.weixin.qq.com/s/HNhBj9K6YtkheqzBk326LA": "DirtyClone：六周内第四起 Linux 内核漏洞，可提权至 Root 权限",
+    "https://mp.weixin.qq.com/s/XiIUKO034OyeZqvp3Hot7A": "CVSS 10 分 Hoppscotch 批量赋值漏洞：服务器完全沦陷",
+    "https://mp.weixin.qq.com/s/gEE_xUhAQ1eOLWoPwI-jKw": "c-ares TCP Use-After-Free 漏洞深度解析：从 DNS 响应序列到本地 Calculator 代码执行 PoC",
+    "https://mp.weixin.qq.com/s/Sb_ySSfXpkbuEH-kJVolOg": "微信小游戏有漏洞？这个工具让你像调试网页一样透视小程序内部",
+    "https://mp.weixin.qq.com/s/foiC9AB5OoD6S4XY3pe5TQ": "【深度技术解析】objdump DLX 后端 Out-of-Bounds 写入导致的本地 ACE PoC 详解"
 }

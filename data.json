@@ -21487,5 +21487,6 @@
     "https://mp.weixin.qq.com/s/s-zmVtTIsXPSsgu973fyrg": "Github上有大哥公开多个0day PoC",
     "https://mp.weixin.qq.com/s/gJc5C53ba4idS9bI5ifGlQ": "2026攻防演练必修高危漏洞集合（2.0版）",
     "https://mp.weixin.qq.com/s/fyubodc5SwWNAtvElTdovA": "c-ares TCP Use-After-Free 漏洞深度解析：从 DNS 响应序列到本地 Calculator 代码执行 PoC",
-    "https://mp.weixin.qq.com/s/gTXk4wbHnKaiLyIHH_zMCg": "【已复现】漏洞通告 | Linux Kernel DirtyClone 本地权限提升漏洞(CVE-2026-43503)"
+    "https://mp.weixin.qq.com/s/gTXk4wbHnKaiLyIHH_zMCg": "【已复现】漏洞通告 | Linux Kernel DirtyClone 本地权限提升漏洞(CVE-2026-43503)",
+    "https://mp.weixin.qq.com/s/5N6vkJckrlk8XLmAYvE0qA": "攻击面管理系统｜AI 驱动资产测绘 + 万条 Nuclei 漏洞库，自动生成漏洞 EXP，内网公网一键扫描利用"
 }

@@ -21471,5 +21471,21 @@
     "https://mp.weixin.qq.com/s/XiIUKO034OyeZqvp3Hot7A": "CVSS 10 分 Hoppscotch 批量赋值漏洞：服务器完全沦陷",
     "https://mp.weixin.qq.com/s/gEE_xUhAQ1eOLWoPwI-jKw": "c-ares TCP Use-After-Free 漏洞深度解析：从 DNS 响应序列到本地 Calculator 代码执行 PoC",
     "https://mp.weixin.qq.com/s/Sb_ySSfXpkbuEH-kJVolOg": "微信小游戏有漏洞？这个工具让你像调试网页一样透视小程序内部",
-    "https://mp.weixin.qq.com/s/foiC9AB5OoD6S4XY3pe5TQ": "【深度技术解析】objdump DLX 后端 Out-of-Bounds 写入导致的本地 ACE PoC 详解"
+    "https://mp.weixin.qq.com/s/foiC9AB5OoD6S4XY3pe5TQ": "【深度技术解析】objdump DLX 后端 Out-of-Bounds 写入导致的本地 ACE PoC 详解",
+    "https://mp.weixin.qq.com/s/pCb0O2NUgWEUDx2r0x3h6Q": "Amp Code：通过提示注入实现任意命令执行",
+    "https://mp.weixin.qq.com/s/n0_vQovyEs0cPGTG0MRKPA": "2026攻防演练必修高危漏洞集合（2.0版）",
+    "https://mp.weixin.qq.com/s/0GEooIwnalbuKWgpv9eIqw": "【已复现】Linux Kernel DirtyClone 本地权限提升漏洞(CVE-2026-43503)安全风险通告",
+    "https://mp.weixin.qq.com/s/QOTc3Q1iige53JjtpvYCgA": "CVE-2026-40409 UDFS的整数截断漏洞分析",
+    "https://mp.weixin.qq.com/s/yzx7066f-PtaLy-2jdzOmw": "内网漏洞--NetNTLMv2泄露",
+    "https://mp.weixin.qq.com/s/Ku2uT0qeYawan026Yz3ukg": "美国恢复Claude Mythos 5部分权限，仅向关键基础设施开放；OpenAI发布GPT-5.6Sol：漏洞分析能力接近MythosPreview | 牛览",
+    "https://mp.weixin.qq.com/s/hBWz_UfaA76F5efiF0MRQA": "Firefox一个月用Mythos发现500个漏洞？真相来了",
+    "https://mp.weixin.qq.com/s/Z9n0BzA77wIVB7eC3ink1g": "【高危漏洞预警】Linux内核高危本地提权漏洞CVE-2026-43503（DirtyClone）",
+    "https://mp.weixin.qq.com/s/czp0n7Dx3n5STdj2tZQz9g": "Amazon 的AI编程助手高危漏洞可导致代码执行和敏感云环境访问",
+    "https://mp.weixin.qq.com/s/voZerzkRD8Kp8JZQJKWR1g": "DirtyClone: Linux 内核新漏洞，通过克隆的数据包获得根权限",
+    "https://mp.weixin.qq.com/s/vv7hNhkH0WiK-qB6a8Maxg": "从0到1渗透测试自动化挖到某SRC漏洞的个人心得",
+    "https://mp.weixin.qq.com/s/_awDBmo5hdsBrmpsCZkWaQ": "【深度技术解析】objdump DLX 后端 Out-of-Bounds 写入导致的本地 ACE PoC 详解",
+    "https://mp.weixin.qq.com/s/s-zmVtTIsXPSsgu973fyrg": "Github上有大哥公开多个0day PoC",
+    "https://mp.weixin.qq.com/s/gJc5C53ba4idS9bI5ifGlQ": "2026攻防演练必修高危漏洞集合（2.0版）",
+    "https://mp.weixin.qq.com/s/fyubodc5SwWNAtvElTdovA": "c-ares TCP Use-After-Free 漏洞深度解析：从 DNS 响应序列到本地 Calculator 代码执行 PoC",
+    "https://mp.weixin.qq.com/s/gTXk4wbHnKaiLyIHH_zMCg": "【已复现】漏洞通告 | Linux Kernel DirtyClone 本地权限提升漏洞(CVE-2026-43503)"
 }

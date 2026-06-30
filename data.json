@@ -21488,5 +21488,20 @@
     "https://mp.weixin.qq.com/s/gJc5C53ba4idS9bI5ifGlQ": "2026攻防演练必修高危漏洞集合（2.0版）",
     "https://mp.weixin.qq.com/s/fyubodc5SwWNAtvElTdovA": "c-ares TCP Use-After-Free 漏洞深度解析：从 DNS 响应序列到本地 Calculator 代码执行 PoC",
     "https://mp.weixin.qq.com/s/gTXk4wbHnKaiLyIHH_zMCg": "【已复现】漏洞通告 | Linux Kernel DirtyClone 本地权限提升漏洞(CVE-2026-43503)",
-    "https://mp.weixin.qq.com/s/5N6vkJckrlk8XLmAYvE0qA": "攻击面管理系统｜AI 驱动资产测绘 + 万条 Nuclei 漏洞库，自动生成漏洞 EXP，内网公网一键扫描利用"
+    "https://mp.weixin.qq.com/s/5N6vkJckrlk8XLmAYvE0qA": "攻击面管理系统｜AI 驱动资产测绘 + 万条 Nuclei 漏洞库，自动生成漏洞 EXP，内网公网一键扫描利用",
+    "https://mp.weixin.qq.com/s/JGZFa5JSrcjjpBpl7KCD-w": "AI彻底改写漏洞攻防：N日漏洞变N小时，企业传统防御已全面失效",
+    "https://mp.weixin.qq.com/s/BoddBQjCcWeyrWyRzYUOxw": "2026HW必修高危漏洞集合2.0",
+    "https://mp.weixin.qq.com/s/hDCLKEloertyO56QYCgiAA": "安全工具丨一款本地离线可用的可视化渗透测试与漏洞挖掘平台",
+    "https://mp.weixin.qq.com/s/BVUDCEwV1c7XQiRbVwF-0w": "CVE-2026-43503 DirtyClone Linux提权漏洞报告",
+    "https://mp.weixin.qq.com/s/Dyx7aksG3wNBawrAV-74jA": "2026攻防演练必修高危漏洞集合（更新）",
+    "https://mp.weixin.qq.com/s/UvHN_ETX7QI0cJ8pXgPGXg": "FOG getfiles.php 任意文件读取漏洞",
+    "https://mp.weixin.qq.com/s/trKsvjYuHl8e9ACUCMlb8Q": "开源企业级主机与容器安全管理平台 | 安全基线、资产管理、漏洞扫描、病毒查杀、EDR 检测与合规审计",
+    "https://mp.weixin.qq.com/s/Lx7gx8xgxGwPshdSA7L97Q": "已入职宇树网络安全岗，这点面试真的水∕网安挖漏洞，日入两千六有多爽,一篇总结所有平台...",
+    "https://mp.weixin.qq.com/s/Bn5UrkFqkvHZD0MaPWpa1Q": "2026攻防演练必修高危漏洞集合（2.0版）",
+    "https://mp.weixin.qq.com/s/CdDIutoSqe9FE3HekP5jBA": "成为CNNVD漏洞库支撑单位，助力网络安全！申请全流程解读，专业团队助您高效通过",
+    "https://mp.weixin.qq.com/s/lm-AEYvdMrsQNRNo3DO7QA": "漏洞预警 | libssh2整数溢出漏洞",
+    "https://mp.weixin.qq.com/s/XF_KDYslbjzpdanq_jhqmQ": "漏洞预警 | 孚盟云SQL注入漏洞",
+    "https://mp.weixin.qq.com/s/G4JXqTu1wHpBVw-PMW_vCQ": "【热点安全风险】6月30日 | 继DirtyFrag后又一Dirty系列漏洞：DirtyClone（CVE-2026-43503） Linux内核提权漏洞需重点关注",
+    "https://mp.weixin.qq.com/s/JXbjJjLgAPxlAC8hsPS0nw": "CNVD漏洞周报2026年第25期",
+    "https://mp.weixin.qq.com/s/EdMbFdaDhmEDx4zJTg06nA": "针对 RHEL 10 上 IPV6_FRAG_ESCAPE 漏洞的公开 PoC 与利用细节已发布"
 }

@@ -1,6 +1,6 @@
 #  漏洞预警 | 孚盟云SQL注入漏洞  
 浅安
-                    浅安  浅安安全   2026-06-22 23:50  
+                    浅安  浅安安全   2026-06-30 00:00  
   
 **0x00 漏洞编号**  
 - # 暂无  
@@ -24,7 +24,7 @@ SQL注入
   
 **简述：**  
 孚盟云的  
-/m/Dingding/Product/ProductDetail.aspx  
+/m/Dingding/Provider/ProviderList.aspx  
 接口存在SQL注入漏洞，未经验证的攻击者可通过该漏洞获取数据库敏感信息。  
   
 **0x04 影响版本**  

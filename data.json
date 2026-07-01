@@ -21527,5 +21527,19 @@
     "https://mp.weixin.qq.com/s/LUbinjXR0NLTUxkU8Tg_vw": "AI赋能挖掘&&某小程序任意用户登录漏洞",
     "https://mp.weixin.qq.com/s/rsp2Iyk7e63iyZP9dqVGIg": "Oracle E-Business Suite 漏洞 CVE-2026-46817 已被积极利用",
     "https://mp.weixin.qq.com/s/3Jn1y65JhrygfAu5nOGqgw": "【高危漏洞预警】CVE-2026-52813｜Gogs路径遍历+Git钩子组合RCE",
-    "https://mp.weixin.qq.com/s/xafOq2_btzgEL-cxht5haQ": "新版App应用漏洞扫描，企业级移动安全合规利器，多维检测隐私泄露、权限滥用、高危API调用等常见APP安全隐患"
+    "https://mp.weixin.qq.com/s/xafOq2_btzgEL-cxht5haQ": "新版App应用漏洞扫描，企业级移动安全合规利器，多维检测隐私泄露、权限滥用、高危API调用等常见APP安全隐患",
+    "https://mp.weixin.qq.com/s/CbcIZ-kB3CgjFiZoJHsYPg": "借助人工智能工具，苹果修复了 iOS 与 macOS 系统中的多项 WebKit 漏洞",
+    "https://mp.weixin.qq.com/s/vYtdRsCLrYh2H3OpVEIyWA": "攻击者正在积极利用 Oracle 电子商务套件漏洞 CVE-2026-46817",
+    "https://mp.weixin.qq.com/s/kHGlN_K1cVmh-0mvjc8wIg": "Kemp LoadMaster 高危漏洞有 PoC：负载均衡器不是透明设备，它也是边界资产",
+    "https://mp.weixin.qq.com/s/1V94HCwd8kEqUqKoOqQLJQ": "7月1日高危CVE漏洞速报",
+    "https://mp.weixin.qq.com/s/1-zGhCv6ymjQg9QrlJJ1GA": "ARL-Next 灯塔二开版 | 企业级自动化资产侦察与漏洞监控“灯塔”",
+    "https://mp.weixin.qq.com/s/KvrGSCWoqh4POGJByUXWvA": "漏洞通告|Google Chrome Autofill内存错误引用漏洞(CVE-2026-13038)",
+    "https://mp.weixin.qq.com/s/5NcmIZG3XCQ70ixIme8I2Q": "Langflow RCE 被挖矿活动利用：AI 应用上云，别把调试入口也一起暴露了",
+    "https://mp.weixin.qq.com/s/sCcDHzouVSVNWLcoND_kJg": "BlueHammer 被勒索团伙盯上：安全软件漏洞，也会变成攻击入口",
+    "https://mp.weixin.qq.com/s/gn2kKJaaCoOoYenoWC6-9w": "深信服运维安全管理系统 portal_login 命令执行漏洞",
+    "https://mp.weixin.qq.com/s/CqRyqpnw0RrY2QKTpdn3ZA": "【CVE-2026-6307】一石二鸟， Chrome V8 沙箱逃逸漏洞深度解析",
+    "https://mp.weixin.qq.com/s/TkqL_M3jQX8cQ5wVyz2g3g": "企业技术，壳破而入：Kemp LoadMaster 未初始化堆漏洞分析",
+    "https://mp.weixin.qq.com/s/Lrw3uNkg0kvckjxAezz2YA": "紧急提醒：JCE Editor 未授权访问漏洞已致多站点失陷（CVE-2026-48907）",
+    "https://mp.weixin.qq.com/s/CAo_YwLi--mgzrum9I6qAQ": "Discuz! X5.0 认证绕过漏洞复现",
+    "https://mp.weixin.qq.com/s/eN-WDkUWHblObvoIfHtNYw": "【AI安全】从0到1渗透测试自动化挖到某SRC漏洞的个人心得"
 }

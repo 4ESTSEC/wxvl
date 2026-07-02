@@ -21559,5 +21559,22 @@
     "https://mp.weixin.qq.com/s/EUvgPLzwwHiJ09wCs0Eb0w": "【成功复现】Linux内核Socket Buffer本地提权漏洞(CVE-2026-43503)",
     "https://mp.weixin.qq.com/s/bsrVm_Tv81rlkN9wiBCIeg": "护网实战：漏洞修不好，网站不能关，杀毒扫不掉？用“秒删”脚本硬刚Webshell",
     "https://mp.weixin.qq.com/s/l5do18gRhpna2YNscIaVhQ": "AI赋能挖掘&&某edusrc小程序任意用户登录漏洞",
-    "https://mp.weixin.qq.com/s/3oOBtE_VB9S3Ag-ZNAdOSw": "硬核技术流： 评分9.2！教科书级的整数溢出：深度剖析 libssh2 最新严重漏洞（CVE-2026-55200）"
+    "https://mp.weixin.qq.com/s/3oOBtE_VB9S3Ag-ZNAdOSw": "硬核技术流： 评分9.2！教科书级的整数溢出：深度剖析 libssh2 最新严重漏洞（CVE-2026-55200）",
+    "https://mp.weixin.qq.com/s/0Kt_FKwk9Ud2BIfwCoLR6Q": "GuardFall 漏洞波及 11 款主流开源 AI 智能体中的 10 款",
+    "https://mp.weixin.qq.com/s/J5V7q5ZUsjfCVe9ziwVg9Q": "libseccomp 修复数个漏洞，可导致绕过seccomp限制",
+    "https://mp.weixin.qq.com/s/qQ824pHMgSUKcqMbldUKxQ": "CVE-2026-6307：V8 JS 到 Wasm 的类型混淆 → Chrome 146 上的远程代码执行漏洞",
+    "https://mp.weixin.qq.com/s/_fVJJ8ExSnv6_MO3eq1tyQ": "NTLM反射漏洞拿Windows Server SYSTEM权限，CVE-2025-33073剖析",
+    "https://mp.weixin.qq.com/s/aR8cT7sIsD91lAqtJzeMUw": "DDDD_Viewer - dddd漏洞扫描工具可视化辅助工具",
+    "https://mp.weixin.qq.com/s/GY0fozsQSlZWgkmOah88hw": "CISA警告：SimpleHelp身份验证绕过漏洞已被攻击者利用",
+    "https://mp.weixin.qq.com/s/2yd3bxHbM56uuMCw1vGVNw": "自动化漏洞修复详解：验证体系、PoC证据与可信补丁评估",
+    "https://mp.weixin.qq.com/s/qEs9AgNBNUI1rIELX9Vj-w": "CitrixBleed 到无限远：Citrix NetScaler 又爆内存越界读取（CVE-2026-8451）",
+    "https://mp.weixin.qq.com/s/cL3djMD7CyQc2_YQ8_HTLg": "Cursor 高危漏洞可通过提示注入突破沙箱并执行系统命令",
+    "https://mp.weixin.qq.com/s/_Si0oPJ0lyKRSUXPmzZRNw": "漏洞赏金喜报：“大雪深埋”拿下中危，450到手",
+    "https://mp.weixin.qq.com/s/kMgX9WKE-dqw85WCK4wQvg": "我与edu的爱恨情仇之正方系统逻辑漏洞导致高危敏感信息泄露",
+    "https://mp.weixin.qq.com/s/4gTnTHIgU8f4MuaLDNev2g": "Citrix(思杰)发布 NetScaler 六款漏洞补丁，漏洞可实现文件读取与拒绝服务攻击",
+    "https://mp.weixin.qq.com/s/5J9fcHkgeZAJxZxSINyLjw": "Cursor IDE 远程代码执行漏洞允许零点击注入提示符",
+    "https://mp.weixin.qq.com/s/yZD9RGtDhQdwghU7Jwx5Yw": "7月社区投稿活动 | 漏洞挖掘∕AI渗透",
+    "https://mp.weixin.qq.com/s/28Wpu4N7TWmhP5MKgveoGQ": "JetBrains 发布补丁，修复影响 1500 万开发者的 CVSS 满分（10）身份验证绕过漏洞",
+    "https://mp.weixin.qq.com/s/vsF_9d6RGuyhEs9arqOICw": "7天挖出30个真实CVE！国产开源AI漏洞挖掘平台打出硬核实战战绩",
+    "https://mp.weixin.qq.com/s/213u7JnGhDS6QeGNzqsMTw": "Adobe 发布补丁修复 ColdFusion 与 Campaign Classic 中 7 个 CVSS 满分 10.0 级高危漏洞"
 }

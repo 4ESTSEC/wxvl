@@ -21613,5 +21613,9 @@
     "https://mp.weixin.qq.com/s/R3D8BFUVxH6ph3ZW__ZZwg": "星球更新：一条 pre-auth 0day 链，从 XSS 到终端 RCE",
     "https://mp.weixin.qq.com/s/eQNzdFwf_TAahjeCWBzbfQ": "容器隔离的底层防线正在失效？NDSS 2026论文拆解云原生最隐蔽的同步漏洞",
     "https://mp.weixin.qq.com/s/0mQcoUGa_IL4s6D_eJMVww": "Adobe ColdFusion 多个漏洞细节已公开，可导致远程代码执行",
-    "https://mp.weixin.qq.com/s/XtR710ZEj7TYzuEyr3y91w": "Win32k回调绕道：滥用合法的内核到用户回调分发进行代码执行"
+    "https://mp.weixin.qq.com/s/XtR710ZEj7TYzuEyr3y91w": "Win32k回调绕道：滥用合法的内核到用户回调分发进行代码执行",
+    "https://mp.weixin.qq.com/s/ikzBT0BpPap4weQnDKCsKg": "安全热点周报：SimpleHelp 高危漏洞遭恶意利用，新型窃取木马借机投放",
+    "https://mp.weixin.qq.com/s/ajj-jgIxb9QIViikNIK9Hw": "【已复现】Adobe ColdFusion 路径穿越漏洞(CVE-2026-48282)安全风险通告",
+    "https://mp.weixin.qq.com/s/kA9sgBnLcko08dWljqAcgg": "【全网首发】Weax与Sorry勒索病毒席卷全国中小企业，深度还原全链路攻击，疑似黑客利用AI挖掘管家婆0day漏洞",
+    "https://mp.weixin.qq.com/s/g9NUfMN9f2yOB2GWU-ZvvQ": "信息安全漏洞预警（2026年6月29日-2026年7月3日）"
 }

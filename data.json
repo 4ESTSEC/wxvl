@@ -21675,5 +21675,12 @@
     "https://mp.weixin.qq.com/s/42w7SwtURg97zUnpn2mrxQ": "最新 Linux 内核提权漏洞，获得八万美金，潜伏 19 年+",
     "https://mp.weixin.qq.com/s/Yy_snYvM81v1Vpw81ljMVQ": "AI 大幅拉低漏洞挖掘门槛，开源安全守夜人该如何突围？",
     "https://mp.weixin.qq.com/s/fyLZ3buRopnXxKLcxV1Aag": "【已复现】漏洞通告 | phpBB认证绕过漏洞(CVE-2026-48611)",
-    "https://mp.weixin.qq.com/s/H0VcYf0mY6mgf7-C0Fuorw": "微软Edge漏洞可致攻击者远程执行任意代码"
+    "https://mp.weixin.qq.com/s/H0VcYf0mY6mgf7-C0Fuorw": "微软Edge漏洞可致攻击者远程执行任意代码",
+    "https://mp.weixin.qq.com/s/h__oS3_urFF3uKcCpj-W4Q": "BeyondTrust 修复了远程支持和 PRA 中的关键身份验证绕过漏洞",
+    "https://mp.weixin.qq.com/s/XQhgWbZyhgpkKulRm6owzQ": "6月必修漏洞清单：涵盖Gogs、Vite等多组件高危漏洞，务必速查",
+    "https://mp.weixin.qq.com/s/uPtv1Tz2__9fB9P4-xjzYg": "【已复现】Linux FUSE page cache 本地权限提升漏洞(CVE-2026-31694)安全风险通告",
+    "https://mp.weixin.qq.com/s/D2m2ZOz9MNtRLIB35DMb7Q": "【代码审计】客户端漏洞之未授权文件上传+dll劫持实现命令执行rce",
+    "https://mp.weixin.qq.com/s/i3fP0yOiJ4_VwLOuWLc_CA": "工具 | ARL灯塔 二开重构版本 自动化资产发现和漏洞监控平台",
+    "https://mp.weixin.qq.com/s/laspFRAYA4OmgojN86YGkQ": "AI会扼杀漏洞赏金产业吗？",
+    "https://mp.weixin.qq.com/s/8z3EhwgnTyTj6Hkq8dDNCQ": "【已复现】Linux FUSE page cache 越界写本地提权漏洞"
 }

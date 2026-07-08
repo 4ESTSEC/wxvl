@@ -21685,5 +21685,17 @@
     "https://mp.weixin.qq.com/s/8z3EhwgnTyTj6Hkq8dDNCQ": "【已复现】Linux FUSE page cache 越界写本地提权漏洞",
     "https://mp.weixin.qq.com/s/jPnioOdeII6xTJkpkXwImQ": "我的PDF分析助手成了内网跳板：WorkBuddy插件SSRF漏洞复盘，顺便送10套企业版给兄弟们",
     "https://mp.weixin.qq.com/s/hB1ujYgFqht99IutS_u3jQ": "工具推荐 | AutoCVE - 一键挖掘 CVE，筛项目、审源码、验漏洞、出报告，全流程自动化",
-    "https://mp.weixin.qq.com/s/schLREA8vWhc3deI7Pa2Fg": "T3MP3ST——ai安全元工具（agent自动化找漏洞）"
+    "https://mp.weixin.qq.com/s/schLREA8vWhc3deI7Pa2Fg": "T3MP3ST——ai安全元工具（agent自动化找漏洞）",
+    "https://mp.weixin.qq.com/s/bmxXGrXQYGO0Y6Z8Ff8GuQ": "得到$23000赏金的挖漏洞过程",
+    "https://mp.weixin.qq.com/s/R4fpQzyEgO7e_IU7RdtUcQ": "高危预警：Linux内核“Bad Epoll”漏洞（CVE-2026-46242）允许本地用户一键提权至Root(影响Linux 6.4+与Android的本地提权漏洞)",
+    "https://mp.weixin.qq.com/s/hlDVe8sqZANVkhyBrV-g5g": "【热点安全风险】7月8日 |BeyondTrust RS∕PRA修复多项漏洞、Gitea Docker镜像CVE-2026-20896出现探测",
+    "https://mp.weixin.qq.com/s/usom_x30ugOFM9LbiUwBAg": "漏洞通告|Huawei HarmonyOS IPC模块竞争条件漏洞(CVE-2026-41982)",
+    "https://mp.weixin.qq.com/s/RxBW807IwVO2BUviAPQsWQ": "正在被恶意利用的 Gitea 容器高危漏洞，可泄露代码仓库与密钥",
+    "https://mp.weixin.qq.com/s/4w4jlmqlF-4f4JIdOR1yMQ": "新型“Bad Epoll”零日漏洞允许攻击者获取Linux服务器和安卓设备的root权限",
+    "https://mp.weixin.qq.com/s/foMleOiYvmBA-d3hq8ks_g": "大象要一口一口吃：PHP PDO扩展中的NUL字节SQL注入与空指针解引用漏洞",
+    "https://mp.weixin.qq.com/s/w20ssr3O7Uvo9QOw4P1m3Q": "用友时空KSOA popedom SQL 注入漏洞",
+    "https://mp.weixin.qq.com/s/OFokLPFwqsWcVfUZHYH_RQ": "MapTilerTileserver 反射xss漏洞(CVE-2025-44136)",
+    "https://mp.weixin.qq.com/s/3DZjdpJhCPZ_6Pt9NvhXnw": "最高罚全球营收 2.5%！做欧盟 CRA 上报，漏洞线索去哪找？全渠道整理好了",
+    "https://mp.weixin.qq.com/s/bAfsWIuRhVac2SmgUvxOlA": "7月8日高危CVE漏洞速报",
+    "https://mp.weixin.qq.com/s/8MJTJS-aCetEZEfJIZ5KIA": "CISA被曝部署Mythos扫描联邦代码库，已发现大量漏洞"
 }

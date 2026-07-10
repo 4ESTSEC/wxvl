@@ -21725,5 +21725,15 @@
     "https://mp.weixin.qq.com/s/0W37yYHwlsnqdeK3OD85KA": "SharePoint远程代码执行漏洞PoC及技术细节公开",
     "https://mp.weixin.qq.com/s/CIKNm78KOXbfkO_aXCcgIg": "【已复现】用友U8cloud XChangeServlet SQL注入漏洞(QVD-2026-38848)安全风险通告",
     "https://mp.weixin.qq.com/s/7qFQN--jUsZzd8vQswXS0g": "零日漏洞引爆电信运营商千万级数据泄露事件",
-    "https://mp.weixin.qq.com/s/f42pOrBBl7Ft8zmjw-OkZw": "首个一键式Android 17漏洞利用链可使攻击者完全控制手机"
+    "https://mp.weixin.qq.com/s/f42pOrBBl7Ft8zmjw-OkZw": "首个一键式Android 17漏洞利用链可使攻击者完全控制手机",
+    "https://mp.weixin.qq.com/s/hRtyUrP23BiNQld_lqL5KQ": "微软修复 Windows Defender RoguePlanet 漏洞 CVE-2026-50656",
+    "https://mp.weixin.qq.com/s/GSbyHVCqWu9c9fQJc1Kwmw": "CVE复现 | CVE-2026-31816漏洞复现",
+    "https://mp.weixin.qq.com/s/2OBKAihOEfR0x59zx8GUcw": "西软云XMS download2 任意文件读取漏洞",
+    "https://mp.weixin.qq.com/s/kXLAXtk5kuVEbXSrnjptDg": "【热点安全风险】7月10日 |Google发布Chrome更新，修复27个安全漏洞，包含多个常用组件中的Critical级别漏洞",
+    "https://mp.weixin.qq.com/s/ddprXb52aj7Oc56ojj874g": "当漏洞猎人成了猎物：ChocoPoC 木马借假 PoC 仓库精准攻陷安全研究员",
+    "https://mp.weixin.qq.com/s/nkL1RyUnL0bkiFucu216Pw": "漏洞复现 | OpenCode content 接口任意文件读取漏洞",
+    "https://mp.weixin.qq.com/s/AIVaiUG0iVkSba7UB9rXpA": "【CVE-2026-46215】通过 DRM GEM change_handle 中的UAF功能获得ROOT权限",
+    "https://mp.weixin.qq.com/s/dfei6JgD1QkIjZ7TjTYPVQ": "锐明技术Crocus系统 DeviceFileUpload 任意文件读取漏洞",
+    "https://mp.weixin.qq.com/s/a90b7amdDn_rnyA5cor9Qg": "安全工具丨多功能Web漏洞扫描器，支持80项漏洞自动检测！",
+    "https://mp.weixin.qq.com/s/fbSUAP4M3QwhivkmmovTHA": "OPNsense Root RCE 漏洞(CVE-2026-57155，CVSS 9.9) PoC已公开，建议立即升级！"
 }

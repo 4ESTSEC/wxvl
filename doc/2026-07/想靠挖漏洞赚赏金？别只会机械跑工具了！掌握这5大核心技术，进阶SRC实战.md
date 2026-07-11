@@ -1,19 +1,13 @@
 #  想靠挖漏洞赚赏金？别只会机械跑工具了！掌握这5大核心技术，进阶SRC实战  
-原创 周小粥
-                    周小粥  周小粥讲安全   2026-07-09 10:30  
-  
-**关注**  
-👆🏻公众号→回复“**1**  
-”自取  
-0基础攻防教程  
+ 沧海讲安全   2026-07-10 09:27  
   
 刚入行网络安全的时候，我相信很多人都会遇到一个尴尬的瓶颈：工具装了一大堆，扫描器跑了一整晚，结果除了几个无关痛痒的误报之外，啥也没挖到。  
   
-![我有个疑惑,就是喜欢我的人我就不喜欢,不喜欢我的人我就觉得高冷我](https://mmbiz.qpic.cn/mmbiz_jpg/CsKJlMFPH9QNEWhbBJhr0CEuXMP2OE0p9TMZnlHjuWkRPcAjUzdxO2AeHqcsKg0Mdd830IIOlogAic867FkBq2WlMHe5l45RsAgM07vibDicvw/640?wx_fmt=webp&from=appmsg "")  
+![我有个疑惑,就是喜欢我的人我就不喜欢,不喜欢我的人我就觉得高冷我](https://mmbiz.qpic.cn/sz_mmbiz_jpg/CsKJlMFPH9Rb8vJvibddJ30RuB4T3jtibxGjrnXgQ99n3ll2OicQamVs86RGZ58EGsXq20mQkPDJ143n9b4RHLAs8FevEgchZoT5PNLSbJhZicE/640?wx_fmt=webp&from=appmsg&watermark=1&tp=webp&wxfrom=5&wx_lazy=1#imgIndex=0 "")  
   
 要是想真正挖到高质量的漏洞并赚到赏金，  
   
-![](https://mmbiz.qpic.cn/mmbiz_jpg/CsKJlMFPH9Q5hkvF9MjsDhAzYHuSCx1kpgce2Uzweby2U4icoVSduKrgugqKSAyvMLGUPiaW9yTibEpO7auKmMbWkEGhs2KtvvsPseKO38cbfI/640?wx_fmt=jpeg "")  
+![图片](https://mmbiz.qpic.cn/mmbiz_jpg/CsKJlMFPH9SCR7aUiciaMUdc9T4FPHPE0hFUrBaBWedB9fVxGAvOibjx70fWolBLTjuJ72q3wzH3ibffuCEU929w5VHiazKAKxM9zBEWjLMvcco8/640?wx_fmt=jpeg&watermark=1&tp=webp&wxfrom=5&wx_lazy=1#imgIndex=1 "")  
   
 光靠机械地跑工具是远远不够的，你得有一套自己的实战打法，今天咱们就来聊聊实战中最常用的  
 五大漏洞挖掘技术  
@@ -37,7 +31,7 @@
   
 你可以把它理解为给程序进行“极限压力测试”。它的核心原理是自动化生成海量的畸形输入，看目标程序会不会崩溃或报出内存错误。  
   
-![](https://mmbiz.qpic.cn/mmbiz_jpg/CsKJlMFPH9R6D1iaOYq8FEyTCBmJYnO8lia6d5jwSF7y4liaBAUssziaLJBf7eWXYDxRcHGI5t6icqGAu52Yt0ssbD2JNZRmCeefJdQL3IUibJvJE/640?wx_fmt=other&from=appmsg "")  
+![图片](https://mmbiz.qpic.cn/sz_mmbiz_jpg/CsKJlMFPH9TdQ8OvwAnhd1OLkGWHhpDFibKzRps30IkYMugKpebRoM756af5IKLLxH918mxrbhibwfTGbjIczUYI2siabZyc2VeAVFpDIGnFJc/640?wx_fmt=other&from=appmsg&watermark=1&tp=webp&wxfrom=5&wx_lazy=1#imgIndex=3 "")  
   
 根据掌握信息的程度，它分为两类：  
 - 黑盒模糊测试  
@@ -55,12 +49,12 @@
 - 识别隐藏风险  
 ：在逆向过程中，不仅能识别出程序内部隐藏的加密算法和私有通信协议，甚至能揪出开发者留下的后门。  
   
-![](https://mmbiz.qpic.cn/sz_mmbiz_jpg/CsKJlMFPH9QiaptltIQSiaibKcfXSHg4sdFxWicOMQkbCibdNbyABFbzXNuu0rYnsOCEuE1UcTwmeoDBKgWvP3Kdd6OxrwibjmmdrwTyHjJOeW3h4/640?wx_fmt=jpeg "")  
+![图片](https://mmbiz.qpic.cn/mmbiz_jpg/CsKJlMFPH9TyuWEYYRtr3uIkzXqibNkeKcDyOy1Mv0BIO99qCF2809iakJj5oMhuTORxfxezAIU1NCia3ibYKhD7NYg3cKzuFQhNYKvibNg1OD9U/640?wx_fmt=jpeg&watermark=1&tp=webp&wxfrom=5&wx_lazy=1#imgIndex=4 "")  
 ### 四、协议/接口分析  
   
 这是Web渗透中最常用的手段。通过抓包工具（如Burp Suite、Wireshark）拦截并分析网络流量，或者研究API文档，来寻找系统的破绽。  
   
-![](https://mmbiz.qpic.cn/mmbiz_png/CsKJlMFPH9TGJ20oV4KwIEbibOjc0niaommZf7anBWK6m8BXbpJfICLpY9GD74Yq1ic2M4zRKju560Yokf16gBicZvFXS0PB8F4CmysicjV6lia64/640?wx_fmt=png&from=appmsg "")  
+![图片](https://mmbiz.qpic.cn/mmbiz_png/CsKJlMFPH9SxibF1jwjmJTJU9AniaXpQicvM6K3Vx2vJdEsZw4b6N0jvLJz13hfqQFyASFjNo9wneZjlTqsG9KEPRkN5oB2IY02qQwrwTAoAus/640?wx_fmt=png&from=appmsg&watermark=1&tp=webp&wxfrom=5&wx_lazy=1#imgIndex=5 "")  
   
 （BurpSuite抓包实操参考图）  
   
@@ -80,7 +74,7 @@
 - 固件解包分析  
 ：通过固件分析工具（如Binwalk）解包分析物联网设备固件，防范固件篡改或中间人劫持风险。  
   
-![](https://mmbiz.qpic.cn/mmbiz_png/CsKJlMFPH9SKaxZkJLzHrvY2ClFLOxx37sOibhJtSqBeXApqPaicnNW11WHiawTdWhbquEsFoFpPIFQDslKU7SLickoMiaR6UOjTESlRczYsqpts/640?wx_fmt=png&from=appmsg "")  
+![图片](https://mmbiz.qpic.cn/mmbiz_png/CsKJlMFPH9SbFKutXicXjW2MhSv2G5vyWMkzGpc1iacvSxN4HUnfstiauMEcKWXiaM434Hy4ibzfHSDAbKkcJVO6XCAxO9ZOuLPNLDQPYFhEET6w/640?wx_fmt=png&from=appmsg&watermark=1&tp=webp&wxfrom=5&wx_lazy=1#imgIndex=7 "")  
   
 除了这五大主流技术，漏洞挖掘的武器库里还有“  
 补丁差异分析  
@@ -94,162 +88,76 @@
   
 说实话，新手前期想挖出高危漏洞难度很大，所以不用好高骛远，先稳定拿下中低危漏洞才是王道。各大src平台的赏金规则都很透明：一个低危一般50到200不等，一个中危200-1000不等，要是手气好碰上个高危，那都是上千起步，等你熟练之后，每月稳定挖个三四千都是很普遍的水平。  
   
-![](https://mmbiz.qpic.cn/sz_mmbiz_jpg/CsKJlMFPH9SIho5WH6CKnKSws3GP2s4Oh3f9FMUYno3Iz8ic6L9b3WITK8Rm5ztkSygrsDwx0suGJV9UdJ8OMryXDZm146WToMTibUaB3ibKibs/640?wx_fmt=jpeg "")  
+![图片](https://mmbiz.qpic.cn/sz_mmbiz_jpg/CsKJlMFPH9RT4HffianGPBrpaaaOiagq3e8u4gK1oramjfe2lFsuRFR4DiaVRcs84Yklx4Kicyz4O7ympwyBeHP4W47Wxruu4WoKNJx0rGCiaJLc/640?wx_fmt=jpeg&watermark=1&tp=webp&wxfrom=5&wx_lazy=1#imgIndex=8 "")  
   
 同时，请务必牢记：在进行任何测试时，必须严格遵守《网络安全法》等相关法律法规，坚守法律与道德的底线，做一名遵纪守法的白帽子。  
   
+「最后」如果你真的想学好一门本事，首先就要考虑自己对这门技术的兴趣，没有天赋还能靠时间和努力去弥补，但如果没有兴趣加持，就很难坚持到最后。你要是正打算尝试网安或者想努力一次，我把这些年用过的视频教程和学习笔记都梳理出来了，现在都无偿分享给大家，需要的找我拿就行（文末自取）。现在哪个行业都不好走，如果没有学历也没有天赋，那就只有努力和坚持了，请相信相信的力量，共勉！  
   
-### 「最后」  
-  
-如果你真的想学好一门本事，首先就要考虑自己对这门技术的兴趣，没有天赋还能靠时间和努力去弥补，但如果没有兴趣加持，就很难坚持到最后。  
-  
-你要是正打算尝试网安或者想努力一次，我把这些年用过的视频教程和学习笔记都梳理出来了，现在都无偿分享给大家，需要的找我拿就行（文末自取）。  
-  
-现在哪个行业都不好走，如果没有学历也没有天赋，那就只有努力和坚持了，请相信相信的力量，共勉！  
-  
-如果你还需要其他学习思路可以去看一下我的往期文章：  
-  
-[0基础该如何转行网络安全？值得吗？](http://mp.weixin.qq.com/s?__biz=MzkzODU5MTkyNQ==&mid=2247484313&idx=1&sn=e62e92639b5b1577ad802a3129f11ad0&chksm=c2fc9043f58b195548dd0009fdf1fdeccd2b3bd68e144ae4a42c78bde7d5ead281c2a53f8287&scene=21#wechat_redirect)  
-  
-  
-[【工具/案例篇】神仙级渗透测试入门教程(非常详细)，从零基础入门到精通](http://mp.weixin.qq.com/s?__biz=MzkzODU5MTkyNQ==&mid=2247484278&idx=1&sn=2475864a18fd158f1100b0d7e3dd33e3&chksm=c2fc90acf58b19ba8bfe9f656831d79ceb6529807de784998bc2b0afe2fa40f0b5361521b298&scene=21#wechat_redirect)  
-  
-  
-[网络安全自学（超详细）：从入门到精通学习路线&规划，学完即可就业](http://mp.weixin.qq.com/s?__biz=MzkzODU5MTkyNQ==&mid=2247484267&idx=1&sn=2e6844ce1608081cee498900169e3e7b&chksm=c2fc90b1f58b19a7eb633cfe7e082652d2adac80e2a815100762b531691baa759fc5560577d9&scene=21#wechat_redirect)  
+**沧海专属黑客/网络攻防技术资料**  
   
   
   
-**周小粥专属网络攻防技术资料**  
-  
-  
-  
-@网络安全-周小粥：  
+@沧海讲安全：  
 在安全圈待了十多年，已经积累了很多的技术教程，在计算机这个行业，如果不会主动学习，手里没点学习资料，注定是走不远的。我整理的这些资料包含了市场上主流的攻防技术，不说让你成为黑客大佬，帮助你从0到进阶网络安全技术问题不大。  
   
   
 **平台铭感，拿资料、学技术看⬇（无偿共享）**  
   
-![](https://mmbiz.qpic.cn/sz_mmbiz_png/k50nYicZntqTiclOnwqZc9T2SWU4Ytbgk67F5oS2kibMC7iaiaHAPzvfCiaD5Gdv9PWR1c3SzvGpyZJ5NbDuic8rENeHQ/640?wx_fmt=png&from=appmsg "")  
+![](https://mmbiz.qpic.cn/mmbiz_jpg/kWXbooRKsCW28TYVbicW1icR88lb2fLYfLS6ib2Mfic96c3gX0VBFarDLjM2sjicYFE6SVtcyF5DHLPwyUgE4lyzDxA/640?wx_fmt=jpeg&from=appmsg "")  
+  
   
   
 **部分技术资料预览**  
   
-****  
   
 **01**  
   
 **视频教程**  
   
   
-和360一起研发，覆盖从入门到进阶的全套视频教程  
-（  
-从零到精通：基础攻防→渗透测试→应急响应→CTF实战，5大模块200+课时  
-）  
+从0到进阶主流攻防技术视频教程（包含红蓝对抗、CTF、HW等技术点）  
   
-![图片](https://mmbiz.qpic.cn/sz_mmbiz_png/k50nYicZntqQQAbb583x7rnkuAgtzeXYDGUNCYrkQxccs2iadybesPicVXxBFuklPVnrw0afJoIEBZibMgrHH15ibQQ/640?wx_fmt=png&from=appmsg&wxfrom=5&wx_lazy=1&tp=webp#imgIndex=0 "")  
+![](https://mmbiz.qpic.cn/mmbiz_jpg/kWXbooRKsCVGRW5LEnoxPqDicoM3g6KqcYaRKqWc1cxP8sBrX6KZasFTJEVibWmdyoGAuRO4AbzaVjUJ8guoWAzQ/640?wx_fmt=jpeg&from=appmsg "")  
   
-![图片](https://mmbiz.qpic.cn/sz_mmbiz_jpg/k50nYicZntqTHQCDW7I0r4CHr0HhOR6WPQVyePJAlTHZictVmp6jI3HrNINrNbKMiaeKHApiaRia6dcMPGBAaibc97hw/640?wx_fmt=jpeg&from=appmsg&tp=webp&wxfrom=5&wx_lazy=1#imgIndex=1 "")  
+![](https://mmbiz.qpic.cn/mmbiz_jpg/kWXbooRKsCVGRW5LEnoxPqDicoM3g6KqcCP8oaOCQm8Cp2qhpCxWiaOjzYrOoA1iac5eSafBicPxSQcpYtchyfVvxA/640?wx_fmt=jpeg&from=appmsg "")  
   
   
 **0****2**  
   
-**学习路线**  
+**书籍Pdf**  
   
+入门必看攻防技术书籍pdf（书面上的技术书籍确实太多了，这些是我精选出来的）  
   
-**2026详细网安学习路线**  
-（  
-包括各类技术的学习顺序和学习时长、学完技术后的发展方向和建议等  
-）  
-  
-![图片](https://mmbiz.qpic.cn/sz_mmbiz_jpg/k50nYicZntqTHQCDW7I0r4CHr0HhOR6WPXGjfl2TiaQ05ZIPFMznOLcr76aP8V4ibDSp5SjxMTdORLaak23mgP3gw/640?wx_fmt=jpeg&from=appmsg&tp=webp&wxfrom=5&wx_lazy=1#imgIndex=2 "")  
-  
-![图片](https://mmbiz.qpic.cn/sz_mmbiz_jpg/k50nYicZntqTHQCDW7I0r4CHr0HhOR6WPSEZicfjyPtnILjb076LOEmkPbFa2ffk6jSIX7lWgwg1hyoObwt6Wufw/640?wx_fmt=jpeg&from=appmsg&tp=webp&wxfrom=5&wx_lazy=1#imgIndex=3 "")  
+![](https://mmbiz.qpic.cn/mmbiz_jpg/kWXbooRKsCVGRW5LEnoxPqDicoM3g6KqcUumOTUmUznuo7MzKl1JiaEQIeSh4ibkO6jxY68zVZz7iayrwGRtGu2bHw/640?wx_fmt=jpeg&from=appmsg "")  
   
   
 **0****3**  
   
-**书籍Pdf**  
+安装包/源码  
   
   
-99+入行网络安全必看的书籍和文章的Pdf（  
-市面上的技术书籍确实太多了，这些是我精选出来的  
-）  
+主要攻防会涉及到的工具安装包和项目源码（防止你看到这连基础的工具都还没有）  
   
-![图片](https://mmbiz.qpic.cn/sz_mmbiz_png/CsKJlMFPH9QpA8gfIqwuchDXRn63kzLVaDicoIohnpLTHkIzZKw3PKaeYq4vDA2PgpP5YEbZQCnMKR9AHERPBrBJ2RqdKHDr74GsuyibDmM8Y/640?wx_fmt=png&from=appmsg&watermark=1&tp=webp&wxfrom=5&wx_lazy=1#imgIndex=4 "")  
+![](https://mmbiz.qpic.cn/mmbiz_jpg/kWXbooRKsCVGRW5LEnoxPqDicoM3g6KqcvsT9h4B1hS9VEPengMcOtNL24949kb4cibKLS9HkIb1k2htW8GYqzMQ/640?wx_fmt=jpeg&from=appmsg "")  
   
   
 **0****4**  
   
-**安装包/靶场**  
-  
-  
-所有视频教程所涉及的**工具安装包**  
-和**靶场项目**  
-等  
-  
-![图片](https://mmbiz.qpic.cn/mmbiz_png/CsKJlMFPH9TOmGf5saFdTXDvCmMAGPdMUoALy6OgqrhoQZ18O8YnQCxk11toibkvq5MQZ9iag1qEfZYaHMwlq2YtqkmkHJy7iaMWJkwsgeEpss/640?wx_fmt=png&from=appmsg&watermark=1&tp=webp&wxfrom=5&wx_lazy=1#imgIndex=5 "")  
-  
-![图片](https://mmbiz.qpic.cn/mmbiz_jpg/CsKJlMFPH9SKrvGiaA0T3xhgdcD31dgfpm1tSfbt3SnutdQCZ40dbpD7WQsRg7o5Nq8nibLRPXX5K7CBVJhzwJ1JbEFphI4KRtb2KKlunyakI/640?wx_fmt=jpeg "")  
-  
-  
-**0****5**  
-  
 **面试试题/经验**  
   
   
-![图片](https://mmbiz.qpic.cn/sz_mmbiz_jpg/k50nYicZntqTHQCDW7I0r4CHr0HhOR6WPiaKcFwOp5adPyCbWpj9JDe49cOOZ0YxAhqCQYwt0ldrKtwFeKJ8Utgw/640?wx_fmt=jpeg&from=appmsg&tp=webp&wxfrom=5&wx_lazy=1#imgIndex=7 "")  
+网络安全岗位面试经验总结（谁学技术不是为了赚$呢，找个好的岗位很重要）  
+  
+![](https://mmbiz.qpic.cn/mmbiz_jpg/kWXbooRKsCVGRW5LEnoxPqDicoM3g6Kqcm6J0eAql29R6DIM8bJW4rweVBicM8ibGMOmLNFTpdcQ0gFvefMTOg9dA/640?wx_fmt=jpeg&from=appmsg "")  
   
   
   
 **平台铭感，拿资料、学技术看⬇（无偿共享）**  
   
-![](https://mmbiz.qpic.cn/sz_mmbiz_png/k50nYicZntqTiclOnwqZc9T2SWU4Ytbgk67F5oS2kibMC7iaiaHAPzvfCiaD5Gdv9PWR1c3SzvGpyZJ5NbDuic8rENeHQ/640?wx_fmt=png&from=appmsg "")  
+![](https://mmbiz.qpic.cn/mmbiz_jpg/kWXbooRKsCW28TYVbicW1icR88lb2fLYfLS6ib2Mfic96c3gX0VBFarDLjM2sjicYFE6SVtcyF5DHLPwyUgE4lyzDxA/640?wx_fmt=jpeg&from=appmsg "")  
   
   
-@网络安全-周小粥：  
+@沧海讲安全：  
 只要你是真心想学黑客/网络安全技术，我这份资料就可以无偿共享给你学习，但是想学技术去乱搞的人别来找我，目前全球网络环境日益紧张，我国在这方面的相关人才比较紧缺，网络安全行业确实也需要更多的有志之士加入进来，我也真心希望帮助大家学好这门技术，如果日后有啥学习上的问题，欢迎找我交流。  
-  
-****  
-![](https://mmbiz.qpic.cn/sz_mmbiz_png/k50nYicZntqTk5CbPZbQltff81fWAianO5baZC5UyfUVPsKfCPia0F1VlvLicw5hHbiaPbPibbxOCn6tg1B8x8OneWVw/640?wx_fmt=other&from=appmsg&wxfrom=5&wx_lazy=1&wx_co=1&tp=webp "")  
-  
-**往期精彩**  
-  
-![](https://mmbiz.qpic.cn/sz_mmbiz_png/k50nYicZntqTk5CbPZbQltff81fWAianO5baZC5UyfUVPsKfCPia0F1VlvLicw5hHbiaPbPibbxOCn6tg1B8x8OneWVw/640?wx_fmt=other&from=appmsg&wxfrom=5&wx_lazy=1&wx_co=1&tp=webp "")  
-  
-  
-[](http://mp.weixin.qq.com/s?__biz=MzkzODU5MTkyNQ==&mid=2247484337&idx=1&sn=7440b757243bc5120af4c08bcc4d104c&chksm=c2fc906bf58b197d6aeaf924627838dcf7dd1a35a88109a50e8d57fd5478974cc95881d8b9d1&scene=21#wechat_redirect)  
-  
-**光挖漏洞每月就有1w+？？！这也就是网安人才能感受的到吧**  
-  
-  
-[](https://mp.weixin.qq.com/s?__biz=MzkzODU5MTkyNQ==&mid=2247484267&idx=1&sn=2e6844ce1608081cee498900169e3e7b&scene=21#wechat_redirect)  
-  
-**网络安全自学（超详细）：从入门到精通学习路线&规划，学完即可就业**  
-  
-  
-[](https://mp.weixin.qq.com/s?__biz=MzkzODU5MTkyNQ==&mid=2247484313&idx=1&sn=e62e92639b5b1577ad802a3129f11ad0&scene=21#wechat_redirect)  
-  
-**0基础该如何转行网络安全？值得吗？**  
-  
-**点击图片即可跳转**  
-  
-****  
-  
-【免责声明】版权归原作者，如有侵权，请联系我进行删除。  
-  
-![](https://mmbiz.qpic.cn/sz_mmbiz_gif/k50nYicZntqTHQCDW7I0r4CHr0HhOR6WPb3IUhP4mQSwfsLiaVSsTM1GEltIG7wPkmmn2UNIHyB4W5VhZum4T12Q/640?wx_fmt=gif&from=appmsg&wxfrom=5&wx_lazy=1&wx_co=1&tp=webp "")  
-  
-**点分享**  
-  
-![](https://mmbiz.qpic.cn/sz_mmbiz_gif/k50nYicZntqTHQCDW7I0r4CHr0HhOR6WPvCskTcp6Zf7awicY7eIOoIVIggCV4RQVVSiakEFhcuFF9d1BiaDmib2hQg/640?wx_fmt=gif&from=appmsg&wxfrom=5&wx_lazy=1&wx_co=1&tp=webp "")  
-  
-**点收藏**  
-  
-![](https://mmbiz.qpic.cn/sz_mmbiz_gif/k50nYicZntqTHQCDW7I0r4CHr0HhOR6WPnM8PX9hqO0fWbCBc9ianDKuLazdYbibLy8icM2DYB4Fjo3EsicicMaQFUXQ/640?wx_fmt=gif&from=appmsg&wxfrom=5&wx_lazy=1&wx_co=1&tp=webp "")  
-  
-**点在看**  
-  
-![](https://mmbiz.qpic.cn/sz_mmbiz_gif/k50nYicZntqTHQCDW7I0r4CHr0HhOR6WPu0zYaTqkBIq9L98XZ18y1N7pgaXN6wowp9ibSNHr1iahlt7ia8gC4YWJg/640?wx_fmt=gif&from=appmsg&wxfrom=5&wx_lazy=1&wx_co=1&tp=webp "")  
-  
-**点点赞**  
   

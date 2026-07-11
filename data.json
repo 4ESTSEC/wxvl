@@ -21735,5 +21735,17 @@
     "https://mp.weixin.qq.com/s/AIVaiUG0iVkSba7UB9rXpA": "【CVE-2026-46215】通过 DRM GEM change_handle 中的UAF功能获得ROOT权限",
     "https://mp.weixin.qq.com/s/dfei6JgD1QkIjZ7TjTYPVQ": "锐明技术Crocus系统 DeviceFileUpload 任意文件读取漏洞",
     "https://mp.weixin.qq.com/s/a90b7amdDn_rnyA5cor9Qg": "安全工具丨多功能Web漏洞扫描器，支持80项漏洞自动检测！",
-    "https://mp.weixin.qq.com/s/fbSUAP4M3QwhivkmmovTHA": "OPNsense Root RCE 漏洞(CVE-2026-57155，CVSS 9.9) PoC已公开，建议立即升级！"
+    "https://mp.weixin.qq.com/s/fbSUAP4M3QwhivkmmovTHA": "OPNsense Root RCE 漏洞(CVE-2026-57155，CVSS 9.9) PoC已公开，建议立即升级！",
+    "https://mp.weixin.qq.com/s/b4RRU5wSTl8m-7Z9V9e1SQ": "想靠挖漏洞赚赏金？别只会机械跑工具了！掌握这5大核心技术，进阶SRC实战",
+    "https://mp.weixin.qq.com/s/DEvDjA7yaUSoFo8oTWb2vQ": "ThinkCMF漏洞全解析：从版本识别到Getshell的实战指南",
+    "https://mp.weixin.qq.com/s/0ZgpXVvB5hxs43lQ849jPQ": "CVE-2026-54390-JTL-Shop-Smarty-SSTI-远程代码执行",
+    "https://mp.weixin.qq.com/s/Bi8JpkH7bBdU80Du5_Utkg": "潜伏逾十年的U-Boot启动漏洞曝光：数十亿设备面临隐蔽固件攻击",
+    "https://mp.weixin.qq.com/s/4zi8UhOhBHv4BVXTOsCvQQ": "fast-mcp-telegram 存在严重漏洞，攻击者无需令牌即可访问 Telegram 会话",
+    "https://mp.weixin.qq.com/s/3t4mKqcMLO7dz-Bf8ccggw": "DVWA每日实操系列｜第8期 弱会话ID漏洞 Weak Session IDs",
+    "https://mp.weixin.qq.com/s/cmNeAPe6Bt7i2-nySnkZSw": "微软SharePoint Server再次被曝出存在可被远程利用的高危漏洞",
+    "https://mp.weixin.qq.com/s/UcysNxT_5d0S-npTJa24aA": "老牌 Shiro550 漏洞为何常年高危？ShiroAttack2 新版工具一键爆破密钥、注入内存马，CLI 批量脚本化渗透",
+    "https://mp.weixin.qq.com/s/LepGxY4j_gtwHcT_rm7PSw": "5步带你从0开局拿下漏洞赏金！1700讲透白帽src的所有核心基础和赏金思路！",
+    "https://mp.weixin.qq.com/s/nbUUN3_k5H4rJKUA3GhGfw": "炸裂！这款 BurpSuite 插件让 Web 漏洞探测效率提升十倍",
+    "https://mp.weixin.qq.com/s/E6CQRxqgImefJn_flh0pYQ": "信息安全漏洞预警（2026年7月6日-2026年7月10日）",
+    "https://mp.weixin.qq.com/s/08VVWB-4RMKmK7M1XZebtg": "CVE-2026-40860-ApacheCamel-JMS反序列化RCE 漏洞分析报告"
 }

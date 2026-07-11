@@ -21770,5 +21770,6 @@
     "https://mp.weixin.qq.com/s/YwnRBHD5Gg8ioXwElwE3SQ": "从ISP路由器入侵到MediaTek内核0day：一位独立研究者的Linux内核远程代码执行",
     "https://mp.weixin.qq.com/s/V5d0xAb4WC_nWXIidIexfQ": "Linux内核FUSE漏洞可致攻击者获取Root权限",
     "https://mp.weixin.qq.com/s/EOMTqw6QBRkPBPILLjZEng": "Linux内核FUSE漏洞",
-    "https://mp.weixin.qq.com/s/lXQDZe66GqnEiV7aCrxVQA": "【成功复现】XWiki Platform目录遍历漏洞(CVE-2026-34151)"
+    "https://mp.weixin.qq.com/s/lXQDZe66GqnEiV7aCrxVQA": "【成功复现】XWiki Platform目录遍历漏洞(CVE-2026-34151)",
+    "https://mp.weixin.qq.com/s/XYrXBlPz6R6pOYTT_faBSg": "紧急预警 | CVE-2026-21053 | 三星自带电子邮件应用任意文件写入漏洞"
 }

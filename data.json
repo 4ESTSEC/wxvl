@@ -21763,5 +21763,12 @@
     "https://mp.weixin.qq.com/s/LJ2Y62SXF3abgOM-D15b0Q": "攻防演练前，这679个漏洞建议先查一遍",
     "https://mp.weixin.qq.com/s/Y8g8lMiVDaeHtP9DRpVgjQ": "信息安全漏洞周报【第082期】",
     "https://mp.weixin.qq.com/s/PW_0zEt8AfcEsIKuNVWPhw": "红队内网渗透实战：CVE-2020-0796 SMBGhost 利用（附 EXP 工具）",
-    "https://mp.weixin.qq.com/s/5UpsjWQCLqXIZ5OJct5y-g": "微软修复可获得系统权限的 RoguePlanet Defender 漏洞"
+    "https://mp.weixin.qq.com/s/5UpsjWQCLqXIZ5OJct5y-g": "微软修复可获得系统权限的 RoguePlanet Defender 漏洞",
+    "https://mp.weixin.qq.com/s/kL39d3vSxc4f0JbrPH1IZw": "CVE-2026-43499 (GhostLock)：Linux 内核 rtmutex 子系统的 Stack-UAF 漏洞（存在 15 年）",
+    "https://mp.weixin.qq.com/s/_1JnI5G2U76_3h7RjDlyIA": "WordPress插件漏洞遭大规模武器化",
+    "https://mp.weixin.qq.com/s/H-BZW4cvdDmvbtED7bk_CA": "ChatGPT漏洞可被利用访问系统文件；新型攻击可远程劫持AI编程Agent执行恶意代码 | FreeBuf周报",
+    "https://mp.weixin.qq.com/s/YwnRBHD5Gg8ioXwElwE3SQ": "从ISP路由器入侵到MediaTek内核0day：一位独立研究者的Linux内核远程代码执行",
+    "https://mp.weixin.qq.com/s/V5d0xAb4WC_nWXIidIexfQ": "Linux内核FUSE漏洞可致攻击者获取Root权限",
+    "https://mp.weixin.qq.com/s/EOMTqw6QBRkPBPILLjZEng": "Linux内核FUSE漏洞",
+    "https://mp.weixin.qq.com/s/lXQDZe66GqnEiV7aCrxVQA": "【成功复现】XWiki Platform目录遍历漏洞(CVE-2026-34151)"
 }

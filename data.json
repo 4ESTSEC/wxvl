@@ -21771,5 +21771,7 @@
     "https://mp.weixin.qq.com/s/V5d0xAb4WC_nWXIidIexfQ": "Linux内核FUSE漏洞可致攻击者获取Root权限",
     "https://mp.weixin.qq.com/s/EOMTqw6QBRkPBPILLjZEng": "Linux内核FUSE漏洞",
     "https://mp.weixin.qq.com/s/lXQDZe66GqnEiV7aCrxVQA": "【成功复现】XWiki Platform目录遍历漏洞(CVE-2026-34151)",
-    "https://mp.weixin.qq.com/s/XYrXBlPz6R6pOYTT_faBSg": "紧急预警 | CVE-2026-21053 | 三星自带电子邮件应用任意文件写入漏洞"
+    "https://mp.weixin.qq.com/s/XYrXBlPz6R6pOYTT_faBSg": "紧急预警 | CVE-2026-21053 | 三星自带电子邮件应用任意文件写入漏洞",
+    "https://mp.weixin.qq.com/s/NujKp6tHTIkutAVBVpnWjQ": "紧急安全预警｜MCP Server Kubernetes 爆出高危参数注入漏洞(CVE-2026-61459)，可导致 Kubernetes 集群完全沦陷",
+    "https://mp.weixin.qq.com/s/JenudlBNUkkHRcydzk-tbA": "毫秒级破解：戴尔BIOS口令为何在XOR加密下不堪一击 (CVE-2026-40639)"
 }

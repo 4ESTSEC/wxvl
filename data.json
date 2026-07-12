@@ -21774,5 +21774,9 @@
     "https://mp.weixin.qq.com/s/XYrXBlPz6R6pOYTT_faBSg": "紧急预警 | CVE-2026-21053 | 三星自带电子邮件应用任意文件写入漏洞",
     "https://mp.weixin.qq.com/s/NujKp6tHTIkutAVBVpnWjQ": "紧急安全预警｜MCP Server Kubernetes 爆出高危参数注入漏洞(CVE-2026-61459)，可导致 Kubernetes 集群完全沦陷",
     "https://mp.weixin.qq.com/s/JenudlBNUkkHRcydzk-tbA": "毫秒级破解：戴尔BIOS口令为何在XOR加密下不堪一击 (CVE-2026-40639)",
-    "https://mp.weixin.qq.com/s/9XBaIsT6w9sRhgUCLgr7YQ": "深入剖析 CVE-2026-1207：Django RasterField(PostGIS) 栅格查询 SQL 注入漏洞"
+    "https://mp.weixin.qq.com/s/9XBaIsT6w9sRhgUCLgr7YQ": "深入剖析 CVE-2026-1207：Django RasterField(PostGIS) 栅格查询 SQL 注入漏洞",
+    "https://mp.weixin.qq.com/s/xGJgm7kOmD4N7RMDKkfHSQ": "每周PDF资源：6月必修漏洞清单；全球首例全自动AI勒索攻击曝光；重磅APT预警",
+    "https://mp.weixin.qq.com/s/gisfie_rV-qfUXdstr76JQ": "禁了 system 就安全？六边形靶场 RCE 上篇：从 exec 打到反引号",
+    "https://mp.weixin.qq.com/s/yomDc2224FxsEeU0GcEKmg": "孚盟云 ExportExData.aspx SQL注入漏洞",
+    "https://mp.weixin.qq.com/s/MIdF6e91bLrMyfjSVLhS-A": "首个 一键式 Android 17 漏洞利用链。网络安全一周新闻速看（20260712期）"
 }

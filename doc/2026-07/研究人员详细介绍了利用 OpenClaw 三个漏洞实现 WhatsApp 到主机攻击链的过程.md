@@ -1,8 +1,8 @@
 #  研究人员详细介绍了利用 OpenClaw 三个漏洞实现 WhatsApp 到主机攻击链的过程  
-鹏鹏同学
-                    鹏鹏同学  黑猫安全   2026-07-13 01:16  
+HackSee安全团队
+                    HackSee安全团队  HackSee安全生活   2026-07-13 09:28  
   
-![](https://mmbiz.qpic.cn/sz_mmbiz_png/DYqn7TU9icq01kjT0bkqL7fPN81ocMCFTib1zFfR9YVicKEC067lzIQGs9Tu0TNDv7ibhsZHHBDbowANUhNZEibzHgtCmX4EeT53cicYQEUAQK5EY/640?wx_fmt=png&from=appmsg "")  
+![](https://mmbiz.qpic.cn/mmbiz_jpg/oPZcPicUADs9tOPMYsTeK7y2N1EBnu1iczXR6QEm2wrKYZ8RrR0bIs2Q5TldxS5h6Qnqq4icCuiad37bmJIfRqjhXaE1L0sj0u9vhUgX02iaHNrg/640?wx_fmt=jpeg&from=appmsg "")  
   
 关于OpenClaw个人人工智能（AI）助手中现已修补的三个安全漏洞的细节浮出水面，如果成功利用，可能导致凭证盗窃、权限升级以及对主机的任意代码执行。  
   
@@ -18,11 +18,13 @@
   
 这三个缺点均在 OpenClaw 2026.6.6 版本中得到解决。  
   
+![](https://mmbiz.qpic.cn/mmbiz_jpg/oPZcPicUADsib0wYYhMusMVC512dd6ZNVuQHkauVxjYTpJktrwwzaZ759yubnNURVnYAfWBiaH5MjA33DbQz0ibghzgMy5pdL63CcmxNehlWJqA/640?wx_fmt=jpeg&from=appmsg "")  
   
 在上周发布的一系列公告中，OpenClaw维护者表示，“实际影响取决于运营商的配置以及低信任度输入是否能达到该路径。”  
   
 然而，安全研究员Chinmohan Nayak（被认为发现并报告了这些问题）在与《黑客新闻》分享的一份报告中表示，这些漏洞可以用来通过WhatsApp发送的外部消息触发主机代码执行。  
   
+![](https://mmbiz.qpic.cn/mmbiz_jpg/oPZcPicUADsics6uaLgaca7a1QvC27BfmtyQ5t1WscficDhT7yCjgxQmO6AZ3mNEXT3cnFCxFGdialug8Zic6XzU0da9lQwQuKs7qshUqxpDbAjs/640?wx_fmt=jpeg&from=appmsg "")  
   
 与Cyera今年五月披露的Claw Chain漏洞不同，这些新发现的漏洞不需要攻击者先建立立足点即可提取敏感数据、放置持久后门、获得任意远程代码执行，并协助逃逸到主机。  
   
@@ -35,5 +37,6 @@
 除了将 OpenClaw 更新到最新版本外，建议为所有非主会话启用沙箱模式，将“exec”从面向通道代理的工具允许列表中移除，并监控包含“ext：：”外部协议辅助工具的 git 克隆命令，避免被滥用以运行任意系统命令。  
   
 OpenClaw表示：“升级前，将受影响功能限制在可信运营商之间，或在不需要时禁用该功能。”“作为一般的加固措施，保持通道和工具允许列表的范围，避免在互不信任的用户之间共享同一个网关，并在不需要时禁用受影响的功能。”  
+  
   
   

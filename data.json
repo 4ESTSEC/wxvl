@@ -21804,5 +21804,8 @@
     "https://mp.weixin.qq.com/s/NVzlUUJKzVC1K_jS_YfeGQ": "00Query 发布！基于00信安API的微信公众号∕小程序隐藏资产发现工具，快速扩展SRC漏洞挖掘攻击面！",
     "https://mp.weixin.qq.com/s/yEj8oZe_sDhJBMkRRxK0og": "【高危AI漏洞预警】CVE-2026-56271 Flowise硬编码JWT密钥认证绕过漏洞",
     "https://mp.weixin.qq.com/s/MZwCjvNEVPtGyLUKWpesOQ": "00Query 发布！基于00信安API的微信公众号∕小程序隐藏资产发现工具，快速扩展SRC漏洞挖掘攻击面！",
-    "https://mp.weixin.qq.com/s/nDiZgxmuTvQncJH95tlOEw": "【6月29日-7月5日】安全漏洞周报 | 523个高危漏洞急需关注"
+    "https://mp.weixin.qq.com/s/nDiZgxmuTvQncJH95tlOEw": "【6月29日-7月5日】安全漏洞周报 | 523个高危漏洞急需关注",
+    "https://mp.weixin.qq.com/s/nHc4nDwcxHSokkyxTrhhkQ": "Wireshark紧急修复12项漏洞，恶意数据包可致程序崩溃",
+    "https://mp.weixin.qq.com/s/zkHmkKy9VLn_XXe3FgGN0g": "AntiDebug Mcp、AI逆向绕过前端，Hook 加密接口，抓取 Vue 路由漏洞，接入 MCP 让 AI 自动化挖掘前端漏洞",
+    "https://mp.weixin.qq.com/s/O9P_7xlC1zw9U4btItgCoQ": "紧急安全预警｜OpenWrt Samba被曝高危命令注入漏洞(CVE-2026-59260)，攻击者可远程获取Root权限"
 }

@@ -21818,5 +21818,16 @@
     "https://mp.weixin.qq.com/s/7tjMZKbnQ-3IKMCTHjo2rg": "重磅预警！去中心化黑客集群Scattered Spider来袭：不靠0day，一通电话就能拿下企业全网",
     "https://mp.weixin.qq.com/s/g88J0mJZXAp59Xj5beZKgw": "Src捡钱12，AI一键自动挖掘小程序漏洞",
     "https://mp.weixin.qq.com/s/BBFHM1gaxGrL6LtM51oe4A": "CVE-2026-42989：Windows 10 1607 权限提升漏洞 + POC",
-    "https://mp.weixin.qq.com/s/GuW07t2BbduJ5m3bDfdi9g": "雷神众测漏洞周报2026.7.6-2026.7.12"
+    "https://mp.weixin.qq.com/s/GuW07t2BbduJ5m3bDfdi9g": "雷神众测漏洞周报2026.7.6-2026.7.12",
+    "https://mp.weixin.qq.com/s/FiX2Pwt2f90bbapLGN6tUA": "ServiceNow 严重漏洞导致远程攻击者执行恶意代码",
+    "https://mp.weixin.qq.com/s/Uf7ZeAqNwgLQH5N9QSumBg": "OSCP百日备考18｜Windows提权（上）：信息收集+内核漏洞+服务配置错误，从低权用户摸到SYSTEM",
+    "https://mp.weixin.qq.com/s/zc59bWR3OiatN7uIuWyjDw": "AI Agent 与原生速度融合的高保真漏洞扫描器 —— Vigolium",
+    "https://mp.weixin.qq.com/s/1n8RZtRK8p51VyUdPDt8-Q": "Windows HTTP.sys 整数溢出漏洞(CVE-2026-47291)",
+    "https://mp.weixin.qq.com/s/81skvRTYVKysNO_n32UKfQ": "黑名单不是防火墙 六边形靶场 RCE 中篇：disable_functions、分隔符、空格绕过",
+    "https://mp.weixin.qq.com/s/Uexad2PrV9u-XFqJ8Exm1A": "WinFsp 竞争条件漏洞允许攻击者获得 Windows 系统级访问权限",
+    "https://mp.weixin.qq.com/s/ab5lAthSUHY5HsvfJkSYZQ": "【高危AI漏洞预警】n8n令牌验证绕过漏洞(CVE-2026-59208)",
+    "https://mp.weixin.qq.com/s/bHrmKYB38GkIO73jP9sGhw": "【漏洞通告】Apache Airflow Git provider SSH 主机密钥校验绕过漏洞(CVE-2026-58065)",
+    "https://mp.weixin.qq.com/s/CfNbH_ZV7nOgeUhW6C1PBg": "微软将三条 Salesforce 攻击路径与 ShinyHunters 一年的活动联系起来",
+    "https://mp.weixin.qq.com/s/VoyGVtkQDGZyGWRN1zAb0w": "本周漏洞速递｜9个高危漏洞预警+漏洞复现",
+    "https://mp.weixin.qq.com/s/MTgI75rQ-RcxMywnDT5yWA": "评论 | 堵住“仅退款”规则漏洞"
 }

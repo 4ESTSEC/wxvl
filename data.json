@@ -21812,5 +21812,10 @@
     "https://mp.weixin.qq.com/s/JRfwNdzBd-gbW9tO-EkUFA": "0day | 企业信息发送平台 getLicenceDetail 存在任意文件读取漏洞",
     "https://mp.weixin.qq.com/s/VuGIzzxWTwwGBPHOdLzSbw": "赏金猎人的SameSite扫盲贴：别再因为看不懂Cookie错失漏洞",
     "https://mp.weixin.qq.com/s/Suse7SDHzmHToDp59O8RvA": "[AI]Claude + Skills 自动漏洞挖掘",
-    "https://mp.weixin.qq.com/s/tWNzl3mCUkvB03qmzejPBg": "Turla 黑客利用 SharePoint 漏洞访问了数千个法国用户账户"
+    "https://mp.weixin.qq.com/s/tWNzl3mCUkvB03qmzejPBg": "Turla 黑客利用 SharePoint 漏洞访问了数千个法国用户账户",
+    "https://mp.weixin.qq.com/s/9qd6fLdPA22kSEAiyltVIA": "Apple起诉OpenAI涉嫌窃取商业机密，AI硬件竞争升级法律战；CNVD周报：本周 85% 收录漏洞为0day，多款CMS、路由设备曝未修复高危漏洞|牛览",
+    "https://mp.weixin.qq.com/s/s6hhOyoq3xKgy22nJLMAsQ": "聊一聊CORS跨域漏洞的危害",
+    "https://mp.weixin.qq.com/s/7tjMZKbnQ-3IKMCTHjo2rg": "重磅预警！去中心化黑客集群Scattered Spider来袭：不靠0day，一通电话就能拿下企业全网",
+    "https://mp.weixin.qq.com/s/g88J0mJZXAp59Xj5beZKgw": "Src捡钱12，AI一键自动挖掘小程序漏洞",
+    "https://mp.weixin.qq.com/s/BBFHM1gaxGrL6LtM51oe4A": "CVE-2026-42989：Windows 10 1607 权限提升漏洞 + POC"
 }

@@ -21894,5 +21894,7 @@
     "https://mp.weixin.qq.com/s/QfMB0oA8mvJga20skcbLUA": "【热点安全风险】7月25日 | Clop 勒索团伙正针对互联网暴露的 PTC Windchill 和 FlexPLM 实例开展数据窃取勒索活动",
     "https://mp.weixin.qq.com/s/PnGTTACKPwU9dihhmsveeQ": "SRC漏洞挖掘实战培训招生第一期｜附带文末抽奖",
     "https://mp.weixin.qq.com/s/TIJAWL7rkG4JVEecTlnEMw": "KARR蓝牙漏洞危机：220万辆车陷远程控制风险，共用密钥暴露安全隐患",
-    "https://mp.weixin.qq.com/s/vuQ5d_37WtyD0Gkf7-mdhg": "Chrome 150紧急修复四大高危漏洞"
+    "https://mp.weixin.qq.com/s/vuQ5d_37WtyD0Gkf7-mdhg": "Chrome 150紧急修复四大高危漏洞",
+    "https://mp.weixin.qq.com/s/Oa9pVBMLUSGOzg0kV9y4tw": "漏洞复现 | Langflow validate_code 远程命令执行漏洞",
+    "https://mp.weixin.qq.com/s/rig5KozDcNQgz-A_sH1K8w": "【成功复现】Linux Kernel XFS Reflink本地权限提升漏洞(CVE-2026-64600)"
 }

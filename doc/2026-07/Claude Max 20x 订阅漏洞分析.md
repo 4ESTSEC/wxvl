@@ -1,5 +1,5 @@
 #  Claude Max 20x 订阅漏洞分析  
- 船山信安   2026-07-26 15:44  
+ 0xArgus   2026-07-27 01:21  
   
 Anthropic 员工估计还在睡觉，起来会发现天塌了。然后又会开启一波大规模封号潮，大家早做准备  
 （[Anthropic 三件事：封号潮，Fable 回归，Sonnet 5 发布](https://mp.weixin.qq.com/s?__biz=MzIzNjE2NTI3NQ==&mid=2247492153&idx=1&sn=8f14033b5a259b7a6bb1c80b67cc87e6&scene=21#wechat_redirect)  

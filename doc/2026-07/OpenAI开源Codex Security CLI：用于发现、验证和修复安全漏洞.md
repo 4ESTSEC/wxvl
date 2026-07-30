@@ -1,8 +1,7 @@
 #  OpenAI开源Codex Security CLI：用于发现、验证和修复安全漏洞  
-欢迎关注→
-                    欢迎关注→  安全客   2026-07-29 07:00  
+ 乌雲安全   2026-07-30 01:10  
   
-![](https://mmbiz.qpic.cn/mmbiz_png/g5KiabmYVDH3qicpDT2AtHjow6y7pLjic6yw4GmxotThsELfAdx4WakeMb1mI4H22uA3Pheiad2ibiaBPR7M0OCbZ2F7taxSUKWKQWPibGmxsOYib4E/640?wx_fmt=png&from=appmsg "")  
+![](https://mmbiz.qpic.cn/mmbiz_png/g5KiabmYVDH3qicpDT2AtHjow6y7pLjic6yw4GmxotThsELfAdx4WakeMb1mI4H22uA3Pheiad2ibiaBPR7M0OCbZ2F7taxSUKWKQWPibGmxsOYib4E/640?wx_fmt=png&from=appmsg#imgIndex=0 "")  
   
 你今天用 Cursor、Copilot 或随便哪个 AI 编程助手，可能又生成了几百行代码。问题来了：这些代码里有没有漏洞，谁来管？  
   
@@ -117,47 +116,7 @@ Codex Security 走的是另一条路：用 AI 模型做上下文分析。它不�
 你团队现在用的代码安全扫描，是人在看，还是已经在让 AI 看了？让 AI 看的那部分，你信几分？  
   
 信息来源：  
-https://cybersecuritynews.com  
-  
-![](https://mmbiz.qpic.cn/sz_mmbiz_gif/o0buL62hK7M8RnVz7mqRVDRkqm2sJeT2icM4WyR7kMkHpLVaicR3tJ4gr5kIb4zje9lXgd5PuOw42Z5KtathltcQ/640?from=appmsg#imgIndex=1 "")  
-  
-**END**  
-  
-推荐阅读  
-  
-[OpenAI 的模型刚黑了 Hugging Face，微软就拿出了"反黑"模型](https://mp.weixin.qq.com/s?__biz=MzA5ODA0NDE2MA==&mid=2649790281&idx=1&sn=291dced849b77c06190f144d1f5165c9&scene=21#wechat_redirect)  
-  
-  
-2026-07-28  
-[](https://mp.weixin.qq.com/s?__biz=MzA5ODA0NDE2MA==&mid=2649790281&idx=1&sn=291dced849b77c06190f144d1f5165c9&scene=21#wechat_redirect)  
-  
-  
-[PentesterFlow —— 面向渗透测试人员和漏洞赏金猎人的 AI 自动化工作流工具](https://mp.weixin.qq.com/s?__biz=MzA5ODA0NDE2MA==&mid=2649790269&idx=1&sn=f865dda3e4caf7f67ccabcfa99489c0f&scene=21#wechat_redirect)  
-  
-  
-2026-07-27  
-[](https://mp.weixin.qq.com/s?__biz=MzA5ODA0NDE2MA==&mid=2649790269&idx=1&sn=f865dda3e4caf7f67ccabcfa99489c0f&scene=21#wechat_redirect)  
-  
-  
-[《AI编程工具“塌房”实录：Grok Build整库上传、Claude Code后门暗桩，哪个更让你睡不着？》](https://mp.weixin.qq.com/s?__biz=MzA5ODA0NDE2MA==&mid=2649790269&idx=2&sn=556cf12565f116668a7c0b3baccb8482&scene=21#wechat_redirect)  
-  
-  
-2026-07-27  
-[](https://mp.weixin.qq.com/s?__biz=MzA5ODA0NDE2MA==&mid=2649790269&idx=2&sn=556cf12565f116668a7c0b3baccb8482&scene=21#wechat_redirect)  
-  
-  
-[OpenAI智能体逃逸事件是AI时代的分水岭](https://mp.weixin.qq.com/s?__biz=MzA5ODA0NDE2MA==&mid=2649790260&idx=1&sn=216f65d5555ab284345441ce24e08a0f&scene=21#wechat_redirect)  
-  
-  
-2026-07-24  
-[](https://mp.weixin.qq.com/s?__biz=MzA5ODA0NDE2MA==&mid=2649790260&idx=1&sn=216f65d5555ab284345441ce24e08a0f&scene=21#wechat_redirect)  
-  
-  
-[Claude 开始自己审自己写的代码了 —— Anthropic 把"安全研究员"塞进了终端](https://mp.weixin.qq.com/s?__biz=MzA5ODA0NDE2MA==&mid=2649790246&idx=1&sn=15ad8cad9386009032fd019e5d34c3fd&scene=21#wechat_redirect)  
-  
-  
-2026-07-23  
-[](https://mp.weixin.qq.com/s?__biz=MzA5ODA0NDE2MA==&mid=2649790246&idx=1&sn=15ad8cad9386009032fd019e5d34c3fd&scene=21#wechat_redirect)  
+https://cybersecuritynews.com[](https://mp.weixin.qq.com/s?__biz=MzA5ODA0NDE2MA==&mid=2649790246&idx=1&sn=15ad8cad9386009032fd019e5d34c3fd&scene=21#wechat_redirect)  
   
   
   

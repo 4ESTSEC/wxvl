@@ -21963,5 +21963,12 @@
     "https://mp.weixin.qq.com/s/mgkcM_csmIcAG7U62vJ0mQ": "EDU低危漏洞也可以通杀",
     "https://mp.weixin.qq.com/s/56aFr15O4ArqGajRmX3wkw": "【家族介绍】DragonForce，一个将勒索做成企业的家族",
     "https://mp.weixin.qq.com/s/o5h51no5x3Fv1f9IpKf1_Q": "几分钟生成漏洞报告，几天才能验证：AI 正在拖垮开源安全维护者",
-    "https://mp.weixin.qq.com/s/00RXUG32GhwIjlzEt4-q-g": "【漏洞预警】Jenkins公告25个漏洞，其中5个涉及本体的漏洞需要重点关注"
+    "https://mp.weixin.qq.com/s/00RXUG32GhwIjlzEt4-q-g": "【漏洞预警】Jenkins公告25个漏洞，其中5个涉及本体的漏洞需要重点关注",
+    "https://mp.weixin.qq.com/s/hFBsaaRM9xjNmqQzc3W5BA": "CVE-2026-39868：公开概念验证代码披露 macOS 与 iOS 内核内存损坏漏洞",
+    "https://mp.weixin.qq.com/s/yw8S_pPgPh57Lafqfgogmw": "【漏洞通告】Progress MarkLogic Server存在存在权限提升漏洞(CVE-2026-9193)",
+    "https://mp.weixin.qq.com/s/HV_7cwhPtviwPQasAb2JlQ": "负7天：当攻击窗口倒转，防守者还剩多少时间？——漏洞利用平均发生在补丁发布前7天。这句话，正在重写网络安全的时间规则",
+    "https://mp.weixin.qq.com/s/F-JzFCfBLy6QEAD9G2_5tg": "【漏洞通告】Progress MarkLogic Server 中的 SAML 身份验证绕过 (CVE-2026-7557)",
+    "https://mp.weixin.qq.com/s/gYsPKr5QuaotQO018LdtcA": "【漏洞通告】正在进行中的身份验证绕过 MarkLogic Server ODBC 应用程序服务器 (CVE-2026-9192)",
+    "https://mp.weixin.qq.com/s/K0Ki5EJ7TGFTPqF-UpgxYA": "【漏洞通告】Progress MarkLogic Server存在缓存中毒漏洞(CVE-2026-9190)",
+    "https://mp.weixin.qq.com/s/M539ytSX5Lev0YjZBht6lw": "【漏洞通告】Progress MarkLogic Server存在服务器端伪造请求（SSRF）漏洞(CVE-2026-9203)"
 }

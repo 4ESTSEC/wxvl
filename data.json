@@ -21984,5 +21984,6 @@
     "https://mp.weixin.qq.com/s/vQxfGlaMPaEC1ZqtMmcUKQ": "【安全圈】SharePoint 漏洞被用于入侵瑞士联邦 IT 机构",
     "https://mp.weixin.qq.com/s/GDnJe0b5cWPwi3tuZiob2w": "最新网络安全学习整合（挖漏洞、打CTF、护网、就业，工具）",
     "https://mp.weixin.qq.com/s/k5W2oAbDaAT7-7lAN89-xg": "思科提醒注意多个高危 ClamAV 漏洞",
-    "https://mp.weixin.qq.com/s/yBY_R4VNMnfVie4pkTMxFA": "漏洞通告|正方软件股份有限公司教学管理信息服务平台存在SQL注入漏洞(CNVD-2026-25909)"
+    "https://mp.weixin.qq.com/s/yBY_R4VNMnfVie4pkTMxFA": "漏洞通告|正方软件股份有限公司教学管理信息服务平台存在SQL注入漏洞(CNVD-2026-25909)",
+    "https://mp.weixin.qq.com/s/wFdqflfq67hVylV0jYcVAg": "【漏洞通告】Hugging Face Accelerate存在目录遍历漏洞(CVE-2026-69112)"
 }

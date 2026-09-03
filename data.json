@@ -22074,5 +22074,7 @@
     "https://mp.weixin.qq.com/s/FGGb9RtQ4efQspzHvcLPqw": "【漏洞通告】Windows HTTP.sys 特权提升漏洞(CVE-2026-62735)",
     "https://mp.weixin.qq.com/s/rhAgrwZHUOrXMDwfrQwJpQ": "半日漏洞登场：AI 时代的 0-day",
     "https://mp.weixin.qq.com/s/Fsyy1rsCWJqNBf2zKWmkvA": "SonicWall 提醒注意已遭利用的 SMA1000 0day 漏洞",
-    "https://mp.weixin.qq.com/s/8o6hld9pVQPR1I34xOYttA": "Langflow 严重漏洞被用于窃取 OpenAI 和 AWS 密钥"
+    "https://mp.weixin.qq.com/s/8o6hld9pVQPR1I34xOYttA": "Langflow 严重漏洞被用于窃取 OpenAI 和 AWS 密钥",
+    "https://mp.weixin.qq.com/s/8_UkfV7G6-mDubFPX-7OCA": "【热点安全风险】9月3日 | Langflow 漏洞遭利用，攻击者瞄准 AI 开发平台（CVE-2026-0768）",
+    "https://mp.weixin.qq.com/s/9kUs7I3bOSwtVloaaSyyQg": "【漏洞预警】Linux三年前补上的洞，又一次被挖开了"
 }

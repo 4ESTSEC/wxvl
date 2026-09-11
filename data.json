@@ -22135,5 +22135,17 @@
     "https://mp.weixin.qq.com/s/9o9W4F3aJhO9vvRVTBBLTQ": "安全工具丨大模型驱动的自动化渗透测试系统：智能体自主规划「探测→资产枚举→漏洞检测→AI分析与报告」的完整测试流程",
     "https://mp.weixin.qq.com/s/Nsip3mfrydYirZEZ5kFs2g": "大华智慧园区综合管理平台queryById接口存在敏感信息泄露  附POC",
     "https://mp.weixin.qq.com/s/azoyt805nHgrJXyV0qKY7g": "每日一学：若依（Ruoyi）框架，你必须知道的四个通用漏洞",
-    "https://mp.weixin.qq.com/s/ISKAINAr_SMsnDsfG9ldfQ": "DeepSeek开源工具爆严重漏洞，AI编程代理可自破沙箱"
+    "https://mp.weixin.qq.com/s/ISKAINAr_SMsnDsfG9ldfQ": "DeepSeek开源工具爆严重漏洞，AI编程代理可自破沙箱",
+    "https://mp.weixin.qq.com/s/Sau0nL0QW6tbIifF0OAujA": "关于暂停接收中通子公司中危、低危漏洞报告的通知",
+    "https://mp.weixin.qq.com/s/KejUNiJxdQgKsVp94ALqiw": "「PyRIT实测：微软AI红队框架，多轮越狱攻击自动编排，LLM安全漏洞一次摸底」",
+    "https://mp.weixin.qq.com/s/50SzqdU4bqWqsXU0HSWCYQ": "无泄漏也能打：INSTAR 摄像头固件到无 ASLR 泄漏 RCE",
+    "https://mp.weixin.qq.com/s/teOVmSF8KncbQsih3mhDeg": "表单提交下的越权删除漏洞",
+    "https://mp.weixin.qq.com/s/ExUaUWGcsmV65hut614kvA": "紧急安全预警｜AWS SSM Agent曝CVSS 9.9严重SSRF漏洞(CVE-2026-89049)，可窃取EC2临时IAM凭据",
+    "https://mp.weixin.qq.com/s/6IZewtwtr5bXtIhbWSuuCw": "【已复现】GitLab CVE-2026-85706 未授权任意文件读取漏洞",
+    "https://mp.weixin.qq.com/s/Z11WnoCXoENGATvZlv6Eeg": "CVE-2026-39262 分析 | rag-web-ui RAG 越权问题",
+    "https://mp.weixin.qq.com/s/6A4JfadSG5PXlmxseKptuA": "Anthropic 点名中国黑客+7家AI巨头：长沙学生用Claude搞出十几个0day，阿里被指薅了1.5亿次",
+    "https://mp.weixin.qq.com/s/0AuN4K7QcXniRvdFHlH_2w": "能信安：8月安全漏洞态势汇总",
+    "https://mp.weixin.qq.com/s/y-BrlE8I-Tx8OIN0FqDzog": "紧急安全预警｜GitLab曝CVSS 10.0严重漏洞(CVE-2026-85706)，未认证攻击者可读取任意文件",
+    "https://mp.weixin.qq.com/s/3iRgmnNM5CkoYSe8RXfmGw": "iPhone18 Pro 新增 Apple Reference Image，以像素签名对抗 AI 图像伪造；CNNVD发布信息安全漏洞周报第849期| 牛览",
+    "https://mp.weixin.qq.com/s/EPUMtgc4LhWqTLC07X1JEA": "揭秘：企业WiFi的11个隐形漏洞，你的网络中了几个？"
 }

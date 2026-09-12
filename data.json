@@ -22166,5 +22166,9 @@
     "https://mp.weixin.qq.com/s/SIVLLARuRbrXC1dOFVfssQ": "Linux 系统中的 AD ResetNightmare (CVE-2026-27912) 和 KerberLoss (CVE-2026-25177) 漏洞",
     "https://mp.weixin.qq.com/s/SA8fH7tDZ3YJEVaRXhsE3A": "俄罗斯黑客利用 Zimbra 零日漏洞窃取电子邮件无需点击链接",
     "https://mp.weixin.qq.com/s/As_iBJBGrvbl0vAstjUpIw": "Next js 远程代码执行",
-    "https://mp.weixin.qq.com/s/3VE5MmFzzxyNr1FjNfcoRw": "【附exp】GitLab CVE-2026-85706 未授权路径遍历"
+    "https://mp.weixin.qq.com/s/3VE5MmFzzxyNr1FjNfcoRw": "【附exp】GitLab CVE-2026-85706 未授权路径遍历",
+    "https://mp.weixin.qq.com/s/4m54ExpMl47aP4hLf-4HXA": "【安全圈】GitLab曝CVSS 10满分漏洞：免密盗源码，数小时遭在野狂扫",
+    "https://mp.weixin.qq.com/s/8FstaTft_R3QDoKPPyCBew": "厦门四信通信科技 userLogin.do SQL注入漏洞",
+    "https://mp.weixin.qq.com/s/lobtV2MSNLA-8Tc-XvHBAQ": "黑客正积极利用 MikroTik RouterOS 的 MikroTrick 漏洞来完全控制路由器",
+    "https://mp.weixin.qq.com/s/GoWqN3RysQSnDmBr-rB3xQ": "(9.1分) CVE-2026-89009：WAVLINK 路由器未认证任意文件写入，可远程提权 root"
 }

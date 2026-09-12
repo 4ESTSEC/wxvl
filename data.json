@@ -22154,5 +22154,13 @@
     "https://mp.weixin.qq.com/s/ABCmXoVDwNxI_iKvj3Sk2g": "97.28%成功率！沥泉科技WeepStone完成CyberGym Level 1漏洞复现测试",
     "https://mp.weixin.qq.com/s/LIu2Lci38T6ThERDeN03SQ": "速修复这些 Apache Aremis 漏洞",
     "https://mp.weixin.qq.com/s/dzLXMIpIiqWwJSpDD-OL2g": "【已复现】GitLab 满分路径遍历漏洞，可未授权读取服务器任意文件（CVE-2026-85706）",
-    "https://mp.weixin.qq.com/s/68Oq4r5lF2rEUfAsmHt98g": "【通知】关于讯飞SRC暂停接收安全漏洞的通知"
+    "https://mp.weixin.qq.com/s/68Oq4r5lF2rEUfAsmHt98g": "【通知】关于讯飞SRC暂停接收安全漏洞的通知",
+    "https://mp.weixin.qq.com/s/FOtsCdNuB2vQqUAwiG7pvw": "从脚本小子到 AI 小子：漏洞报告成本归零之后",
+    "https://mp.weixin.qq.com/s/ufx42QP9mtVjnM_DLqeS0A": "【热点安全风险】9月12日 | rclone双高危认证绕过同日修补，S3服务与远程控制接口可被无认证接管（CVE-2026-88018∕CVE-2026-88044）",
+    "https://mp.weixin.qq.com/s/vb3yjzvlHMIHJGJs3NIe3Q": "用友时空KSOA resubject 存在sql注入漏洞",
+    "https://mp.weixin.qq.com/s/tn8lOumHI6Lr7CPmLjESbA": "用友NC Cloud accept.jsp接口存在任意文件上传漏洞",
+    "https://mp.weixin.qq.com/s/RJQI_HqqfmcS-3ImEvAXYQ": "10分漏洞：GitLab未授权任意文件读取",
+    "https://mp.weixin.qq.com/s/SheB9NUayWaTBOjdvn9qSw": "一日四停：四家头部SRC同日按下暂停接收漏洞",
+    "https://mp.weixin.qq.com/s/LC1ZLpWExfJBZck8E92Wwg": "Chrome V8 引擎遭类型混淆攻击——CVE-2026-85046 实战解析与 POC",
+    "https://mp.weixin.qq.com/s/KRkVcTWfKueuoUJo_pPVAQ": "工具分享 | 一款若依（Ruoyi-Vue）漏洞检测工具"
 }

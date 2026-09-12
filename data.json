@@ -22170,5 +22170,7 @@
     "https://mp.weixin.qq.com/s/4m54ExpMl47aP4hLf-4HXA": "【安全圈】GitLab曝CVSS 10满分漏洞：免密盗源码，数小时遭在野狂扫",
     "https://mp.weixin.qq.com/s/8FstaTft_R3QDoKPPyCBew": "厦门四信通信科技 userLogin.do SQL注入漏洞",
     "https://mp.weixin.qq.com/s/lobtV2MSNLA-8Tc-XvHBAQ": "黑客正积极利用 MikroTik RouterOS 的 MikroTrick 漏洞来完全控制路由器",
-    "https://mp.weixin.qq.com/s/GoWqN3RysQSnDmBr-rB3xQ": "(9.1分) CVE-2026-89009：WAVLINK 路由器未认证任意文件写入，可远程提权 root"
+    "https://mp.weixin.qq.com/s/GoWqN3RysQSnDmBr-rB3xQ": "(9.1分) CVE-2026-89009：WAVLINK 路由器未认证任意文件写入，可远程提权 root",
+    "https://mp.weixin.qq.com/s/MZzh6rGWDM44CkXpXIMR3g": "【安全漏洞分析】网站或系统存在SQL注入漏洞怎么办？",
+    "https://mp.weixin.qq.com/s/5gnc5bqKDOwPKEyiv6jdlA": "TSRC某大佬总结的价值1800元的10万条POC"
 }

@@ -22162,5 +22162,9 @@
     "https://mp.weixin.qq.com/s/RJQI_HqqfmcS-3ImEvAXYQ": "10分漏洞：GitLab未授权任意文件读取",
     "https://mp.weixin.qq.com/s/SheB9NUayWaTBOjdvn9qSw": "一日四停：四家头部SRC同日按下暂停接收漏洞",
     "https://mp.weixin.qq.com/s/LC1ZLpWExfJBZck8E92Wwg": "Chrome V8 引擎遭类型混淆攻击——CVE-2026-85046 实战解析与 POC",
-    "https://mp.weixin.qq.com/s/KRkVcTWfKueuoUJo_pPVAQ": "工具分享 | 一款若依（Ruoyi-Vue）漏洞检测工具"
+    "https://mp.weixin.qq.com/s/KRkVcTWfKueuoUJo_pPVAQ": "工具分享 | 一款若依（Ruoyi-Vue）漏洞检测工具",
+    "https://mp.weixin.qq.com/s/SIVLLARuRbrXC1dOFVfssQ": "Linux 系统中的 AD ResetNightmare (CVE-2026-27912) 和 KerberLoss (CVE-2026-25177) 漏洞",
+    "https://mp.weixin.qq.com/s/SA8fH7tDZ3YJEVaRXhsE3A": "俄罗斯黑客利用 Zimbra 零日漏洞窃取电子邮件无需点击链接",
+    "https://mp.weixin.qq.com/s/As_iBJBGrvbl0vAstjUpIw": "Next js 远程代码执行",
+    "https://mp.weixin.qq.com/s/3VE5MmFzzxyNr1FjNfcoRw": "【附exp】GitLab CVE-2026-85706 未授权路径遍历"
 }

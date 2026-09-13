@@ -22178,5 +22178,7 @@
     "https://mp.weixin.qq.com/s/B2edlxX9t3rWMb__CcLPVA": "19.9 美元路由拆到 RCE：Dbit N300 UART + Boa 溢出（CVE-2026-20374）",
     "https://mp.weixin.qq.com/s/gBv4VTbLKQt-UFbv44Li1w": "黑客可将存在漏洞的 LiteLLM AI 网关转化为获取 root 权限和窃取云凭证的途径",
     "https://mp.weixin.qq.com/s/bxDoc8f55krA-cR3urfIIg": "GitLab CVE-2026-85706 未授权任意文件读取分析：一个末尾斜杠打穿的满分漏洞",
-    "https://mp.weixin.qq.com/s/HikwWitv49UYV9hO1h-4hw": "被改写的系统服务：IDM 内核驱动 CVE-2026-90493 提权"
+    "https://mp.weixin.qq.com/s/HikwWitv49UYV9hO1h-4hw": "被改写的系统服务：IDM 内核驱动 CVE-2026-90493 提权",
+    "https://mp.weixin.qq.com/s/Kmd3VSRg5I0A-324hgWIsw": "深科特LEAN MES系统 WarehouseCheck.ashx SQL注入漏洞",
+    "https://mp.weixin.qq.com/s/ljrlhFcm7nKvKWTAf1SDKg": "(9.9分) CVE-2026-84869：ScreenConnect 任意文件执行，野外已出现蠕虫式传播"
 }

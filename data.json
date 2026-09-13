@@ -22176,5 +22176,7 @@
     "https://mp.weixin.qq.com/s/J7BBAqVBqEAcgKW0Rf5mUQ": "暗网惊现macOS 0day本地提权exp：兼容Big Sur到26.5",
     "https://mp.weixin.qq.com/s/wyz2F_7Q8OrcUl_V8ObEsQ": "Fortinet 特权访问代理漏洞：任意网站都能接管你的代理和屏幕",
     "https://mp.weixin.qq.com/s/B2edlxX9t3rWMb__CcLPVA": "19.9 美元路由拆到 RCE：Dbit N300 UART + Boa 溢出（CVE-2026-20374）",
-    "https://mp.weixin.qq.com/s/gBv4VTbLKQt-UFbv44Li1w": "黑客可将存在漏洞的 LiteLLM AI 网关转化为获取 root 权限和窃取云凭证的途径"
+    "https://mp.weixin.qq.com/s/gBv4VTbLKQt-UFbv44Li1w": "黑客可将存在漏洞的 LiteLLM AI 网关转化为获取 root 权限和窃取云凭证的途径",
+    "https://mp.weixin.qq.com/s/bxDoc8f55krA-cR3urfIIg": "GitLab CVE-2026-85706 未授权任意文件读取分析：一个末尾斜杠打穿的满分漏洞",
+    "https://mp.weixin.qq.com/s/HikwWitv49UYV9hO1h-4hw": "被改写的系统服务：IDM 内核驱动 CVE-2026-90493 提权"
 }

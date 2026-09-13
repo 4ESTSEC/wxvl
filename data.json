@@ -22172,5 +22172,9 @@
     "https://mp.weixin.qq.com/s/lobtV2MSNLA-8Tc-XvHBAQ": "黑客正积极利用 MikroTik RouterOS 的 MikroTrick 漏洞来完全控制路由器",
     "https://mp.weixin.qq.com/s/GoWqN3RysQSnDmBr-rB3xQ": "(9.1分) CVE-2026-89009：WAVLINK 路由器未认证任意文件写入，可远程提权 root",
     "https://mp.weixin.qq.com/s/MZzh6rGWDM44CkXpXIMR3g": "【安全漏洞分析】网站或系统存在SQL注入漏洞怎么办？",
-    "https://mp.weixin.qq.com/s/5gnc5bqKDOwPKEyiv6jdlA": "TSRC某大佬总结的价值1800元的10万条POC"
+    "https://mp.weixin.qq.com/s/5gnc5bqKDOwPKEyiv6jdlA": "TSRC某大佬总结的价值1800元的10万条POC",
+    "https://mp.weixin.qq.com/s/J7BBAqVBqEAcgKW0Rf5mUQ": "暗网惊现macOS 0day本地提权exp：兼容Big Sur到26.5",
+    "https://mp.weixin.qq.com/s/wyz2F_7Q8OrcUl_V8ObEsQ": "Fortinet 特权访问代理漏洞：任意网站都能接管你的代理和屏幕",
+    "https://mp.weixin.qq.com/s/B2edlxX9t3rWMb__CcLPVA": "19.9 美元路由拆到 RCE：Dbit N300 UART + Boa 溢出（CVE-2026-20374）",
+    "https://mp.weixin.qq.com/s/gBv4VTbLKQt-UFbv44Li1w": "黑客可将存在漏洞的 LiteLLM AI 网关转化为获取 root 权限和窃取云凭证的途径"
 }

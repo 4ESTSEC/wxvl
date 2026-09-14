@@ -22185,5 +22185,19 @@
     "https://mp.weixin.qq.com/s/LNQB6ep3t8FI39zI30H-mQ": "iOS 27.0 越狱前夜：拿到root权限，可能发现未修补内核漏洞",
     "https://mp.weixin.qq.com/s/6RARlyW91vhFUTioivxaTQ": "Plesk 备份管理器两项漏洞直指 root：低权限账号也可能掀开整台服务器",
     "https://mp.weixin.qq.com/s/p9As2jhdwPhJYhvxsDsidw": "SRC漏洞挖掘器 -- SRCTOOLS",
-    "https://mp.weixin.qq.com/s/c8yOsQB9Ou5NxAxmN7-vCQ": "Android反编译核武器Droid ASC：352MB APK全局交叉引用1.79秒，发现Honor和小米两个RCE"
+    "https://mp.weixin.qq.com/s/c8yOsQB9Ou5NxAxmN7-vCQ": "Android反编译核武器Droid ASC：352MB APK全局交叉引用1.79秒，发现Honor和小米两个RCE",
+    "https://mp.weixin.qq.com/s/RMXhuL_YettDO47vo6xhKg": "(9.9分) CVE-2026-90605：Totolink路由器formFilter缓冲区溢出",
+    "https://mp.weixin.qq.com/s/tCGV0NhDzFW1JJHbRDNYKA": "JeecgBoot 积木报表 v2.5.1 未授权 RCE & Aviator 沙箱逃逸",
+    "https://mp.weixin.qq.com/s/nwlpIXUto_amyDeI1AF1QA": "装了Foxit（福昕阅读器）的机器要看一眼： CVE-2026-57239 提权链解析",
+    "https://mp.weixin.qq.com/s/m-alNYyQLozh3Nqc8uRrwA": "已复现 | 搜狗输入法 1-click RCE",
+    "https://mp.weixin.qq.com/s/4SxZ1gTgvcCe-cR5HQEvjQ": "2026年还能让Google掏出百万奖金的漏洞",
+    "https://mp.weixin.qq.com/s/n1sK_tZMZCWglWOHv0Qjqg": "关于设置待审核漏洞队列的公告",
+    "https://mp.weixin.qq.com/s/EkS1EuHcwOU1piHT1IUnpg": "OpenAI 智能体被指策划 RubyGems 攻击，并在 RubyDoc 服务器上实现远程代码执行",
+    "https://mp.weixin.qq.com/s/_ZCbCPY8iHMJWn8-ddgcog": "9月社区投稿活动 | 漏洞挖掘∕AI渗透∕面试经验∕简历编写",
+    "https://mp.weixin.qq.com/s/bUnia_c25Pz72w1AkqRaZA": "CVE-2026-67276 | RouterOS SSH公钥认证绕过漏洞（POC）",
+    "https://mp.weixin.qq.com/s/hlm2wLHm2rjV1nkSE9XDEw": "CVE-2026-74997｜Roundcube Webmail插件可实现服务器远程代码执行",
+    "https://mp.weixin.qq.com/s/u2zemJyjxXBKOHwdcagcIA": "关于LYSRC暂停接收漏洞公告",
+    "https://mp.weixin.qq.com/s/oDP5XJ4KXyqjiOMM12XV4w": "VulnHunter 正式开源！AI 漏洞挖掘平台，重塑代码审计工作流",
+    "https://mp.weixin.qq.com/s/Zf77r2kyZ1xEUkYT4efb4A": "CVE-2026-88062（CVSS 9.5）：OmniRoute远程代码执行漏洞PoC已公开",
+    "https://mp.weixin.qq.com/s/ynTDBD7VZzOxwzofkihrCg": "天地伟业Easy7 loadAllUserBeans 信息泄露漏洞"
 }

@@ -22180,5 +22180,10 @@
     "https://mp.weixin.qq.com/s/bxDoc8f55krA-cR3urfIIg": "GitLab CVE-2026-85706 未授权任意文件读取分析：一个末尾斜杠打穿的满分漏洞",
     "https://mp.weixin.qq.com/s/HikwWitv49UYV9hO1h-4hw": "被改写的系统服务：IDM 内核驱动 CVE-2026-90493 提权",
     "https://mp.weixin.qq.com/s/Kmd3VSRg5I0A-324hgWIsw": "深科特LEAN MES系统 WarehouseCheck.ashx SQL注入漏洞",
-    "https://mp.weixin.qq.com/s/ljrlhFcm7nKvKWTAf1SDKg": "(9.9分) CVE-2026-84869：ScreenConnect 任意文件执行，野外已出现蠕虫式传播"
+    "https://mp.weixin.qq.com/s/ljrlhFcm7nKvKWTAf1SDKg": "(9.9分) CVE-2026-84869：ScreenConnect 任意文件执行，野外已出现蠕虫式传播",
+    "https://mp.weixin.qq.com/s/kz1c35vTDAdvpDEmfD_Hlg": "从越狱继续思考：LLM 危险内容生成 ≠ 真实漏洞利用",
+    "https://mp.weixin.qq.com/s/LNQB6ep3t8FI39zI30H-mQ": "iOS 27.0 越狱前夜：拿到root权限，可能发现未修补内核漏洞",
+    "https://mp.weixin.qq.com/s/6RARlyW91vhFUTioivxaTQ": "Plesk 备份管理器两项漏洞直指 root：低权限账号也可能掀开整台服务器",
+    "https://mp.weixin.qq.com/s/p9As2jhdwPhJYhvxsDsidw": "SRC漏洞挖掘器 -- SRCTOOLS",
+    "https://mp.weixin.qq.com/s/c8yOsQB9Ou5NxAxmN7-vCQ": "Android反编译核武器Droid ASC：352MB APK全局交叉引用1.79秒，发现Honor和小米两个RCE"
 }

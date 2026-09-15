@@ -22215,5 +22215,6 @@
     "https://mp.weixin.qq.com/s/rC8uFUAeDcYnhXA2a7SClg": "搜狗输入法曝一键 RCE 漏洞（CVE-2026-51990），已被在野利用投放后门",
     "https://mp.weixin.qq.com/s/rGr1WhpTcPK2WoFngUcVHw": "使用ASC + 自建 MCP 做APK漏洞面定位流水线",
     "https://mp.weixin.qq.com/s/HZXA47-_Gt9AdU8A8eCYrQ": "WooCommerce批发潜客捕获插件漏洞遭在野利用",
-    "https://mp.weixin.qq.com/s/CkhLyM5FtUgtUAmc0_sJ0Q": "vivo 通过ISO漏洞管理体系认证，漏洞治理全面接轨国际标准"
+    "https://mp.weixin.qq.com/s/CkhLyM5FtUgtUAmc0_sJ0Q": "vivo 通过ISO漏洞管理体系认证，漏洞治理全面接轨国际标准",
+    "https://mp.weixin.qq.com/s/Sf9ns4WBGhxVNjOpQ1IqBg": "已复现 | 搜狗输入法“1点击”远程代码执行漏洞（视频）"
 }

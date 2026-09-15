@@ -22199,5 +22199,21 @@
     "https://mp.weixin.qq.com/s/u2zemJyjxXBKOHwdcagcIA": "关于LYSRC暂停接收漏洞公告",
     "https://mp.weixin.qq.com/s/oDP5XJ4KXyqjiOMM12XV4w": "VulnHunter 正式开源！AI 漏洞挖掘平台，重塑代码审计工作流",
     "https://mp.weixin.qq.com/s/Zf77r2kyZ1xEUkYT4efb4A": "CVE-2026-88062（CVSS 9.5）：OmniRoute远程代码执行漏洞PoC已公开",
-    "https://mp.weixin.qq.com/s/ynTDBD7VZzOxwzofkihrCg": "天地伟业Easy7 loadAllUserBeans 信息泄露漏洞"
+    "https://mp.weixin.qq.com/s/ynTDBD7VZzOxwzofkihrCg": "天地伟业Easy7 loadAllUserBeans 信息泄露漏洞",
+    "https://mp.weixin.qq.com/s/KfQKypZlvpd_mvP94k05Qw": "AI编程安全：业务逻辑漏洞，至今过不了的坎",
+    "https://mp.weixin.qq.com/s/ZUINewc4p6R1U2h9mGMRcg": "dddd-Next 自动化资产测绘 + 漏洞扫描工具，覆盖指纹识别、弱口令、nuclei POC、Shiro 专项检测和 HTML 报告",
+    "https://mp.weixin.qq.com/s/2vBN21nh0KK6tF7tpx8z8w": "GitLab CVE-2026-85706路径遍历漏洞：无认证任意文件读取",
+    "https://mp.weixin.qq.com/s/x-1QzlFO8ffKL5DpOJTvPg": "CNVD漏洞周报2026年第36期",
+    "https://mp.weixin.qq.com/s/aTapxCJ62HhbipP0qrcmmQ": "【热点安全风险】9月15日 | ConnectWise ScreenConnect 提权漏洞遭在野利用，攻击者可接管企业终端运维通道（CVE-2026-84869）",
+    "https://mp.weixin.qq.com/s/AEHea_NgsPtQh6yL7dkjLA": "网安标委发布《人工智能安全治理框架3.0》，风险分类与技术应对措施同步更新；CNVD发布2026年第36期漏洞周报| 牛览",
+    "https://mp.weixin.qq.com/s/S0Soo6bIHFOxiMFRHNHM8g": "普通用户能拿到管理员密钥：JumpServer 过滤漏洞已公开 PoC",
+    "https://mp.weixin.qq.com/s/gmVrqqnkAXo4cL4U9eQcIw": "Avast 防病毒软件零日漏洞利用概念验证允许攻击者导出 SAM 数据库并获得 SYSTEM Shell",
+    "https://mp.weixin.qq.com/s/2TyIwuivZQ6wJ7Mm-E3RYw": "【2026hvv】搜狗一键RCE漏洞之三个\"各自不算致命\"的缺陷如何变成 Critical，文章详谈~【附验证exp】",
+    "https://mp.weixin.qq.com/s/hQphKssKvTZ0q3G2mrny8A": "网安入门必学：基础不牢，漏洞白学",
+    "https://mp.weixin.qq.com/s/TAfELBir0dA7gtKG5Znbcg": "高危预警｜CVE-2026-51990 搜狗输入法RCE漏洞！可植入灰兔后门，已被APT野利用",
+    "https://mp.weixin.qq.com/s/rGODvKFJ_ID2-pTL2rgauw": "iOS 27 发布当日即遭破解：AirLift 配对越狱 PoC 深度技术分析",
+    "https://mp.weixin.qq.com/s/rC8uFUAeDcYnhXA2a7SClg": "搜狗输入法曝一键 RCE 漏洞（CVE-2026-51990），已被在野利用投放后门",
+    "https://mp.weixin.qq.com/s/rGr1WhpTcPK2WoFngUcVHw": "使用ASC + 自建 MCP 做APK漏洞面定位流水线",
+    "https://mp.weixin.qq.com/s/HZXA47-_Gt9AdU8A8eCYrQ": "WooCommerce批发潜客捕获插件漏洞遭在野利用",
+    "https://mp.weixin.qq.com/s/CkhLyM5FtUgtUAmc0_sJ0Q": "vivo 通过ISO漏洞管理体系认证，漏洞治理全面接轨国际标准"
 }

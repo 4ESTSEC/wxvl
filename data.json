@@ -22261,5 +22261,15 @@
     "https://mp.weixin.qq.com/s/NNXcguncp4LDABaQ1OBDMQ": "漏洞名称权限参数值规范化缺失导致的权限绕过",
     "https://mp.weixin.qq.com/s/wFhxhtQv-xxtNu4U6c2Q3A": "我花6000块买的SRC技能包，最值钱的不是漏洞打法，是那90行“假点”清单",
     "https://mp.weixin.qq.com/s/LZ1EGlIg2ce0FVQe1bRlQA": "让 AI 改了五遍，漏洞多了 37.6%：一份 AI 编码安全复查清单",
-    "https://mp.weixin.qq.com/s/lHDQi-ujQWNLI22YlFj8dQ": "一次简单的漏洞挖掘背后，我用了白帽集市上的这些资源"
+    "https://mp.weixin.qq.com/s/lHDQi-ujQWNLI22YlFj8dQ": "一次简单的漏洞挖掘背后，我用了白帽集市上的这些资源",
+    "https://mp.weixin.qq.com/s/svsTj3JTxTpz91wx_Smi8g": "关于《网络安全漏洞管理体系与标准化研究》研究课题征集意见和参与单位的通知",
+    "https://mp.weixin.qq.com/s/qJSfJtcJAjg7dqfUvOGXTQ": "OA系统长期未修补漏洞致重要数据被窃！国家安全部最新提醒",
+    "https://mp.weixin.qq.com/s/i4c36SjHK9nDHoUExsVwuw": "Check Point 紧急修复严重漏洞，可使远程未认证攻击者获得 root 权限",
+    "https://mp.weixin.qq.com/s/Gx7k_MoSkSecliz0Ws0knw": "Log4j框架：1.x-2.x全版本你必须知道的12个通用漏洞（附2个Log4Shell实战案例）",
+    "https://mp.weixin.qq.com/s/_9thMwvmLN5U4-hubOogyw": "【附exp】GitLab CVE-2026-85706 未授权路径遍历",
+    "https://mp.weixin.qq.com/s/hx0EZWCymHFhQX0EGeh-bA": "【漏洞通告】Cisco ISE远程代码执行漏洞（CVE-2026-20211)",
+    "https://mp.weixin.qq.com/s/3LkqpEEXSr8egHV5571wQg": "微软打印服务漏洞重现江湖",
+    "https://mp.weixin.qq.com/s/LixCIhp1j4pUZhSnv6Hp5w": "9月社区投稿活动 | 漏洞挖掘∕AI渗透∕面试经验∕简历编写",
+    "https://mp.weixin.qq.com/s/jF1r7_xCk-cDwvNcmF_VLg": "安全快报 | 威胁组织Red Heron利用远程代码漏洞攻击多国政府和关基单位",
+    "https://mp.weixin.qq.com/s/Ch95gbakrRl7dTZP8RsDEw": "紧急安全预警｜Linux KVM曝CVSS 9.3严重虚拟机逃逸漏洞(CVE-2026-89775)，可突破Guest与Host隔离"
 }

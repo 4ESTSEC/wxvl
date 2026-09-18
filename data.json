@@ -22284,5 +22284,21 @@
     "https://mp.weixin.qq.com/s/9MB11GsI3jho5GE0--FEpg": "微软发布补丁修复了974个漏洞，其中包括两个已被利用的Windows零日漏洞",
     "https://mp.weixin.qq.com/s/zjxbMfSyNdXjpgFC5QxPRw": "紧急安全预警｜HP Advance曝3个严重漏洞，最高CVSS 9.3可导致远程代码执行",
     "https://mp.weixin.qq.com/s/aFhcAegPx_QYwvocBRn53A": "2026年度（第二期）CNNVD漏洞奖励评选结果公告",
-    "https://mp.weixin.qq.com/s/sPlZg4Uw32w89FCltw0b2Q": "网络安全正在从“漏洞防护”走向“能力治理”"
+    "https://mp.weixin.qq.com/s/sPlZg4Uw32w89FCltw0b2Q": "网络安全正在从“漏洞防护”走向“能力治理”",
+    "https://mp.weixin.qq.com/s/T0qJypSuaNL8qjhHrX5Nqw": "搜狗输入法 CVE-2026-51990 全链复现：参数注入 → 无沙箱浏览器 → V8 RCE",
+    "https://mp.weixin.qq.com/s/qWZEFKixXDj3asXm7Hme-A": "无需认证！本地知识库 QAnything 任意文件写入漏洞可提权至 Root RCE（CVE-2026-88533）",
+    "https://mp.weixin.qq.com/s/kvU0LZQtXlmIW-lCW_Y4BA": "QQ飞车桌面版曝\"一键式\"远程代码执行风险?",
+    "https://mp.weixin.qq.com/s/C7Wf8KlGuocngl5BPSP6TQ": "安恒信息获CNVD、CCTGA及多个国家级平台安全漏洞治理荣誉",
+    "https://mp.weixin.qq.com/s/JO3Si2rnltqhfZw22KXWXw": "7-Zip RAR5备用流名碰撞绕过MotW---CVE-2026-58052分析",
+    "https://mp.weixin.qq.com/s/OUapQ8KZn8TdzttSZt9j7w": "【安全速报】9月18日高危漏洞紧急预警",
+    "https://mp.weixin.qq.com/s/CG6ApB2MunusiRXWaoEUEg": "CISA将停发每周漏洞公告，漏洞管理转向真实风险优先；国家计算机病毒应急处理中心发布《大模型与智能体安全综合测评报告（2026）》| 牛览",
+    "https://mp.weixin.qq.com/s/OOdvTDwl0rr-GsjrweCkOg": "9月社区投稿活动 | 漏洞挖掘∕AI渗透∕面试经验∕简历编写",
+    "https://mp.weixin.qq.com/s/HnPHtleUt3p-k0Ri6bO0_A": "【已复现】CUPS 本地权限提升漏洞(QVD-2026-70361)安全风险通告",
+    "https://mp.weixin.qq.com/s/CeamGBWwohwgcfBS9fC9EQ": "【勒索预警】快转发！某财务ERP曝最新0day，Weax勒索病毒携杭州代理IP再次爆发，全网同类资产超十万，完整溯源复盘（附IOC）",
+    "https://mp.weixin.qq.com/s/w5bVmDNTqLSLMWSPYeiuIg": "信息安全漏洞预警（2026年9月14日-2026年9月18日）",
+    "https://mp.weixin.qq.com/s/_j8Ke5AsPhR9-_6UX4qiNA": "从智能代码审计到 AI 漏洞挖掘，看灵脉Code AI如何赋能Agentic Coding",
+    "https://mp.weixin.qq.com/s/jlLMC-N1IOtRPmLHRONG9A": "QQ飞车桌面客户端 RCE 报告的事实核查-好像给了($515)",
+    "https://mp.weixin.qq.com/s/-i-FdACwFS2yTAUx-9oNEg": "关于成长体系 V2.0「守卫计划」上线及通用漏洞计划调整公告",
+    "https://mp.weixin.qq.com/s/clOVoHiHPC6M7FiDX8mtIw": "小白SRC如何快速自动挖出第一个SQL注入漏洞",
+    "https://mp.weixin.qq.com/s/tpiQrxBHyYqLyXIXE5jkcQ": "Unbound DNS解析器曝9.1漏洞：不是所有发行版都补了"
 }

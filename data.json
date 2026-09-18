@@ -22271,5 +22271,18 @@
     "https://mp.weixin.qq.com/s/3LkqpEEXSr8egHV5571wQg": "微软打印服务漏洞重现江湖",
     "https://mp.weixin.qq.com/s/LixCIhp1j4pUZhSnv6Hp5w": "9月社区投稿活动 | 漏洞挖掘∕AI渗透∕面试经验∕简历编写",
     "https://mp.weixin.qq.com/s/jF1r7_xCk-cDwvNcmF_VLg": "安全快报 | 威胁组织Red Heron利用远程代码漏洞攻击多国政府和关基单位",
-    "https://mp.weixin.qq.com/s/Ch95gbakrRl7dTZP8RsDEw": "紧急安全预警｜Linux KVM曝CVSS 9.3严重虚拟机逃逸漏洞(CVE-2026-89775)，可突破Guest与Host隔离"
+    "https://mp.weixin.qq.com/s/Ch95gbakrRl7dTZP8RsDEw": "紧急安全预警｜Linux KVM曝CVSS 9.3严重虚拟机逃逸漏洞(CVE-2026-89775)，可突破Guest与Host隔离",
+    "https://mp.weixin.qq.com/s/OgB8U8q7UhgoVPNWgQCDeA": "泛微云桥 e-Bridge sendWxMsg SQL注入漏洞",
+    "https://mp.weixin.qq.com/s/222lMSVi6KNzWXXhIvVq3A": "无需授权直取CI∕CD密钥？聊聊GitLab刚修复的这个“离谱”漏洞",
+    "https://mp.weixin.qq.com/s/1JZyYwRH2bL-h_FbDhrbEw": "CVE-2026-83271 Oracle Database 权限提升漏洞",
+    "https://mp.weixin.qq.com/s/94tut5zTcJdJdZASWdi_sQ": "存储桶遍历漏洞安全检测工具 - v2.0",
+    "https://mp.weixin.qq.com/s/c6gJ90yfw0XIFrP6YeIC1g": "漏洞预警 | GitLab路径遍历漏洞",
+    "https://mp.weixin.qq.com/s/tUd4i-O228nT-QuTwDrqjg": "漏洞预警 | 搜狗输入法远程代码执行漏洞",
+    "https://mp.weixin.qq.com/s/llON131cr386aAVj2h8e9g": "AI 驱动的自动化渗透测试平台 | AI漏洞挖掘系统 - 黑板架构 ∕ 模型分级 ∕ 结果验证铁律",
+    "https://mp.weixin.qq.com/s/SAflPeNEiwsTat-_mOjAtw": "惠普修复 HPLIP 严重漏洞",
+    "https://mp.weixin.qq.com/s/Clv1QqdkkSwNMsMv5RxdbA": "比起死磕上班内卷，我更建议年轻人试试挖漏洞",
+    "https://mp.weixin.qq.com/s/9MB11GsI3jho5GE0--FEpg": "微软发布补丁修复了974个漏洞，其中包括两个已被利用的Windows零日漏洞",
+    "https://mp.weixin.qq.com/s/zjxbMfSyNdXjpgFC5QxPRw": "紧急安全预警｜HP Advance曝3个严重漏洞，最高CVSS 9.3可导致远程代码执行",
+    "https://mp.weixin.qq.com/s/aFhcAegPx_QYwvocBRn53A": "2026年度（第二期）CNNVD漏洞奖励评选结果公告",
+    "https://mp.weixin.qq.com/s/sPlZg4Uw32w89FCltw0b2Q": "网络安全正在从“漏洞防护”走向“能力治理”"
 }

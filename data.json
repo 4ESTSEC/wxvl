@@ -22300,5 +22300,13 @@
     "https://mp.weixin.qq.com/s/jlLMC-N1IOtRPmLHRONG9A": "QQ飞车桌面客户端 RCE 报告的事实核查-好像给了($515)",
     "https://mp.weixin.qq.com/s/-i-FdACwFS2yTAUx-9oNEg": "关于成长体系 V2.0「守卫计划」上线及通用漏洞计划调整公告",
     "https://mp.weixin.qq.com/s/clOVoHiHPC6M7FiDX8mtIw": "小白SRC如何快速自动挖出第一个SQL注入漏洞",
-    "https://mp.weixin.qq.com/s/tpiQrxBHyYqLyXIXE5jkcQ": "Unbound DNS解析器曝9.1漏洞：不是所有发行版都补了"
+    "https://mp.weixin.qq.com/s/tpiQrxBHyYqLyXIXE5jkcQ": "Unbound DNS解析器曝9.1漏洞：不是所有发行版都补了",
+    "https://mp.weixin.qq.com/s/6v00MkyOxvuIUnDB7DW8gw": "近期漏洞简单整理复现-showdoc∕Nacos∕JimuReport",
+    "https://mp.weixin.qq.com/s/ok6WTTCgN2L3QPgsvmQVDg": "Docker Sandboxes曝严重逃逸漏洞，恶意代码可读写macOS主机文件",
+    "https://mp.weixin.qq.com/s/dhIM1kpM_AAukHQfntFFlw": "【已复现】CVE-2026-72529 CVE-2026-72530TrueConf Server 未授权远程代码执行漏洞",
+    "https://mp.weixin.qq.com/s/RpB5-hwLT-0-q7ClbQ-x5w": "全流程 AI 化：沥泉科技TraceLoom从发现漏洞到验证漏洞",
+    "https://mp.weixin.qq.com/s/FsKTjuPVwZ5NvDnf7eJFSg": "2026网安周 | 再获权威认可！中孚信息获评CNVD原创漏洞发现贡献单位",
+    "https://mp.weixin.qq.com/s/yf_HO1-2HGX26wLzNFgHtg": "信息安全漏洞周报【第092期】",
+    "https://mp.weixin.qq.com/s/kCNEL8eA7w9miTKTLpeclg": "伪造 Object Header：一次 C++ 解释器类型混淆漏洞利用分析",
+    "https://mp.weixin.qq.com/s/vur3G7YqbIC2P_cN27kXoQ": "(10分) CVE-2026-69865：微软Azure容器仓库鉴权绕过"
 }

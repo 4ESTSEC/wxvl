@@ -22308,5 +22308,19 @@
     "https://mp.weixin.qq.com/s/FsKTjuPVwZ5NvDnf7eJFSg": "2026网安周 | 再获权威认可！中孚信息获评CNVD原创漏洞发现贡献单位",
     "https://mp.weixin.qq.com/s/yf_HO1-2HGX26wLzNFgHtg": "信息安全漏洞周报【第092期】",
     "https://mp.weixin.qq.com/s/kCNEL8eA7w9miTKTLpeclg": "伪造 Object Header：一次 C++ 解释器类型混淆漏洞利用分析",
-    "https://mp.weixin.qq.com/s/vur3G7YqbIC2P_cN27kXoQ": "(10分) CVE-2026-69865：微软Azure容器仓库鉴权绕过"
+    "https://mp.weixin.qq.com/s/vur3G7YqbIC2P_cN27kXoQ": "(10分) CVE-2026-69865：微软Azure容器仓库鉴权绕过",
+    "https://mp.weixin.qq.com/s/gCzjmru9awQp-YrMH3MyPg": "【已复现】WordPress 核心主题预览缺陷可导致RCE漏洞（Click2Shell）",
+    "https://mp.weixin.qq.com/s/wBnhLBZ4Kjwe6UOYMnQGFQ": "CVE-2026-93435 redis-parser 拒绝服务漏洞",
+    "https://mp.weixin.qq.com/s/A62MrfscxdDyH2Vbo5LnUA": "工具分享 | 一款若依（Ruoyi-Vue）漏洞检测工具",
+    "https://mp.weixin.qq.com/s/C7Z9cpxznj9o6Qu3rlwW4A": "智能网联汽车漏洞管理实践探索",
+    "https://mp.weixin.qq.com/s/qonAHlNXe90mvsmwsMRqNw": "(7.1分) CVE-2025-39682：Linux内核TLS UAF本地提权",
+    "https://mp.weixin.qq.com/s/8sEpo2P5dHyXqAnHjGOzsQ": "众测复盘：从 APP 一条普通图片请求，挖掘外围服务器文件上传漏洞",
+    "https://mp.weixin.qq.com/s/A9XSM4sLw91lPYEo3_-nsw": "国家信息安全漏洞共享平台认证！360揽获三项漏洞治理核心殊荣",
+    "https://mp.weixin.qq.com/s/reYpJTR0GNez94zb4V5Bgg": "紧急安全预警｜CUPS曝本地提权漏洞，lpadmin低权限用户可获取Root权限",
+    "https://mp.weixin.qq.com/s/1_ALUqD3yoiOV3tuxWOjLw": "专家解读 | 依法堵住网络“小设备”的安全大漏洞",
+    "https://mp.weixin.qq.com/s/tYZHH3sfg1-a1VVF6wqHIw": "紧急安全预警｜pgAdmin 4曝CVSS 9.8认证绕过漏洞(CVE-2026-86863)，可冒充管理员登录",
+    "https://mp.weixin.qq.com/s/zdXAvMDq5trrV1om-OagzA": "黑客攻陷OpenAI：两个漏洞让我们拿下ChatGPT控制权",
+    "https://mp.weixin.qq.com/s/Sw59H6HMs_Ogx9an7H-iBw": "AWS 严重漏洞使攻击者能够绕过端口转发限制并窃取 IAM 凭证",
+    "https://mp.weixin.qq.com/s/mooA-oI9oEqOEwYfQgS46g": "【一周安全资讯0919】全国网安标委发布《人工智能安全治理框架3.0》；Telegram Desktop曝存储型XSS漏洞",
+    "https://mp.weixin.qq.com/s/2o_t5sK6Cn_ULn-BXwp07g": "【AI安全】40个Agent∕MCP漏洞归成13类后，扫描器为何仍只能找候选"
 }

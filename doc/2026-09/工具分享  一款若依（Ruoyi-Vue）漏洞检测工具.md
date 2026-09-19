@@ -1,12 +1,13 @@
 #  工具分享 | 一款若依（Ruoyi-Vue）漏洞检测工具  
- 黑白之道   2026-09-12 00:30  
+点击关注👉
+                    点击关注👉  马哥网络安全   2026-09-19 09:00  
   
 ## 0x01 工具介绍  
   
 一款  
 若依Vue漏洞检测工具，支持自动化扫描若依(Ruoyi-Vue)系列系统的包括Swagger，Druid，文件读取，SQL注入，定时任务，任意密码修改，系统接口越权等多种安全漏洞，同时还可以对接口和敏感信息进行搜集。  
   
-![图片](https://mmbiz.qpic.cn/sz_mmbiz_png/Nuuibh3bDOw7T0h7wDxOVcnFicpeHjdZUQb9tQpmibPqicdVxicwZZib2YgsOgjHJb7jIeV0tKFWYQ8LhyLYpdEibR82EChs09EwfxH5FCrrHoSTuc/640?wx_fmt=png&from=appmsg&wxfrom=13&tp=wxpic&watermark=1#imgIndex=1 "")  
+![](https://mmbiz.qpic.cn/sz_mmbiz_png/Nuuibh3bDOw7T0h7wDxOVcnFicpeHjdZUQb9tQpmibPqicdVxicwZZib2YgsOgjHJb7jIeV0tKFWYQ8LhyLYpdEibR82EChs09EwfxH5FCrrHoSTuc/640?wx_fmt=png&from=appmsg&wxfrom=13&tp=wxpic&watermark=1#imgIndex=1 "")  
 ## 0x02 工具功能  
   
 1、漏洞检测模块  
@@ -34,7 +35,64 @@
   
 3、自动提取Basedir：勾选后自动识别后端API路径前缀  
   
-![图片](https://mmbiz.qpic.cn/mmbiz_png/Nuuibh3bDOw41jkAPmrwrMIlOooicZrBAyyXyibLgTXRal9CkEUa8yNoQNuoBxmLx5hhOwHs5lA9W7UPreLBzvuCJYCpRP6yibx8MeohhJK3z5w/640?wx_fmt=png&from=appmsg&tp=wxpic&wxfrom=5&wx_lazy=1&watermark=1#imgIndex=2 "")  
+![](https://mmbiz.qpic.cn/mmbiz_png/Nuuibh3bDOw41jkAPmrwrMIlOooicZrBAyyXyibLgTXRal9CkEUa8yNoQNuoBxmLx5hhOwHs5lA9W7UPreLBzvuCJYCpRP6yibx8MeohhJK3z5w/640?wx_fmt=png&from=appmsg&tp=wxpic&wxfrom=5&wx_lazy=1&watermark=1#imgIndex=2 "")  
   
 文章来源：无影安全实验室  
+  
+  
+****  
+![](https://mmbiz.qpic.cn/mmbiz_png/INa3lxHH4I2aV3zCmfiaj4cXeQ2HQd6s53wJS36HYI65ib48fujDK8najfWiahicsljzsdT3dfVS8HHyxaviaSd8g2g/640?wxfrom=5&wx_lazy=1&wx_fmt=png&wx_co=1 "")  
+  
+  
+**今日福利**  
+  
+为了帮助大家早日习得网络安全核心知识，快速入行网络安全圈，给大家整理了一套**【2026最新网安资料】**  
+网络安全工程师必备技能资料包（文末一键领取），内容有多详实丰富看下图！  
+  
+Web安全  
+👇  
+  
+![](https://mmbiz.qpic.cn/mmbiz_png/UkV8WB2qYAkcvc41LgmeFn1B18QpgBZFBODrmsTGnPTOibdIT9B5eFLTHVIgWzYafxGAesmYnfzrz52xwV3Bjhw/640?wx_fmt=other&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1 "")  
+  
+渗透测试  
+👇  
+  
+![](https://mmbiz.qpic.cn/mmbiz_png/UkV8WB2qYAkcvc41LgmeFn1B18QpgBZFVKWl2cLRTq7x9haKJerUZNO0YMhiaO8ibN1jjV0qxNLEvRKMfR90eNjQ/640?wx_fmt=other&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1 "")  
+  
+安全面试题  
+👇  
+  
+![](https://mmbiz.qpic.cn/mmbiz_png/UkV8WB2qYAkcvc41LgmeFn1B18QpgBZFgrmaDLaYT1yV5lst9tKC72QrYjd5I8IN7kcOZIZSfQJJz8MdX6a1uA/640?wx_fmt=other&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1 "")  
+  
+代码审计  
+👇  
+  
+![](https://mmbiz.qpic.cn/mmbiz_png/UkV8WB2qYAkcvc41LgmeFn1B18QpgBZFxmUkTNP1iagssZL5zkjID8hibpZsRCj1OnEb4x7ZYWqpiaymSjc8O7vSQ/640?wx_fmt=other&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1 "")  
+  
+红队笔记  
+👇  
+  
+![](https://mmbiz.qpic.cn/mmbiz_png/UkV8WB2qYAkcvc41LgmeFn1B18QpgBZFVZS1mB4MKAo4FoMBGyVSzq38ZXEKJCjZVaTsFtLE7tIJ3zbRWF5xeA/640?wx_fmt=other&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1 "")  
+  
+入门视频👇  
+  
+![](https://mmbiz.qpic.cn/sz_mmbiz_png/O9D0kmTL9EgxtiaXGtk7loXV41e8AXiaORJMhqFbrtcfHvJWTia6ME2oSI9msVYJu79uCicb7foufuibEHaVg32XnWw/640?wx_fmt=other&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1 "")  
+  
+![](https://mmbiz.qpic.cn/mmbiz_gif/NUwbCdTuQQxsJibSZGyA8akP9TVyJfPcpJ4uIZJDj3akRUfv6cNbnksGJQsibq1aH8iaGDic7TvOaSwNGXLdQ8PC9A/640?wx_fmt=gif&wxfrom=5&wx_lazy=1&tp=webp "")  
+  
+  
+以上所有资料获取请扫码  
+  
+![](https://mmbiz.qpic.cn/mmbiz_png/2I159AwKj56GWlFpAuJBpDq9xgZp8de9R91BMgAgGaf5D4gwsyWl1FR9RN64BiaJqzxqDicCAgoKtwb9LPrZm4c15qTds6Ux29Cda2avFL0mY/640?wx_fmt=png&from=appmsg "")  
+  
+识别上方二维码  
+  
+备注：  
+**2026安全合集**  
+  
+100%免费领取  
+  
+（是扫码领取，不是在公众号后台回复，别看错了哦）  
+  
+  
   

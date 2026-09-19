@@ -22322,5 +22322,14 @@
     "https://mp.weixin.qq.com/s/zdXAvMDq5trrV1om-OagzA": "黑客攻陷OpenAI：两个漏洞让我们拿下ChatGPT控制权",
     "https://mp.weixin.qq.com/s/Sw59H6HMs_Ogx9an7H-iBw": "AWS 严重漏洞使攻击者能够绕过端口转发限制并窃取 IAM 凭证",
     "https://mp.weixin.qq.com/s/mooA-oI9oEqOEwYfQgS46g": "【一周安全资讯0919】全国网安标委发布《人工智能安全治理框架3.0》；Telegram Desktop曝存储型XSS漏洞",
-    "https://mp.weixin.qq.com/s/2o_t5sK6Cn_ULn-BXwp07g": "【AI安全】40个Agent∕MCP漏洞归成13类后，扫描器为何仍只能找候选"
+    "https://mp.weixin.qq.com/s/2o_t5sK6Cn_ULn-BXwp07g": "【AI安全】40个Agent∕MCP漏洞归成13类后，扫描器为何仍只能找候选",
+    "https://mp.weixin.qq.com/s/JvOp_vQxbVDRXjdCnX5cmQ": "Claude Code、Codex、Copilot与Gemini CLI四大编程代理惊爆零点击RCE",
+    "https://mp.weixin.qq.com/s/ZAJIk-inmt0496wYuo96Gg": "车联网漏洞挖掘方法及典型案例剖析",
+    "https://mp.weixin.qq.com/s/Wi3L7UgVk_ewaVVmOxb7GA": "APP漏洞挖掘全套自动化工具（自动化检测程序+漏洞报告模板+检测指南）",
+    "https://mp.weixin.qq.com/s/6AqwVTnQ1BBW1nPo4KSE1A": "Windows 内核 WMI 计数回绕 CVE-2026-42980",
+    "https://mp.weixin.qq.com/s/ycXjYy0JMAjt62EAE84tPg": "AI在企业级漏洞预警中的应用",
+    "https://mp.weixin.qq.com/s/XlGxJeKunR6f4u15Ispnrg": "Adobe 修复了 Magento 零日漏洞，该漏洞已被利用来部署 Rust 后门和 PHP Web Shell",
+    "https://mp.weixin.qq.com/s/YrcGxhNFYEWAF1paVRcjvg": "JumpServer越权漏洞：URL里加个参数，管理员Access Key直接裸奔",
+    "https://mp.weixin.qq.com/s/3Vhnvfkz_NPpaWmb2qBj_Q": "千万别忽视！这个逻辑漏洞可绕过管理员的审核",
+    "https://mp.weixin.qq.com/s/9gcZXxMaT7tkMpp7-aI0yQ": "【安全圈】攻击者利用 Issabel Framework 漏洞实现未经身份验证的 OS 命令执行"
 }

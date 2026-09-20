@@ -22331,5 +22331,20 @@
     "https://mp.weixin.qq.com/s/XlGxJeKunR6f4u15Ispnrg": "Adobe 修复了 Magento 零日漏洞，该漏洞已被利用来部署 Rust 后门和 PHP Web Shell",
     "https://mp.weixin.qq.com/s/YrcGxhNFYEWAF1paVRcjvg": "JumpServer越权漏洞：URL里加个参数，管理员Access Key直接裸奔",
     "https://mp.weixin.qq.com/s/3Vhnvfkz_NPpaWmb2qBj_Q": "千万别忽视！这个逻辑漏洞可绕过管理员的审核",
-    "https://mp.weixin.qq.com/s/9gcZXxMaT7tkMpp7-aI0yQ": "【安全圈】攻击者利用 Issabel Framework 漏洞实现未经身份验证的 OS 命令执行"
+    "https://mp.weixin.qq.com/s/9gcZXxMaT7tkMpp7-aI0yQ": "【安全圈】攻击者利用 Issabel Framework 漏洞实现未经身份验证的 OS 命令执行",
+    "https://mp.weixin.qq.com/s/SiHvJvwxiWq_0j6a3SXuBg": "强推一个自动化 SRC 漏洞挖掘系统",
+    "https://mp.weixin.qq.com/s/efNIaxaD1hZwlJjmQYcN3w": "Linux内核3漏洞被在野利用：只比较版本号会漏掉补丁",
+    "https://mp.weixin.qq.com/s/liynIdGoUigpU2ZIYcvDUQ": "紧急安全预警｜Node.js vm2曝3个CVSS 10.0沙箱逃逸漏洞，可突破隔离实现RCE",
+    "https://mp.weixin.qq.com/s/az7IGc_eGOXQ_tNKD0nM2Q": "Cisco ISE遭遇在野攻击，最高严重级别漏洞必须尽快修复",
+    "https://mp.weixin.qq.com/s/z9TcJ95ZSTQLcsGvhBFbqw": "【漏洞分析】CVE-2026-81642：一行恶意 DNS 记录如何无接触拿下你的服务器",
+    "https://mp.weixin.qq.com/s/jyXPKk1pei5But-bycMEtg": "Giskard实测：AI Agent漏洞扫描器 一句话自动穷举提示注入 OWASP全查 5828星",
+    "https://mp.weixin.qq.com/s/QcANtCnambV4lliJp2qHGQ": "(10分) CVE-2026-76460：思科Cisco ISE 认证绕过可拿root",
+    "https://mp.weixin.qq.com/s/T4E-K_t60Uq4atJs1ze3HA": "在野被利用的 Linux 内核漏洞",
+    "https://mp.weixin.qq.com/s/hIQVdHMTjdsssqkCOAOlOQ": "英国国家网络安全中心警告Check Point VPN 关键漏洞可能面临大规模利用",
+    "https://mp.weixin.qq.com/s/vfQrAeAenmdS6TXJWyn_1A": "Black Hat USA 2026：拖拉机ECU漏洞修复",
+    "https://mp.weixin.qq.com/s/fXMVrCaaAY74-C2ccLssjw": "工作流接口没登录就能执行命令：Orkes漏洞已遭利用",
+    "https://mp.weixin.qq.com/s/0MMrKYoQy9dS6HOvH1vIJQ": "IBM Langflow OSS 高危漏洞分析：VackBot 已实现检测覆盖",
+    "https://mp.weixin.qq.com/s/BJFj__Z1ZDRkMO6wljMD1w": "D-Link DIR803 getcfg.php 信息泄露漏洞(CVE-2025-14528)",
+    "https://mp.weixin.qq.com/s/v2md-Axy5XAvCxaLJuSwPA": "CVE-2026-62943：btrbk SSH命令过滤绕过漏洞，CVSS 8.7分",
+    "https://mp.weixin.qq.com/s/vbI1v1on0v7TZq6QKaT6hQ": "macOS公布提权漏洞CVE-2026-43783(POC已公开)"
 }

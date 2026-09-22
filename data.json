@@ -22430,5 +22430,21 @@
     "https://mp.weixin.qq.com/s/QgSX0LP_mx50JN7VrC7vxw": "【热点安全风险】9月22日 | Cisco ISE 满分认证绕过进 KEV，攻击者可直取身份中枢 root 权限（CVE-2026-76460）",
     "https://mp.weixin.qq.com/s/1t7cNhqCLWNU--vrb6W2yQ": "每天学一个 Kali 工具 · Day22 nuclei：YAML 模板驱动的漏洞扫描\"精确制导武器\"",
     "https://mp.weixin.qq.com/s/CnTuFt5WrsflpISYeSpv4A": "某公众号 RSS 平台存在未授权 RCE：从模板注入到内存马",
-    "https://mp.weixin.qq.com/s/qds45EBM-5KoKAZNYhyLfg": "神漏洞：突破ChatGPT智能体沙箱，远程执行任意命令"
+    "https://mp.weixin.qq.com/s/qds45EBM-5KoKAZNYhyLfg": "神漏洞：突破ChatGPT智能体沙箱，远程执行任意命令",
+    "https://mp.weixin.qq.com/s/HDHPtEMcd3Dt1HQbEtlbuw": "默安代码审计智能体：发现SAST看不见的逻辑漏洞",
+    "https://mp.weixin.qq.com/s/knJq_6tc42Q7g-MTcLT_-g": "VARA 2026 | 绿盟科技荣膺首批“国家人工智能安全漏洞库技术支撑单位”",
+    "https://mp.weixin.qq.com/s/wbXF_FnlUy5xz4awhuNHOg": "首批+最多！奇安信获国家人工智能安全漏洞库技术支撑单位及15项漏洞奖励",
+    "https://mp.weixin.qq.com/s/o2WWm0x6giHTpIm3jgNUpA": "「AI挖漏洞工具实测」open·kritt：开源AI Agent漏洞研究平台，多Agent并行挖洞+去重排序",
+    "https://mp.weixin.qq.com/s/Gpy8M5KEm-9XD7mhjjIMWA": "CISA：三个Linux 内核漏洞已遭活跃利用",
+    "https://mp.weixin.qq.com/s/-F-_TAoh37At4JhyPSCFag": "CNCERT：2026年人工智能大模型安全众测活动典型漏洞风险通报",
+    "https://mp.weixin.qq.com/s/rMPj6tVo23jasLZxzSq7YQ": "【已复现】Microsoft SharePoint 远程代码执行漏洞(CVE-2026-65660)安全风险通告",
+    "https://mp.weixin.qq.com/s/meQDGztz6IsCdcI6MCOM9w": "【已复现】CVE-2026-65660 Microsoft SharePoint 远程代码执行漏洞",
+    "https://mp.weixin.qq.com/s/0hgcFHUbgwwkUfpO7qjKYA": "【安全圈】WordPress爆Comment2Shell高危漏洞：匿名评论经由管理员会话直达RCE",
+    "https://mp.weixin.qq.com/s/xx8BoK_TevJefmWZFD4nrw": "通报 | CNCERT通报2026年人工智能大模型安全众测活动典型漏洞风险",
+    "https://mp.weixin.qq.com/s/h4xdLlXp2po5rRhevCdQ8w": "聚铭网络受邀出席2026VARA大会，获评AIVD优秀技术支撑单位并入选人工智能安全漏洞治理联盟",
+    "https://mp.weixin.qq.com/s/BDesKRPZttqMP6GJz-XI2w": "用友U8C nDay手到擒来，Provena-Audit自动审计出洞",
+    "https://mp.weixin.qq.com/s/KEaw2aymjp6iv2Woe2AV7g": "【安全圈】Zyxel与Veeam高危漏洞遭野外在途利用：防火墙注入与备份控制权沦陷",
+    "https://mp.weixin.qq.com/s/piWbtEzQ3_MXXilRu7U93A": "通报丨2026年人工智能大模型安全众测活动典型漏洞风险",
+    "https://mp.weixin.qq.com/s/s21dVD2MTDqpLRWC9kdYeg": "数智拓远 善治久安 | 第十六届网络安全漏洞分析与风险评估大会在重庆举办",
+    "https://mp.weixin.qq.com/s/Izf9XgYQqG0IoyaxSHhGJQ": "(9.8分) CVE-2026-19658：WordPress捐款插件反序列化漏洞"
 }

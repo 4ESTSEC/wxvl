@@ -22413,5 +22413,22 @@
     "https://mp.weixin.qq.com/s/8p2W2lV8qQ9BOm0YHUj6bw": "国内首部智能体安全漏洞治理蓝皮书发布！",
     "https://mp.weixin.qq.com/s/E-wf3I29hTedk9Zo3c3fVA": "谷歌Chrome浏览器发布153版本，修复了42个安全漏洞",
     "https://mp.weixin.qq.com/s/Kzj69GRzbUKQhVvO3F7fwQ": "20页PPT AI时代下深度漏洞研究",
-    "https://mp.weixin.qq.com/s/99n5l7ozCGf1ZJdXyHGPXQ": "假期挖洞不卡壳，X漏洞计划焕新升级！"
+    "https://mp.weixin.qq.com/s/99n5l7ozCGf1ZJdXyHGPXQ": "假期挖洞不卡壳，X漏洞计划焕新升级！",
+    "https://mp.weixin.qq.com/s/3FblwF7EsvM_o4UL9pmJhA": "沙箱之外：Goja 引擎越界写漏洞与 Zendesk、Nuclei 任意代码执行",
+    "https://mp.weixin.qq.com/s/xKOZmS4_xuwjBZWM2v55yA": "关于2026年人工智能大模型安全众测活动典型漏洞风险的通报",
+    "https://mp.weixin.qq.com/s/vd3yzWVpIMqpnfaZFVLe-g": "中兴SmartLife安卓应用的4个CVE漏洞直至账户接管",
+    "https://mp.weixin.qq.com/s/Nad6mJLxN-HvrcllkRXCHA": "D-Link R95曝CVSS 9.1命令注入漏洞，认证用户可获取Root权限",
+    "https://mp.weixin.qq.com/s/iAHABd8ZXfesTTSTswWipg": "AI辅助漏洞挖掘系统设计指南",
+    "https://mp.weixin.qq.com/s/-NvAS5PpA537RzZm3Ea58w": "struts2 xmlParser.action XXE漏洞(CVE-2025-68493)",
+    "https://mp.weixin.qq.com/s/eHJeFT79z5eO3mU9A7GYHg": "“始”逆向[ 零创技 ]—猎人笔记（4）—Windows内核漏洞利序言+30小时思维逻辑的重铸与安全逆向“沙盒”标记H6！",
+    "https://mp.weixin.qq.com/s/6Fi7pLt5VN0CY1-zT0rwQw": "内网交换机出现未登录命令执行，Zyxel 用户要在 9 月 24 日前答完三问",
+    "https://mp.weixin.qq.com/s/o0PkhokcH90BY8aYcHkXLg": "雷神众测漏洞周报2026.9.14-2026.9.20",
+    "https://mp.weixin.qq.com/s/jYysRFxLV_c8XU5m4PwGbg": "强推一个自动化 SRC 漏洞挖掘系统",
+    "https://mp.weixin.qq.com/s/zGeczDAzLr1Vna6_NlYnDg": "9月社区投稿活动 | 漏洞挖掘∕AI渗透∕面试经验∕简历编写",
+    "https://mp.weixin.qq.com/s/WfgXSesERNF77648ydOPOw": "【已复现】WordPress 无需认证的零点击存储型 XSS 可导致 RCE（Comment2Shell）",
+    "https://mp.weixin.qq.com/s/k7hKMATOvHNwqZtxXtTrSA": "WordPress插件MStore API存在认证绕过漏洞(POC已公开)CVE-2026-13447",
+    "https://mp.weixin.qq.com/s/QgSX0LP_mx50JN7VrC7vxw": "【热点安全风险】9月22日 | Cisco ISE 满分认证绕过进 KEV，攻击者可直取身份中枢 root 权限（CVE-2026-76460）",
+    "https://mp.weixin.qq.com/s/1t7cNhqCLWNU--vrb6W2yQ": "每天学一个 Kali 工具 · Day22 nuclei：YAML 模板驱动的漏洞扫描\"精确制导武器\"",
+    "https://mp.weixin.qq.com/s/CnTuFt5WrsflpISYeSpv4A": "某公众号 RSS 平台存在未授权 RCE：从模板注入到内存马",
+    "https://mp.weixin.qq.com/s/qds45EBM-5KoKAZNYhyLfg": "神漏洞：突破ChatGPT智能体沙箱，远程执行任意命令"
 }

@@ -22526,5 +22526,22 @@
     "https://mp.weixin.qq.com/s/XnQiwcBJ5vxSJQUtuirziQ": "Linux 内核 14 年老漏洞可提权 root、逃出容器",
     "https://mp.weixin.qq.com/s/Psok64ND7vzemLtKpDMdcg": "N∕A | JeecgBoot 权限绕过与 SQL 注入组合漏洞解析",
     "https://mp.weixin.qq.com/s/v6v7mTspGFJTZugMpnWh5w": "CVE-2026-59310 | VMware vCenter远程代码执行漏洞（POC）",
-    "https://mp.weixin.qq.com/s/voQj03JHEfUPQIrBAKyKdg": "Telegram 桌面版漏洞：聊天按钮里的隐藏脚本可窃取 HTML 导出消息"
+    "https://mp.weixin.qq.com/s/voQj03JHEfUPQIrBAKyKdg": "Telegram 桌面版漏洞：聊天按钮里的隐藏脚本可窃取 HTML 导出消息",
+    "https://mp.weixin.qq.com/s/d9HtO05B2nzS-lPxeRcQGQ": "从焊 UART 到浏览器打穿：TP-Link Tapo 摄像头 RCE 链（TAPOcalypse）",
+    "https://mp.weixin.qq.com/s/SixW81R0v-Pxh255F2cmSQ": "【安全圈】SharePoint 代码注入漏洞出现实际攻击，已发布补丁仍需核对",
+    "https://mp.weixin.qq.com/s/H3Z33zjQ6cFwzXtgzesDxw": "h0day.com 全球安全动态日报上新",
+    "https://mp.weixin.qq.com/s/t4MMjuBUnw9Oe9X7LJS2Xw": "首批！360入选国家人工智能安全漏洞库优秀技术支撑单位",
+    "https://mp.weixin.qq.com/s/3uLerePsXTiulToPz1pf4g": "Coruna ios 漏洞C2系统存在前台敏感信息泄露漏洞",
+    "https://mp.weixin.qq.com/s/9nPkJwFP-wYUE6Eyw4lHuA": "漏洞挖掘案例-任意用户接管",
+    "https://mp.weixin.qq.com/s/6d2_VM44LZVmDwLus-7mGA": "(9.6分) CVE-2026-100715：Froxlor 面板符号链接任意文件删除",
+    "https://mp.weixin.qq.com/s/czAYiTvUC3-stooDhNWzlg": "(9.9分) CVE-2026-100740：D-Link路由器越界写入可远程打崩",
+    "https://mp.weixin.qq.com/s/jmelVfSIhDHIFQLpmG-8pw": "从一条聊天消息到主播电脑被完全控制：漏洞连环套如何攻破OBS",
+    "https://mp.weixin.qq.com/s/CS57XQOTfIm840aeoW8_OQ": "Sudo高危漏洞曝光，本地用户可绕过提权时间限制",
+    "https://mp.weixin.qq.com/s/68xjdiiM7vjATm3MSqyMxA": "(9.8分) CVE-2026-18143：WordPress报价插件未认证任意文件上传",
+    "https://mp.weixin.qq.com/s/EtZpbr79VkFDfH5ofXgh0Q": "扫描器永远扫不出来的那一类洞：业务逻辑漏洞怎么挖",
+    "https://mp.weixin.qq.com/s/-ZFUp0n1_OVSrFfZqNvUdQ": "「Codex Security 拆解」OpenAI 开源 AI 漏洞扫描 CLI：策略+验证+补丁闭环",
+    "https://mp.weixin.qq.com/s/O7Acs4jOm-eQNzPtwHBptg": "黑客禁用 EPP 并在受感染的 Windows 域中部署 Sliver 漏洞利用程序",
+    "https://mp.weixin.qq.com/s/ei4yeRLuFXzs78rI_eTZvg": "某TSRC大佬的付费全景Skill（包涵：渗透、漏洞挖掘、CTF竞赛、EDR、逆向）",
+    "https://mp.weixin.qq.com/s/_PORSoSZOEK0seaq_qx6rA": "MikroTrick漏洞链：一行命令，无需密码接管公网路由器",
+    "https://mp.weixin.qq.com/s/6NdWInOJr17OUZW1y1EZog": "企业信息发送平台getLicenceDetail接口存在任意文件读取漏洞  附POC"
 }

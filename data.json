@@ -22543,5 +22543,8 @@
     "https://mp.weixin.qq.com/s/O7Acs4jOm-eQNzPtwHBptg": "黑客禁用 EPP 并在受感染的 Windows 域中部署 Sliver 漏洞利用程序",
     "https://mp.weixin.qq.com/s/ei4yeRLuFXzs78rI_eTZvg": "某TSRC大佬的付费全景Skill（包涵：渗透、漏洞挖掘、CTF竞赛、EDR、逆向）",
     "https://mp.weixin.qq.com/s/_PORSoSZOEK0seaq_qx6rA": "MikroTrick漏洞链：一行命令，无需密码接管公网路由器",
-    "https://mp.weixin.qq.com/s/6NdWInOJr17OUZW1y1EZog": "企业信息发送平台getLicenceDetail接口存在任意文件读取漏洞  附POC"
+    "https://mp.weixin.qq.com/s/6NdWInOJr17OUZW1y1EZog": "企业信息发送平台getLicenceDetail接口存在任意文件读取漏洞  附POC",
+    "https://mp.weixin.qq.com/s/x_qZxqvY-VU2iweyCryS6Q": "为什么AI找出了100个漏洞，最后可能一个都交不上去？",
+    "https://mp.weixin.qq.com/s/YFcZQdiv5wUw70XOs-IrLQ": "【高危漏洞预警】VMware vCenter Syslog服务未授权目录遍历远程代码执行漏洞CVE-2026-59310",
+    "https://mp.weixin.qq.com/s/hIH4xbX242tPCob0e0o04Q": "Mythos让我重新思考了一件事：未来网络安全，拼的不是谁的工具多，而是谁先找到漏洞"
 }

@@ -22546,5 +22546,22 @@
     "https://mp.weixin.qq.com/s/6NdWInOJr17OUZW1y1EZog": "企业信息发送平台getLicenceDetail接口存在任意文件读取漏洞  附POC",
     "https://mp.weixin.qq.com/s/x_qZxqvY-VU2iweyCryS6Q": "为什么AI找出了100个漏洞，最后可能一个都交不上去？",
     "https://mp.weixin.qq.com/s/YFcZQdiv5wUw70XOs-IrLQ": "【高危漏洞预警】VMware vCenter Syslog服务未授权目录遍历远程代码执行漏洞CVE-2026-59310",
-    "https://mp.weixin.qq.com/s/hIH4xbX242tPCob0e0o04Q": "Mythos让我重新思考了一件事：未来网络安全，拼的不是谁的工具多，而是谁先找到漏洞"
+    "https://mp.weixin.qq.com/s/hIH4xbX242tPCob0e0o04Q": "Mythos让我重新思考了一件事：未来网络安全，拼的不是谁的工具多，而是谁先找到漏洞",
+    "https://mp.weixin.qq.com/s/WxfISAg8CK6x2CLnlAnNqg": "漏洞预警 | Linux kernel释放后使用漏洞",
+    "https://mp.weixin.qq.com/s/ebMfLMBcjIPsc-1Fesnc-g": "Seetong(天视通) NVR曝CVSS 10.0未认证认证绕过漏洞(CVE-2026-100886)，公开PoC可导致设备接管",
+    "https://mp.weixin.qq.com/s/Lp60LMmqUJnGJLgpqswbJw": "评论字符限制绕过导致客户端拒绝服务漏洞",
+    "https://mp.weixin.qq.com/s/GOOZutRMR0RtylsZdoPaZQ": "F5 修复了 BIG-IP APM 的关键零日漏洞，该漏洞已被远程代码执行攻击利用",
+    "https://mp.weixin.qq.com/s/tudmmu9hxEUDvd0sFm5Ozg": "App 漏洞挖掘实战、外部恶意网页可直接调用原生接口窃取用户认证 Token 造成账号接管漏洞",
+    "https://mp.weixin.qq.com/s/opz7YQGNm0MuMuXiV6kzIA": "我用豆包挖了11集SRC漏洞，说句实话：有7集是真有用，有4集是凑数的",
+    "https://mp.weixin.qq.com/s/d1XgBS8tWrqc22y1VO0fTA": "震惊安全圈！这款红队指纹神器让漏洞挖掘效率提升百倍",
+    "https://mp.weixin.qq.com/s/qdb3_pOOxnOEq1JEzpjd2A": "Apache Tomcat 认证绕过 · IBM FTM 远程代码执行 · AWS pgCollection 类型混淆",
+    "https://mp.weixin.qq.com/s/g7fHZKg9dgaxzwFvkVMiVA": "漏洞预警 | ShowDoc远程代码执行漏洞",
+    "https://mp.weixin.qq.com/s/4ZB-DLkLmPbmp96PRDcJSA": "做了PSTI、CRA、澳大利亚智能设备认证，却栽在一个\"邮箱\"上？漏洞披露渠道公示，这个小要求能卡掉一半企业",
+    "https://mp.weixin.qq.com/s/AB8wg01t6OArnVomKWEj3A": "wvp-GB28181pro摄像头管理平台存在未授权访问漏洞  附POC",
+    "https://mp.weixin.qq.com/s/i6xG3ooCikUz8UaxNR_t6Q": "从 UART 焊到未认证后门：ANJIA PTZ 摄像头（CVE-2026-31077）",
+    "https://mp.weixin.qq.com/s/BPbH33uWJtg5uEwwWNNHJQ": "CNVD漏洞周报2026年第37期",
+    "https://mp.weixin.qq.com/s/UYs93CFAnTnEHCwO2HKcSQ": "某次内部行业渗透测试&攻防演练多个系统从资产打点到RCE漏洞",
+    "https://mp.weixin.qq.com/s/BxEqWYcL5gGxVtsT5bPHtA": "做渗透测试的人，为什么需要一个漏洞管理平台？",
+    "https://mp.weixin.qq.com/s/i21LCFO7tFgTqYnKAejWGw": "优惠券叠加漏洞：很多大厂都踩坑的业务逻辑深坑",
+    "https://mp.weixin.qq.com/s/nn9GKFvr_YS4u2gMq-uySA": "AI 智能漏洞扫描插件 -- Zack-AI-Scanner"
 }

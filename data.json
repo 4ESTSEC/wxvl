@@ -22622,5 +22622,18 @@
     "https://mp.weixin.qq.com/s/up3-dWAFlWAZn-fq3tSY5A": "斗象科技谢忱：安全大模型如何引领漏洞管理走向“自治”？",
     "https://mp.weixin.qq.com/s/YsNHaZMT_RS3e6ETIj41CA": "【梆梆安全监测】安全隐私合规监管趋势及漏洞风险报告（0907-0920）",
     "https://mp.weixin.qq.com/s/xcwzaMESU-RZVc3n_hWvyQ": "资产遍布全国、漏洞库三年翻倍的背后，某大型集团的漏扫为什么越来越\"稳\"？",
-    "https://mp.weixin.qq.com/s/cT6T3VgojVBWREKz20JJTg": "CNNVD | 重要安全漏洞通报（2026年第七期）"
+    "https://mp.weixin.qq.com/s/cT6T3VgojVBWREKz20JJTg": "CNNVD | 重要安全漏洞通报（2026年第七期）",
+    "https://mp.weixin.qq.com/s/2deFsswBKjwGsSp1bKSs_w": "【漏洞通告】VMware vCenter存在目录遍历漏洞(CVE-2026-59310)",
+    "https://mp.weixin.qq.com/s/mdK_IcZ5LHMz6vzd_zQeiA": "【地图大师的代码审计之路 第二篇】从代码层看懂越权与未授权漏洞为何如此高发",
+    "https://mp.weixin.qq.com/s/rAB8v9QOL5VxaivLBPetEA": "【漏洞通告】Citrix NetScaler ADC∕Gateway未授权命令注入漏洞(CVE-2026-88771)",
+    "https://mp.weixin.qq.com/s/DiDJKzTMpC9q2cqxpz4oCA": "【安全圈】MCP官方SDK高危漏洞：恶意服务可盗取OAuth凭证",
+    "https://mp.weixin.qq.com/s/XLId0bCdiNJaRoTSMN0c1A": "【漏洞预警】Citrix NetScaler 命令注入漏洞",
+    "https://mp.weixin.qq.com/s/rNcz37vLoVwapVja4TjcCw": "redisRCE复盘",
+    "https://mp.weixin.qq.com/s/EXwz-HaHLoo0eFcG4zU4Ew": "【高危漏洞预警】Citrix NetScaler ADC ∕ NetScaler Gateway预认证命令注入远程代码执行漏洞CVE-2026-88771",
+    "https://mp.weixin.qq.com/s/Ll2JAkr35FbwNOc03QtQ8Q": "CVE-2026-101909 深度解析：Axios 不是漏洞入口，而是原型污染的「放大器」",
+    "https://mp.weixin.qq.com/s/_Z38qSHvDhI-X5NwN9SnAg": "(10分) CVE-2026-102240：Netcore AP未认证命令注入，一条GET拿root",
+    "https://mp.weixin.qq.com/s/Psj1IUoiG1_oab5VgHZRNQ": "54款大模型测出873个漏洞，网安生该学什么？",
+    "https://mp.weixin.qq.com/s/blesnGMBRJCqH2ImkBSaRg": "Linux容器逃逸漏洞细节及概念验证（PoC）代码披露",
+    "https://mp.weixin.qq.com/s/vPfYBWQgkcMIAm9KGcUPXg": "iOS 26.7.1 发布了：一个已经被用过的漏洞",
+    "https://mp.weixin.qq.com/s/CFQdEGhb3d7ulwAsnmCLRQ": "【安全圈】看张图片就中招？苹果的这个漏洞你一定要看"
 }

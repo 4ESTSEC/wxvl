@@ -22637,5 +22637,21 @@
     "https://mp.weixin.qq.com/s/vPfYBWQgkcMIAm9KGcUPXg": "iOS 26.7.1 发布了：一个已经被用过的漏洞",
     "https://mp.weixin.qq.com/s/CFQdEGhb3d7ulwAsnmCLRQ": "【安全圈】看张图片就中招？苹果的这个漏洞你一定要看",
     "https://mp.weixin.qq.com/s/-ps4Hty70QFXHX1bRSjpeg": "路径遍历漏洞：一个下载接口引发的系统文件泄露",
-    "https://mp.weixin.qq.com/s/JyXkDWmGtCn2rYsY9iEoMQ": "16岁研究员发现微软身份验证漏洞，导致17.3万亿条记录泄露"
+    "https://mp.weixin.qq.com/s/JyXkDWmGtCn2rYsY9iEoMQ": "16岁研究员发现微软身份验证漏洞，导致17.3万亿条记录泄露",
+    "https://mp.weixin.qq.com/s/_NWYy8Ur6cxBfK9dUlgqSQ": "【热点安全风险】9月30日｜Apple 修复已在野利用的零日漏洞，攻击者可用恶意文件执行任意代码（CVE-2026-86950）",
+    "https://mp.weixin.qq.com/s/wqsrriG6sd1HD5Yi_AJDDg": "斗象科技谢忱：AI大模型改写漏洞攻防，旧规则已经失效",
+    "https://mp.weixin.qq.com/s/DZiJD9--wf0yPRuc7GfWFg": "(10分) CVE-2026-53988：Dockhand Docker面板认证绕过",
+    "https://mp.weixin.qq.com/s/s2NNp02nGW4JoauDoSxcwA": "CVE-2026-94545 Next.js next∕og 未经身份验证的远程代码执行 POC",
+    "https://mp.weixin.qq.com/s/lP0Lx-LIkgvY_xJ7DFrl2g": "300+工具 + 7大AI引擎 + 6.8万漏洞库：这款安全工具箱太顶了！",
+    "https://mp.weixin.qq.com/s/gbDHx7Z3vwo0oVpyF09vow": "Netcore NAP930 的免凭据 root 通道（CVE-2026-102240）",
+    "https://mp.weixin.qq.com/s/qbsogI0kBbzZaf9KxQOb_Q": "漏洞预警 | Notepad++栈缓冲区溢出漏洞",
+    "https://mp.weixin.qq.com/s/0qjdfPjIXOfK9vLj0KOGRA": "【漏洞复现】CVE-2026-51990 | 搜狗输入法Windows版远程代码执行漏洞",
+    "https://mp.weixin.qq.com/s/U8Ic-qHbhXaxUo5QsOaqbA": "CNVD挖洞SKILL通用漏洞新思路 | 未授权漏洞批量挖掘方案，冷门产品线 + 端点字典，只读探测一键跑通全链路",
+    "https://mp.weixin.qq.com/s/zFtuvbx23UY9APdf6fyl5A": "苹果修补疑遭定向利用的图形漏洞",
+    "https://mp.weixin.qq.com/s/Z1i5-bJrvrYbohcf7KzNxA": "漏洞预警 | WordPress编码绕过漏洞",
+    "https://mp.weixin.qq.com/s/ycEetNgdOshlwOE4CCRDtQ": "Next.js ImageResponse RCE漏洞（附POC）",
+    "https://mp.weixin.qq.com/s/a66gwLbhIeE9k8MLvSpC8A": "OpenCode 曝远程代码执行漏洞：一个 Content-Type 混淆如何变成 RCE",
+    "https://mp.weixin.qq.com/s/9GOF6ZkqLjadkeOFHPpWnQ": "集合循环引用导致拒绝服务漏洞",
+    "https://mp.weixin.qq.com/s/zOGai1n1tTcCu_A5R_Oe4w": "苹果修复或已用于定向攻击的 CoreGraphics 漏洞",
+    "https://mp.weixin.qq.com/s/10G9dLWI_K-pqf2v-YoNFw": "【已复现】VMware vCenter 远程代码执行漏洞（CVE-2026-59310）"
 }

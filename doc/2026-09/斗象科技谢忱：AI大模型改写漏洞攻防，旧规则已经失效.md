@@ -1,9 +1,8 @@
 #  斗象科技谢忱：AI大模型改写漏洞攻防，旧规则已经失效  
- FreeBuf   2026-09-29 10:00  
+斗象科技
+                    斗象科技  兰花豆说网络安全   2026-09-30 01:15  
   
-![FreeBuf](https://mmbiz.qpic.cn/sz_mmbiz_gif/icBE3OpK1IX2ZuacU4zcmMmhEDq4NWm6MJYKiaZnGD3ibvUgOIpJcdwoHtth3M7iaseyoD96wMbZFHtrFRQCrB33xKP3z9ic4tOz2tIJoekn3uUA/640?wx_fmt=gif "")  
-  
-![图片](https://mmecoa.qpic.cn/mmecoa_png/jpCFCFfaGRFZlEdJXCNicSSg24CGXyQMmOHtKSkDRLzYFkHKqP1aMlsFQOnXAHN7ToNharL3tq97Bzcs8xgeIIHsAcZA9wjQjPK7m1ahSDUk/640?wx_fmt=png&from=appmsg&tp=wxpic&wxfrom=10005&wx_lazy=1#imgIndex=0 "")  
+![](https://mmecoa.qpic.cn/mmecoa_png/jpCFCFfaGRFZlEdJXCNicSSg24CGXyQMmOHtKSkDRLzYFkHKqP1aMlsFQOnXAHN7ToNharL3tq97Bzcs8xgeIIHsAcZA9wjQjPK7m1ahSDUk/640?wx_fmt=png&from=appmsg#imgIndex=0 "")  
   
 9月22日，第十六届网络安全漏洞分析与风险评估大会（VARA）在重庆科学会堂举办。本届大会聚焦人工智能发展与安全，围绕人工智能漏洞治理、网络数据安全、智能化技术应用等前沿议题展开深入交流。斗象科技受邀参会，并在大会现场获授“2026年度国家人工智能安全漏洞库优秀技术支撑单位”。  
   
@@ -12,7 +11,7 @@
   
 ****  
   
-![](https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX1N9Dye3BZ63BwGpxOyprmuxtQRKbf7yFoUiaD5n1TsaSBogE8nEfvMhCqFd1f9eia0vNqyepUUD7pt1oZwdrzfQgk1sTJmamfvA/640?wx_fmt=jpeg&from=appmsg "")  
+![](https://mmbiz.qpic.cn/mmbiz_jpg/ribStUdgfRibQ3ZGvI8jsBBOXhZ0cLerG10PBWUFIpvhAZlFrxVdKbVzibuq3ZINNJEtpUue7g6Gtph8oLFiabIw75MYAXj2icVWGXlP3QoJn47A/640?wx_fmt=jpeg&from=appmsg "")  
   
 斗象科技创始人、董事长谢忱  
   
@@ -20,12 +19,12 @@
 以下为演讲内容整理：  
   
   
-![图片](https://mmecoa.qpic.cn/mmecoa_png/jpCFCFfaGRE9GWuubp5AzQIuibCibZhQItcosqQBfhnZpsUvUQP7E6eax9bZcOqPvsyIQ5OEgPqVpSLU7OS4ZAMJRsZxBExibLwDqOHNU3IRVQ/640?wx_fmt=png&from=appmsg&tp=wxpic&wxfrom=10005&wx_lazy=1#imgIndex=2 "")  
+![](https://mmecoa.qpic.cn/mmecoa_png/jpCFCFfaGRE9GWuubp5AzQIuibCibZhQItcosqQBfhnZpsUvUQP7E6eax9bZcOqPvsyIQ5OEgPqVpSLU7OS4ZAMJRsZxBExibLwDqOHNU3IRVQ/640?wx_fmt=png&from=appmsg#imgIndex=2 "")  
   
 各位领导、专家、业界同仁，大家好。我是斗象科技创始人谢忱。今天非常荣幸来到VARA大会，与大家探讨一个具有行业分水岭意义的课题：安全大模型如何接管漏洞的挖掘、武器化与治理全生命周期，带领我们走向真正的“自治”。  
   
   
-![图片](https://mmecoa.qpic.cn/sz_mmecoa_png/jpCFCFfaGRFibSCvXndb5ia1bKhuPkNG2gcibF6MPRZiazOGZ0aWpw0pk11ZCXUp2exTGWJSv32ZoHQUrxeJv1TNvXF5lGlub2casNliaDneBWNI/640?wx_fmt=png&from=appmsg&tp=wxpic&wxfrom=10005&wx_lazy=1#imgIndex=3 "")  
+![](https://mmecoa.qpic.cn/sz_mmecoa_png/jpCFCFfaGRFibSCvXndb5ia1bKhuPkNG2gcibF6MPRZiazOGZ0aWpw0pk11ZCXUp2exTGWJSv32ZoHQUrxeJv1TNvXF5lGlub2casNliaDneBWNI/640?wx_fmt=png&from=appmsg#imgIndex=3 "")  
   
 我最近看到一个有意思的数据：Verizon发布的《2026年数据泄露调查报告》显示，  
 **漏洞****利用首次超越窃取凭据，成为黑产****最主要的初始****入****侵途****径**  
@@ -42,11 +41,10 @@
 **如今，大模型正在接替“连接器”的角色，将原本割裂的工具和环节串联起来，推动漏洞研究从单点自动化走向全生命周期自治。**  
   
   
-![图片](https://mmecoa.qpic.cn/mmecoa_png/jpCFCFfaGRFQic4T30JlyJib60Ie5um4LD9JHKkFUZGQYvHVzyDHp1lmCbAYbibrEva5spbsRdCuenV5IMtmC6LKFz2lUkVxmqt50A4sc6icALo/640?wx_fmt=png&from=appmsg&tp=wxpic&wxfrom=10005&wx_lazy=1#imgIndex=4 "")  
+![](https://mmecoa.qpic.cn/mmecoa_png/jpCFCFfaGRFQic4T30JlyJib60Ie5um4LD9JHKkFUZGQYvHVzyDHp1lmCbAYbibrEva5spbsRdCuenV5IMtmC6LKFz2lUkVxmqt50A4sc6icALo/640?wx_fmt=png&from=appmsg#imgIndex=4 "")  
   
   
-类似的变化已经发生在全球前沿实践中。OpenAI正通过Daybreak体系，以及与美国白帽众测平台  
-HackerOne等公司推进的Patch the Planet计划，将AI从漏洞发现进一步延伸至验证、补丁生成、测试与协调披露。  
+类似的变化已经发生在全球前沿实践中。OpenAI正通过Daybreak体系，以及与美国白帽众测平台HackerOne等公司推进的Patch the Planet计划，将AI从漏洞发现进一步延伸至验证、补丁生成、测试与协调披露。  
   
   
 这释放了一个明确的信号：安全AI的竞争，正在从“AI发现一个漏洞”，走向“AI端到端解决一个漏洞”  
@@ -56,8 +54,7 @@ HackerOne等公司推进的Patch the Planet计划，将AI从漏洞发现进一�
   
 而硬币另一面是  
 **AI****能力越大，风险越大**  
-。  
-Hugging Face智能体失控事件中，约1200个本应隔离的智能体通过未授权留言板共谋，产生7万多条消息，其中约700个智能体实际发起攻击。  
+。Hugging Face智能体失控事件中，约1200个本应隔离的智能体通过未授权留言板共谋，产生7万多条消息，其中约700个智能体实际发起攻击。  
   
   
 这提醒我们，当AI不再只是“给建议”，而是开始调用真实工具、操作真实环境、持续执行任务，权限、隔离、审计和人工授权就必须同步进入系统底层。  
@@ -66,7 +63,7 @@ Hugging Face智能体失控事件中，约1200个本应隔离的智能体通过�
 **真正的自治，不是简单地把人拿掉，而是重新定义人和机器之间的授权边界。**  
   
   
-![图片](https://mmecoa.qpic.cn/mmecoa_png/jpCFCFfaGRHmt3D6Ul9Xeb5YWgfIjhhEB0k2Yh4Gt4I2bHsBRiaiaDEKMV1XpUwCEdTnMPXjtSY3v1qqteibLY2coI0NQgibdHkjPzQpZSHFRC0/640?wx_fmt=png&from=appmsg&tp=wxpic&wxfrom=10005&wx_lazy=1#imgIndex=5 "")  
+![](https://mmecoa.qpic.cn/mmecoa_png/jpCFCFfaGRHmt3D6Ul9Xeb5YWgfIjhhEB0k2Yh4Gt4I2bHsBRiaiaDEKMV1XpUwCEdTnMPXjtSY3v1qqteibLY2coI0NQgibdHkjPzQpZSHFRC0/640?wx_fmt=png&from=appmsg#imgIndex=5 "")  
   
 从去年开始，安全行业都在尝试让大模型挖漏洞。但大家普遍遇到了一个尴尬的痛点：  
   
@@ -79,7 +76,7 @@ Hugging Face智能体失控事件中，约1200个本应隔离的智能体通过�
 的闭环任务。理解代码、搭建环境、寻找入口、提出假设、构造输入、观察异常、推翻假设、重新验证……任何关键步骤失败，都可能导致整条链路中断。  
   
   
-![图片](https://mmecoa.qpic.cn/mmecoa_png/jpCFCFfaGRFd724HPJT2CKIibrVHjIhsuDiahibBJgopShENJsQY6162NFgKOaVkLBZx5oYicl7yZevNA6AfZD9hiaj1PW7jps1tEfkGE9KzDpPA/640?wx_fmt=png&from=appmsg&tp=wxpic&wxfrom=10005&wx_lazy=1#imgIndex=6 "")  
+![](https://mmecoa.qpic.cn/mmecoa_png/jpCFCFfaGRFd724HPJT2CKIibrVHjIhsuDiahibBJgopShENJsQY6162NFgKOaVkLBZx5oYicl7yZevNA6AfZD9hiaj1PW7jps1tEfkGE9KzDpPA/640?wx_fmt=png&from=appmsg#imgIndex=6 "")  
   
 ****  
 **我认为，大模型进入实战漏洞研究，必须翻越“三座大山”：长程执行、专家记忆、多智能体协同。**  
@@ -89,8 +86,7 @@ Hugging Face智能体失控事件中，约1200个本应隔离的智能体通过�
 **斗象旗下的漏洞盒子白帽社区、众测平台和FreeBuf平台积累了高质量知识和专家经验，这也成为我们探索大模型经验记忆的重要基础。**  
   
   
-而把模型、工具、Memory、Runtime、环境反馈和验证机制真正组织起来的，就是  
-Harness。  
+而把模型、工具、Memory、Runtime、环境反馈和验证机制真正组织起来的，就是Harness。  
   
   
 在我看来，模型与系统的分工就像“研究员与实验室”：模型智能负责理解与判断，系统智能负责保存状态、组织工具、验证结果。两者相互配合，才能共同完成复杂任务。  
@@ -102,7 +98,7 @@ Harness。
 当Prompt工程、工具调用和流程编排逐渐被模型吸收之后，真正拉开差距的，将越来越不是一句Prompt写得有多好，而是谁能为AI构建一个能够持续工作的系统环境。基于这一工程理念，**斗象在实战中构建了面向不同任务维度的多Harness体****系：**  
   
   
-![图片](https://mmecoa.qpic.cn/sz_mmecoa_png/jpCFCFfaGRFa6XVrOKu4v9xNDQ2PKBaVu0Zh7MhTkxyA5SwJ5RibOOEswqJfHePWlkW2Yj0NgCBGibqKKcS4eSTWfjgt26yFzRXZtcLlh9e4M/640?wx_fmt=png&from=appmsg&tp=wxpic&wxfrom=10005&wx_lazy=1#imgIndex=7 "")  
+![](https://mmecoa.qpic.cn/sz_mmecoa_png/jpCFCFfaGRFa6XVrOKu4v9xNDQ2PKBaVu0Zh7MhTkxyA5SwJ5RibOOEswqJfHePWlkW2Yj0NgCBGibqKKcS4eSTWfjgt26yFzRXZtcLlh9e4M/640?wx_fmt=png&from=appmsg#imgIndex=7 "")  
   
   
 **Sonic Harness解决“挖得更持久”：**  
@@ -111,7 +107,7 @@ Harness。
 过去测试的是模型“一次回答有多好”，现在测试的是AI“一件事情究竟能干多久”。  
   
   
-![图片](https://mmecoa.qpic.cn/sz_mmecoa_png/jpCFCFfaGREGkz1d6zicI28ia1yibl9t53HWVWiap1B8At0kOWloZbeaL3BCNaNkKWu2I8JFNjZCazk77yynojc1nOibgb00ZWMyzkkEVyD3lZNY/640?wx_fmt=png&from=appmsg&tp=wxpic&wxfrom=10005&wx_lazy=1#imgIndex=8 "")  
+![](https://mmecoa.qpic.cn/sz_mmecoa_png/jpCFCFfaGREGkz1d6zicI28ia1yibl9t53HWVWiap1B8At0kOWloZbeaL3BCNaNkKWu2I8JFNjZCazk77yynojc1nOibgb00ZWMyzkkEVyD3lZNY/640?wx_fmt=png&from=appmsg#imgIndex=8 "")  
   
   
 **Pokemon Harness解决“挖得更全面”：**  
@@ -121,15 +117,14 @@ Harness。
 Sonic侧重持续深入，Pokemon侧重协同覆盖。最终指向同一件事：让漏洞研究从“依赖一个高手”，变成一套可以持续运行、规模复制的机器化研究体系。  
   
   
-近期，在漏洞盒子平台“  
-赛博司机”人机协同漏洞赏金计划中，  
+近期，在漏洞盒子平台“赛博司机”人机协同漏洞赏金计划中，  
 **斗象与MiniMax联合发起****白帽Token Plan**  
 ，进一步将白帽研究者的判断与反馈接入这套体系，探索  
 **Human-in-the-loop**  
 的人机协同。  
   
   
-![图片](https://mmecoa.qpic.cn/sz_mmecoa_png/jpCFCFfaGRHRYRpyVibGnIQbj0MOIIPxlLNicUSrZ9s4xxonyKiawibbsUEoWqIndR64a5jQBPRGgpkYLz1ibA8fjhibeckVW802LfeFozMIibDrs4/640?wx_fmt=png&from=appmsg&tp=wxpic&wxfrom=10005&wx_lazy=1#imgIndex=9 "")  
+![](https://mmecoa.qpic.cn/sz_mmecoa_png/jpCFCFfaGRHRYRpyVibGnIQbj0MOIIPxlLNicUSrZ9s4xxonyKiawibbsUEoWqIndR64a5jQBPRGgpkYLz1ibA8fjhibeckVW802LfeFozMIibDrs4/640?wx_fmt=png&from=appmsg#imgIndex=9 "")  
   
 如果说漏洞发现解决的是“有没有问题”，那么漏洞研究和利用要回答的是“这个问题到底能造成什么”，漏洞修复则要进一步回答“如何消除这一风险”。  
   
@@ -142,7 +137,7 @@ Sonic侧重持续深入，Pokemon侧重协同覆盖。最终指向同一件事�
 **斗象正在推进Cyber AI网络安全大模型。**  
   
   
-![图片](https://mmecoa.qpic.cn/mmecoa_png/jpCFCFfaGREO1IiaoYFI303WJCnJbBeq5rnGEw77BcUicLfpHCp7Hl9F0YcI6LdV0ECSaBcWcdr0q40uWs92QyIofsVGf624YicbBmz78k6IhI/640?wx_fmt=png&from=appmsg&tp=wxpic&wxfrom=10005&wx_lazy=1#imgIndex=10 "")  
+![](https://mmecoa.qpic.cn/mmecoa_png/jpCFCFfaGREO1IiaoYFI303WJCnJbBeq5rnGEw77BcUicLfpHCp7Hl9F0YcI6LdV0ECSaBcWcdr0q40uWs92QyIofsVGf624YicbBmz78k6IhI/640?wx_fmt=png&from=appmsg#imgIndex=10 "")  
   
   
 我们希望，这套体系不止于单一模型的训练提升，更能**通过数据、验证与反馈形成持续迭代的闭环。**  
@@ -160,7 +155,7 @@ Sonic侧重持续深入，Pokemon侧重协同覆盖。最终指向同一件事�
 目前，我们正在联合国内外相关科研机构对Cyber AI进行更严苛的能力评测和受控使用研究。因为当AI真正拥有了武器化利用的能力，我们不仅要回答“AI能做到什么”，更必须严谨界定：“我们允许AI做到什么”。  
   
   
-![图片](https://mmecoa.qpic.cn/sz_mmecoa_png/jpCFCFfaGRF4ibS4WE3latMlYAeGfvAkibcspEkQbau5CT4ick786KveyL44bVJRcxsTibtwPyu536DYZZx9AVKfu43PmgjiafSmxCW1QwkAd5Ck/640?wx_fmt=png&from=appmsg&tp=wxpic&wxfrom=10005&wx_lazy=1#imgIndex=11 "")  
+![](https://mmecoa.qpic.cn/sz_mmecoa_png/jpCFCFfaGRF4ibS4WE3latMlYAeGfvAkibcspEkQbau5CT4ick786KveyL44bVJRcxsTibtwPyu536DYZZx9AVKfu43PmgjiafSmxCW1QwkAd5Ck/640?wx_fmt=png&from=appmsg#imgIndex=11 "")  
   
 AI让漏洞研究越来越快，但这并不天然意味着企业会更安全。  
   
@@ -188,7 +183,7 @@ WannaCry曾留下一个深刻教训：2017年3月14日，微软已发布相关�
 **斗象XVI扩展漏洞情报把漏洞从一条“信息”转化成可行动的情报；TVPR等风险评价能力帮助企业决定“先修什么”；从PoC进一步生成检测、防护规则，让情报可以直接驱动机器响应；AI漏洞审核助手通过多Agent承担规模化研判；漏洞修补智能体继续向修复和验证延伸。**  
   
   
-![图片](https://mmecoa.qpic.cn/sz_mmecoa_png/jpCFCFfaGRHkwIShsv8TW4wNwlNVosl2wOibIUVIpOWmLh4K4QLeuLWJvdO8ejGbGzGRC4DECUBZfdk5uic7icCqVlkAibDVkg2Ocic77enIxdn4/640?wx_fmt=png&from=appmsg&tp=wxpic&wxfrom=10005&wx_lazy=1#imgIndex=12 "")  
+![](https://mmecoa.qpic.cn/sz_mmecoa_png/jpCFCFfaGRHkwIShsv8TW4wNwlNVosl2wOibIUVIpOWmLh4K4QLeuLWJvdO8ejGbGzGRC4DECUBZfdk5uic7icCqVlkAibDVkg2Ocic77enIxdn4/640?wx_fmt=png&from=appmsg#imgIndex=12 "")  
   
   
 而这一切最终都运行在  
@@ -196,14 +191,14 @@ WannaCry曾留下一个深刻教训：2017年3月14日，微软已发布相关�
 之上，让漏洞自治真正运行在可观测、可控制、可管理的框架之内。因为AI越能干，治理就越重要。  
   
   
-![图片](https://mmecoa.qpic.cn/mmecoa_png/jpCFCFfaGRFPT9XB9nbUN9czVL32hZFk9aRHUz64XwpxN5c3On8KPc9FQpiaVueyeMKX432m9PyeBZ40aHiakRulvIOM3Suc81dmfUapnuMpo/640?wx_fmt=png&from=appmsg&tp=wxpic&wxfrom=10005&wx_lazy=1#imgIndex=13 "")  
+![](https://mmecoa.qpic.cn/mmecoa_png/jpCFCFfaGRFPT9XB9nbUN9czVL32hZFk9aRHUz64XwpxN5c3On8KPc9FQpiaVueyeMKX432m9PyeBZ40aHiakRulvIOM3Suc81dmfUapnuMpo/640?wx_fmt=png&from=appmsg#imgIndex=13 "")  
   
-![图片](https://mmecoa.qpic.cn/mmecoa_png/jpCFCFfaGRFRmYZbtbobo1OHSLFV8N2sHSMdqlhTj4yPJTo461w0GYu4G3AzqI4ibelSMOds6A83L1qjvBTicv0Sopeocibiacdemn2rQ2OR3us/640?wx_fmt=png&from=appmsg&tp=wxpic&wxfrom=10005&wx_lazy=1#imgIndex=14 "")  
+![](https://mmecoa.qpic.cn/mmecoa_png/jpCFCFfaGRFRmYZbtbobo1OHSLFV8N2sHSMdqlhTj4yPJTo461w0GYu4G3AzqI4ibelSMOds6A83L1qjvBTicv0Sopeocibiacdemn2rQ2OR3us/640?wx_fmt=png&from=appmsg#imgIndex=14 "")  
   
 参照自动驾驶L0—L5的分级思路，安全AI正沿着从Copilot到Autopilot的路径演进。但这条路径的关键，不是把所有决策都交给机器，而是让机器在明确授权下承担更多工作，让人能够把精力集中到目标设定、关键判断与责任把关上。  
   
   
-![图片](https://mmecoa.qpic.cn/mmecoa_png/jpCFCFfaGREZ4gVhxkDD8XkIwFnee35IluFm07zvlOQRlP0wPvAzqGxE6Vv9ia3BjASXZuClWJ49jukOIPqW2BDFxzF0iczjDIdia0lnEGKpAs/640?wx_fmt=png&from=appmsg&tp=wxpic&wxfrom=10005&wx_lazy=1#imgIndex=15 "")  
+![](https://mmecoa.qpic.cn/mmecoa_png/jpCFCFfaGREZ4gVhxkDD8XkIwFnee35IluFm07zvlOQRlP0wPvAzqGxE6Vv9ia3BjASXZuClWJ49jukOIPqW2BDFxzF0iczjDIdia0lnEGKpAs/640?wx_fmt=png&from=appmsg#imgIndex=15 "")  
   
 这也是网络安全生产方式的一次重新分工。AI负责持续执行，人负责确定边界；系统必须让每一步行动可追溯、每一项结果可验证，并在人需要时能够及时接管。自治程度越高，这些能力就越要扎实。  
   
@@ -220,29 +215,6 @@ WannaCry曾留下一个深刻教训：2017年3月14日，微软已发布相关�
 让AI发现漏洞的速度，转化为我们消除风险的速度。这才是漏洞自治最终要交付的价值。  
   
   
-###   
-  
-### 推荐阅读  
-  
-  
-[](https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651347479&idx=1&sn=1cf9c858a30d0b7af06d196002bd2913&scene=21#wechat_redirect)  
-  
-  
-###   
-  
-### 电报讨论  
-  
-  
-[]()  
-  
-  
-  
-![扫码加入AI安全交流群](https://mmbiz.qpic.cn/mmbiz_png/icBE3OpK1IX0Py7ibxdLKXia1pMziaic5vIE9XPXG9OGaeJDa07iaG10eicuzhW59nwpF5msHiaYZvfMqCNkx2aFDiaMzm3oAf4rTaHXU5UAI1mUYgts/640?wx_fmt=png "")  
-  
-  
-  
-![下载FreeBuf知识大陆APP](https://mmbiz.qpic.cn/mmbiz_png/icBE3OpK1IX0TIGzII2Hcmtzu7AJeZFicnqd1mXojVoawje2uLxYqwJbVgzJpmSXzVhrpOsLurRZ2lVa4vfgLBqg7uJKbrKg5F18VzZxVPicZU/640?wx_fmt=png "")  
-  
-  
+![](https://mmecoa.qpic.cn/mmecoa_gif/jpCFCFfaGRGxmnmDNBoAUflKYic4DFcUAJ7dS0KeLGr1HIqHJUG6ICTichiazPybVAOSo5eW3NF0040ypCjBdQp4vSNbAyh3SN9YpfJ2A6TXDM/640?wx_fmt=gif&from=appmsg#imgIndex=16 "")  
   
   

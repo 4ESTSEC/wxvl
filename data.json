@@ -22678,5 +22678,20 @@
     "https://mp.weixin.qq.com/s/UXISN-owhS5b7IDcTWAIZA": "CFCA安全响应中心「洞寻」上线｜打造金融行业漏洞检测新范式",
     "https://mp.weixin.qq.com/s/3wGsbpxZc_tjL8u7RFalRw": "Bitget披露3.88亿美元被盗细节，第三方安全产品0Day成入侵入口",
     "https://mp.weixin.qq.com/s/eqe3d6YPvHO8T7Orx3Z_dg": "【安全圈】OpenSSL修复DTLS高危漏洞：重传逻辑缺陷致未加密堆内存外泄",
-    "https://mp.weixin.qq.com/s/UBeYadj2ZoueSaH1d5CgWA": "【安全速报】9月30日高危漏洞紧急预警"
+    "https://mp.weixin.qq.com/s/UBeYadj2ZoueSaH1d5CgWA": "【安全速报】9月30日高危漏洞紧急预警",
+    "https://mp.weixin.qq.com/s/QPRiWCsUvv8dCJZTvUT_gA": "SharePoint与MikroTik曝高危RCE，黑客已在疯狂利用！",
+    "https://mp.weixin.qq.com/s/5zDwnQQZcSk7iz-h3sNlGA": "HexStrike AI：127个工具+MCP协议，我把Kali变成了AI驱动的攻击平台，但它把自己也变成了漏洞",
+    "https://mp.weixin.qq.com/s/EbnIHz5rfb8RJSuu-JmwNQ": "(9.8分) CVE-2026-76504：思科SD-WAN管理平台认证绕过",
+    "https://mp.weixin.qq.com/s/KuD2CdtI6mzPMFHi6Nqr6A": "【已复现】Citrix NetScaler 预认证远程代码执行漏洞（CVE-2026-88772）",
+    "https://mp.weixin.qq.com/s/tJKiXbtJNbhUgHji8sU9jA": "MikroTik RouterOS 严重漏洞可导致未认证根 RCE",
+    "https://mp.weixin.qq.com/s/DRfz2VWHun00esyAVPseRw": "Next.js CVE-2026-94545 分析：next∕og 里没转义的引号，和一个没讲完的 RCE",
+    "https://mp.weixin.qq.com/s/Wxm3mlc1Ql4oeQa6-ysoiA": "记一次曲折的onlyoffice漏洞利用，成功getshell！",
+    "https://mp.weixin.qq.com/s/-eBKnSNJ0T7g5WB_wNAROQ": "渗透测试从业者的新武器 AI 插件主动打 payload，凭证据判定漏洞",
+    "https://mp.weixin.qq.com/s/OZNzUiH_gqfVFxIZNgRQzA": "Windows PoC 工厂上线：PoCSmith 把逆向、调试、复现全自动化",
+    "https://mp.weixin.qq.com/s/2mwry3k_ITtvniFkoOOmgQ": "仅用一个字符绕过WAF！Oracle PeopleSoft 顶级漏洞 (CVE-2026-35273) 攻击链深度解析",
+    "https://mp.weixin.qq.com/s/7FJ54VCLRF7rQib5k2o3RA": "(9.9分) CVE-2026-102911：pi-llm-wiki MCP工具命令注入RCE",
+    "https://mp.weixin.qq.com/s/ACcihEtNAyF5AaEI2HxQgg": "AI代理挖洞：从代码到RCE的漏洞研究工作流",
+    "https://mp.weixin.qq.com/s/1-7PeY7hGDxRZ_FodNMiTg": "从一个 Schema 名到 RCE：n8n 原型污染漏洞（CVE-2026-33696）分析",
+    "https://mp.weixin.qq.com/s/ZYkuZzCQpkrzFiBEo4RVxw": "【转译】从SELECT到SYSADMIN：用SQL Copilot提权（CVE-2026-65669） 值得一看",
+    "https://mp.weixin.qq.com/s/iCT-ZLl9bnCJseC5s66pUA": "SolarWinds 的严重漏洞使攻击者能够远程在服务器上执行代码"
 }

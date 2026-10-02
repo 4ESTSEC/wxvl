@@ -22694,5 +22694,15 @@
     "https://mp.weixin.qq.com/s/1-7PeY7hGDxRZ_FodNMiTg": "从一个 Schema 名到 RCE：n8n 原型污染漏洞（CVE-2026-33696）分析",
     "https://mp.weixin.qq.com/s/ZYkuZzCQpkrzFiBEo4RVxw": "【转译】从SELECT到SYSADMIN：用SQL Copilot提权（CVE-2026-65669） 值得一看",
     "https://mp.weixin.qq.com/s/iCT-ZLl9bnCJseC5s66pUA": "SolarWinds 的严重漏洞使攻击者能够远程在服务器上执行代码",
-    "https://mp.weixin.qq.com/s/nB9DOIw-SSnDEHTdF3VvCA": "CVE-2026-94545 Next.js next∕og 未经身份验证的远程代码执行"
+    "https://mp.weixin.qq.com/s/nB9DOIw-SSnDEHTdF3VvCA": "CVE-2026-94545 Next.js next∕og 未经身份验证的远程代码执行",
+    "https://mp.weixin.qq.com/s/Ev_ARKesczpvBp6VURodtQ": "【安全圈】苹果官方：iPhone 18 Pro系列确有系统漏洞",
+    "https://mp.weixin.qq.com/s/tMVL3voS8eWyoMDjEpa7ig": "(9.8分) CVE-2026-75957：WordPress建站SaaS插件认证绕过",
+    "https://mp.weixin.qq.com/s/d9fa5mA9YsTr0SwUu0N27g": "(9.8分) CVE-2026-104286：FortiMail任意文件写入",
+    "https://mp.weixin.qq.com/s/Su4MwA39jAdS93ia0iJo3Q": "Google披露Citrix 0Day攻击，黑客植入Web Shell攻入企业内网",
+    "https://mp.weixin.qq.com/s/_yGIPUvOQSgkpNQw94cCWQ": "能信安：安全漏洞通报",
+    "https://mp.weixin.qq.com/s/UlDalkFzjZ5D9El8szU3fA": "黑客利用PaperCut 0Day入侵打印服务器，不到两天攻陷域控制器",
+    "https://mp.weixin.qq.com/s/uPK4IrapyGDCtPVIPuO-1A": "Plugin4Shell：波及26万台设备的AI编程助手零点击RCE漏洞",
+    "https://mp.weixin.qq.com/s/diaIdIUSuuanw-6O97nDxg": "【CVE-2026-54415】Azuriom CMS 越权服务器管理导致账号接管",
+    "https://mp.weixin.qq.com/s/-rSZzKYiWpJVq8QkQNEapg": "特殊文件名上传导致群组文件功能拒绝服务漏洞",
+    "https://mp.weixin.qq.com/s/_VHQbeOHqFnkai8NtG6S8w": "【安全圈】远程桌面软件TeamViewer被曝多个高危漏洞"
 }

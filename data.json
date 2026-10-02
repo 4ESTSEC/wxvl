@@ -22704,5 +22704,11 @@
     "https://mp.weixin.qq.com/s/uPK4IrapyGDCtPVIPuO-1A": "Plugin4Shell：波及26万台设备的AI编程助手零点击RCE漏洞",
     "https://mp.weixin.qq.com/s/diaIdIUSuuanw-6O97nDxg": "【CVE-2026-54415】Azuriom CMS 越权服务器管理导致账号接管",
     "https://mp.weixin.qq.com/s/-rSZzKYiWpJVq8QkQNEapg": "特殊文件名上传导致群组文件功能拒绝服务漏洞",
-    "https://mp.weixin.qq.com/s/_VHQbeOHqFnkai8NtG6S8w": "【安全圈】远程桌面软件TeamViewer被曝多个高危漏洞"
+    "https://mp.weixin.qq.com/s/_VHQbeOHqFnkai8NtG6S8w": "【安全圈】远程桌面软件TeamViewer被曝多个高危漏洞",
+    "https://mp.weixin.qq.com/s/Ga1bP7YmUA-fZR2HWaRxmA": "AI Agent利用两个0Day攻破荷兰安全机构，数秒内提权至Root",
+    "https://mp.weixin.qq.com/s/W9GnHxrdlFVZsjNd6x177w": "Google发布Gemini 4 Argon，AI可自主挖掘并修复高危漏洞",
+    "https://mp.weixin.qq.com/s/lrt7jKYx9U7PFTKBhXjomA": "CVE-2026-94545 Next.js next∕og 未经身份验证的远程代码执行",
+    "https://mp.weixin.qq.com/s/xaYhE-qbuKHbygQJmB7iBQ": "【安全圈】16岁少年用AI发现微软内部API漏洞：涉及超17万亿行数据，获5000美元赏金",
+    "https://mp.weixin.qq.com/s/Jpe3OMWo8Y8j_Edt6A0Wmw": "【CVE-2026-86950】苹果CoreGraphics高危漏洞PoC公布",
+    "https://mp.weixin.qq.com/s/u_H5UhUkniSlMUm-gkyQHQ": "SDC2026议题预告 | 代码迁移中的安全隐患：Android框架中Java-Kotlin并行实现漏洞的分析与挖掘"
 }

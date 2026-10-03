@@ -22712,5 +22712,8 @@
     "https://mp.weixin.qq.com/s/Jpe3OMWo8Y8j_Edt6A0Wmw": "【CVE-2026-86950】苹果CoreGraphics高危漏洞PoC公布",
     "https://mp.weixin.qq.com/s/u_H5UhUkniSlMUm-gkyQHQ": "SDC2026议题预告 | 代码迁移中的安全隐患：Android框架中Java-Kotlin并行实现漏洞的分析与挖掘",
     "https://mp.weixin.qq.com/s/cF909lppRa8Sct4OjqzK-Q": "(9.8分) CVE-2026-14378：WordPress DevKit Pro 未登录管理员接管",
-    "https://mp.weixin.qq.com/s/AwxC3HnLGNlo7mCQ4lGCmA": "Apache Superset SQL注入漏洞公开发布 PoC"
+    "https://mp.weixin.qq.com/s/AwxC3HnLGNlo7mCQ4lGCmA": "Apache Superset SQL注入漏洞公开发布 PoC",
+    "https://mp.weixin.qq.com/s/du2n-D_EMbzVneaiamqeLQ": "GitLab AI Gateway曝CVSS 9.9严重漏洞(CVE-2026-90970)，认证用户可逃逸模板沙箱执行任意命令",
+    "https://mp.weixin.qq.com/s/H862agm6XxfkiTRG0KrCvw": "Next.js 远程代码执行漏洞 CVE-2026-94545 的 PoC 利用代码已发布",
+    "https://mp.weixin.qq.com/s/RR7OPaHIWAEEA9ixDIpKNQ": "【一周安全资讯1003】《江苏省网络数据安全管理办法（草案）》（征求意见稿）发布；Bitget遭窃3.88亿美元，攻击者利用第三方0Day漏洞入侵"
 }

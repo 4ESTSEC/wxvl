@@ -22738,5 +22738,10 @@
     "https://mp.weixin.qq.com/s/zf7-Y-Ou9gbb2DTJUcyHUg": "当前SRC漏洞挖掘现状",
     "https://mp.weixin.qq.com/s/TmtWRvCeK26jcwyrbDAw8g": "腾讯重磅开源：业界首个项目级漏洞猎杀基准平台 VulnGym 震撼发布",
     "https://mp.weixin.qq.com/s/zEL05AV6RRgPL0QyhhdozA": "从一条聊天消息到主播电脑被完全控制：漏洞连环套如何攻破OBS",
-    "https://mp.weixin.qq.com/s/MeXEmluND2W59oOKChkCLQ": "上海鸿翼软件-电子文档管理系统 importNewBpmnDesignByIe 存在XStream反序列化漏洞"
+    "https://mp.weixin.qq.com/s/MeXEmluND2W59oOKChkCLQ": "上海鸿翼软件-电子文档管理系统 importNewBpmnDesignByIe 存在XStream反序列化漏洞",
+    "https://mp.weixin.qq.com/s/HFXOxA5J0dyRPSjAv3tyJg": "(10分) CVE-2026-105134：AhsayCBS备份服务未授权RCE",
+    "https://mp.weixin.qq.com/s/poCuL2gEOisWNpAX-gOPdw": "戴尔CSM曝两处高危漏洞，未授权攻击者可直接获取管理员权限",
+    "https://mp.weixin.qq.com/s/LaMCw5vQ8L5VjeWTRFYCyQ": "已完成思考Apache HTTP Server 2.4.69 发布：修复 20 个安全漏洞",
+    "https://mp.weixin.qq.com/s/_x1pvunVsjvnwdD0yNq_Zg": "Google报告1-8月漏洞披露量翻倍，AI改变漏洞发现风险结构",
+    "https://mp.weixin.qq.com/s/w4snj5AUdAivTBdf-dU1Kg": "Zammad两处0Day遭在野利用，漏洞链可远程拿下服务器root权限"
 }

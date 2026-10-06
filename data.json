@@ -22743,5 +22743,11 @@
     "https://mp.weixin.qq.com/s/poCuL2gEOisWNpAX-gOPdw": "戴尔CSM曝两处高危漏洞，未授权攻击者可直接获取管理员权限",
     "https://mp.weixin.qq.com/s/LaMCw5vQ8L5VjeWTRFYCyQ": "已完成思考Apache HTTP Server 2.4.69 发布：修复 20 个安全漏洞",
     "https://mp.weixin.qq.com/s/_x1pvunVsjvnwdD0yNq_Zg": "Google报告1-8月漏洞披露量翻倍，AI改变漏洞发现风险结构",
-    "https://mp.weixin.qq.com/s/w4snj5AUdAivTBdf-dU1Kg": "Zammad两处0Day遭在野利用，漏洞链可远程拿下服务器root权限"
+    "https://mp.weixin.qq.com/s/w4snj5AUdAivTBdf-dU1Kg": "Zammad两处0Day遭在野利用，漏洞链可远程拿下服务器root权限",
+    "https://mp.weixin.qq.com/s/uPx__uGTfdiL6ax6inFktg": "从漏洞治理到网络韧性，数字化环境下网络安全治理模式的转型",
+    "https://mp.weixin.qq.com/s/EGPS-PwNvYlXjfnjAL-5oQ": "EasyCVR视频管理平台adduser未授权添加用户漏洞",
+    "https://mp.weixin.qq.com/s/VgA-72KbHkw8NIHgf_2bWw": "N∕A | ShowDoc未授权PHP代码注入漏洞（POC）",
+    "https://mp.weixin.qq.com/s/ZhSJE1K2Ym1C6gQhTIfCBQ": "思科 SD-WAN 严重漏洞允许远程攻击者绕过管理员身份验证",
+    "https://mp.weixin.qq.com/s/WtG9OmIYU04MW2n6RUE0UA": "CVE-2026-61500 | Rejetto HFS会话伪造导致远程代码执行（POC）",
+    "https://mp.weixin.qq.com/s/ndyRu3riUv4AMvv8hSH9Kg": "(9.3分) CVE-2026-61500：HFS文件服务器认证绕过RCE"
 }

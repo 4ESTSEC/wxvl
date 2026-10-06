@@ -22749,5 +22749,11 @@
     "https://mp.weixin.qq.com/s/VgA-72KbHkw8NIHgf_2bWw": "N∕A | ShowDoc未授权PHP代码注入漏洞（POC）",
     "https://mp.weixin.qq.com/s/ZhSJE1K2Ym1C6gQhTIfCBQ": "思科 SD-WAN 严重漏洞允许远程攻击者绕过管理员身份验证",
     "https://mp.weixin.qq.com/s/WtG9OmIYU04MW2n6RUE0UA": "CVE-2026-61500 | Rejetto HFS会话伪造导致远程代码执行（POC）",
-    "https://mp.weixin.qq.com/s/ndyRu3riUv4AMvv8hSH9Kg": "(9.3分) CVE-2026-61500：HFS文件服务器认证绕过RCE"
+    "https://mp.weixin.qq.com/s/ndyRu3riUv4AMvv8hSH9Kg": "(9.3分) CVE-2026-61500：HFS文件服务器认证绕过RCE",
+    "https://mp.weixin.qq.com/s/Lkz7_t09Cj0YoHT5spSPWw": "WebSocket协议漏洞02_IDOR越权与DoS拒绝服务实战",
+    "https://mp.weixin.qq.com/s/UynMv_m53Nb9fnZW0FZCyA": "Dell System Update 5个漏洞：最高严重度9.6，可被用于root权限代码执行",
+    "https://mp.weixin.qq.com/s/AhltFvD-T53Is1fIMbNR5A": "Adminer 5.4.2 三个0-day漏洞分析与修复建议",
+    "https://mp.weixin.qq.com/s/ArSNz3FYoCYZJJ-uRXMpug": "代码能跑就敢上线？这款大厂开源AI审计工具，帮你堵死90%隐形漏洞",
+    "https://mp.weixin.qq.com/s/Yrup0FLt0F2h7HxUMR0lHQ": "账户删除绕过漏洞",
+    "https://mp.weixin.qq.com/s/I_MHFkqXeB69Fc4gXbD1Wg": "震惊！百度开源这款安全扫描工具，精准定位十大Web漏洞，误报率极低！"
 }

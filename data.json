@@ -22835,5 +22835,8 @@
     "https://mp.weixin.qq.com/s/JwRf2GJYQSJ5sm-jCCCXUw": "【漏洞通告】Lite-On O-RU存在命令注入漏洞(CVE-2026-77853)",
     "https://mp.weixin.qq.com/s/Q34tmxXv697P8M1uhb_9Kw": "【漏洞通告】cjose JWE全零密钥漏洞(CVE-2026-53939)",
     "https://mp.weixin.qq.com/s/3hfP5nXwi3e1KjZK7e4YPw": "安信天行再度荣获CNVD\"原创漏洞发现贡献单位\"称号",
-    "https://mp.weixin.qq.com/s/dX1AkFr0omAxrFWEI5Xydw": "BRuteLogic 披露：EJS < v6.0.0-alpha 原型污染可致 RCE"
+    "https://mp.weixin.qq.com/s/dX1AkFr0omAxrFWEI5Xydw": "BRuteLogic 披露：EJS < v6.0.0-alpha 原型污染可致 RCE",
+    "https://mp.weixin.qq.com/s/G2m9XJHCDhbB-CNm1Fbn0A": "Atlassian：注意 Jira 和 Confluence 中严重的文件访问漏洞",
+    "https://mp.weixin.qq.com/s/dN43midSAeaZtRLO9hWQtg": "【高危漏洞预警】Atlassian Data Center未认证任意文件读取漏洞CVE-2026-21589",
+    "https://mp.weixin.qq.com/s/NsEvJLds12dR901y03bAVg": "红帽 OpenShift 漏洞允许攻击者绕过 PGP 检查并推送恶意版本"
 }

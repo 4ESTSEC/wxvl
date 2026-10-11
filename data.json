@@ -22929,5 +22929,18 @@
     "https://mp.weixin.qq.com/s/4sQ0Uxw8HzD7WDV4WoSXQg": "【首批】中国信通院互联网智能体治理 漏洞挖掘智能体能力评估正式启动",
     "https://mp.weixin.qq.com/s/XZxo1jk7V4L9f1gsiSmU9Q": "Fish-src黑盒漏洞挖掘更新啦",
     "https://mp.weixin.qq.com/s/HrBtuk2TONqKZxw9xjpZfA": "VulnHunter：从发现漏洞候选，到验证真实风险",
-    "https://mp.weixin.qq.com/s/KYlCKzU36llnmZsY5UaU8w": "微软发布紧急 Exchange Server 更新以修复 CVE-2026-96940"
+    "https://mp.weixin.qq.com/s/KYlCKzU36llnmZsY5UaU8w": "微软发布紧急 Exchange Server 更新以修复 CVE-2026-96940",
+    "https://mp.weixin.qq.com/s/tbKGl51k694SflFEXb0XJw": "漏洞复现 | 天锐绿盾审批系统 getConfigValues.do 信息泄露漏洞",
+    "https://mp.weixin.qq.com/s/Z7jlodIgkmBr9SkzOM1IgA": "SQLite 0Day大放送：研究员一次性披露14个未公开漏洞，含一条完整RCE",
+    "https://mp.weixin.qq.com/s/ePaxkdX3x61JzOAKofH-XQ": "【已复现】FortiMail 未授权任意文件写入漏洞，已遭在野利用",
+    "https://mp.weixin.qq.com/s/EYmjVeqgd3fsQGizbcIPtg": "(9.1分) CVE-2026-97670：Avada表单未授权调用任意Hook，可永久删站内容",
+    "https://mp.weixin.qq.com/s/NxBMadN-0rSYcKrQST67Lw": "震惊安全圈！百度安全开源Docker漏洞测试环境，80+真实应用即点即用",
+    "https://mp.weixin.qq.com/s/QS0aJgE2W6MsPPLZZh632w": "Laranode服务器管理面板爆出任意文件写入漏洞(POC已公开)",
+    "https://mp.weixin.qq.com/s/KfBQVQiY0yMo5PdLdWZebA": "Anthropic 免费开放 AI 漏洞扫描：开源软件安全，正在进入 AI 自动化时代",
+    "https://mp.weixin.qq.com/s/UaE4prll9wUZlhk0W9S1RQ": "我们用开源 AI 安全代理挖出 24 个安卓漏洞的全过程",
+    "https://mp.weixin.qq.com/s/hmHlNiFOiQZqdjMu7wxVVA": "一个单引号打穿十年ORM：Exposed全版本SQL注入(CVE-2026-108474附PoC)",
+    "https://mp.weixin.qq.com/s/U5QocHhwnm_cLvwwalJiIA": "【热点安全风险】10月11日｜电力工控平台曝未认证远程代码执行漏洞，攻击者可直取电网监测系统（CVE-2026-100730）",
+    "https://mp.weixin.qq.com/s/xnaVsLS-x4RBGMO5P--x4A": "AI智能体渗透：记一次 AI 智能体绕过到 RCE 的过程",
+    "https://mp.weixin.qq.com/s/sCb_jv1BqRh9fcyte8u_IA": "10月社区投稿活动 | 漏洞挖掘∕AI渗透∕面试经验∕简历编写",
+    "https://mp.weixin.qq.com/s/axATpMfcWw_o_voREX3fcQ": "Apache OpenOffice CVE-2026-59265 恶意电子表格代码执行漏洞复现"
 }

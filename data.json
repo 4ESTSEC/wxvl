@@ -22951,5 +22951,7 @@
     "https://mp.weixin.qq.com/s/tmJOJYPh4E2Tr8TdDJn8pA": "Telegram桌面版惊现IPC注入漏洞，点击链接即可被完全劫持账户",
     "https://mp.weixin.qq.com/s/FdX8aw_G8bjNq3bmOvTYpQ": "[工具推荐]专为 SRC场景设计&&一个基于LLM 驱动的多 Agent 协作漏洞挖掘系统--Argus",
     "https://mp.weixin.qq.com/s/QaIGWGIbJdITAaLCf3S9zg": "用友时空KSOA agent_worksdel.jsp SQL延时注入漏洞",
-    "https://mp.weixin.qq.com/s/0Q6MlhAXMwOinskHvyfj8w": "浅析SpringBoot框架常见未授权访问漏洞"
+    "https://mp.weixin.qq.com/s/0Q6MlhAXMwOinskHvyfj8w": "浅析SpringBoot框架常见未授权访问漏洞",
+    "https://mp.weixin.qq.com/s/x6MFuNmAGqpBNXBCs0vrqw": "美国 (CISA) 警告：Zyxel GS1900 交换机漏洞已被积极用于攻击",
+    "https://mp.weixin.qq.com/s/c_f1XVcDeNXNyNgztkR_UA": "聚恒中台sendvalidatecode接口存在SQL注入  附POC"
 }

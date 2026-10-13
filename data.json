@@ -23033,5 +23033,11 @@
     "https://mp.weixin.qq.com/s/xzXf8A6MzLR1ORN7SyGweQ": "【已复现】未认证远程代码执行——AnyDesk Linux 堆缓冲区溢出漏洞（CVE-2026-109390）",
     "https://mp.weixin.qq.com/s/dsm9xgLCkRff122lSI9xwQ": "GitLab修复严重任意代码执行漏洞，无需登录即可远程利用",
     "https://mp.weixin.qq.com/s/BOwVCeBger_scte3X7vEYw": "漏洞预警|GitLab 又曝高危远程代码执行漏洞 CVE-2026-97229 ，CVSS 10.0 ，直接RCE",
-    "https://mp.weixin.qq.com/s/Z469Vpb_qUtj0WFde6_R-Q": "喜报｜海南世纪网安获国家级认证！跻身国家信息安全漏洞库（CNNVD）一级支撑单位"
+    "https://mp.weixin.qq.com/s/Z469Vpb_qUtj0WFde6_R-Q": "喜报｜海南世纪网安获国家级认证！跻身国家信息安全漏洞库（CNNVD）一级支撑单位",
+    "https://mp.weixin.qq.com/s/vU1_7w6GImYuSnDOueBr2g": "赛博安全狗：IBM i 7.3∕7.4∕7.5∕7.6存在非常严重的代码注入漏洞CVE-2026-93886 (10.13)",
+    "https://mp.weixin.qq.com/s/qq8Lj_tTWvy4JGAm9nXKHQ": "【高危漏洞预警】GitLab CI∕CD正则编译器整数溢出远程代码执行漏洞CVE-2026-97229",
+    "https://mp.weixin.qq.com/s/KsSLru3cu1tJdtwUPXrctw": "AI 挖洞越来越快，为什么企业的漏洞还是修不完？",
+    "https://mp.weixin.qq.com/s/Ux1Esne9acGlf_mficz31A": "GitLab 紧急修复严重漏洞，可在服务器上实现任意代码执行",
+    "https://mp.weixin.qq.com/s/mlh9pX_0BnZyZ5gdNlM3og": "AI在漏洞挖掘中的辅助作用",
+    "https://mp.weixin.qq.com/s/zzGpGmXSSvHCxpKpEwMHwg": "全网最全POC 可搭建漏洞库"
 }

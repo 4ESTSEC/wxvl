@@ -23104,5 +23104,11 @@
     "https://mp.weixin.qq.com/s/1PKRxDkQcr6SIXR--hU2RA": "AI发现Linux内核vhost漏洞，本地用户提权Root，虚拟机可逃逸宿主机",
     "https://mp.weixin.qq.com/s/puX4nw5nAjnky1RUUFz76g": "黑客利用思杰NetScaler 0Day漏洞，部署Platypus远控工具",
     "https://mp.weixin.qq.com/s/h4cypNVhMUHQSF8JKEaLdg": "漏洞复现｜大华-智慧园区综合管理平台 login_updateUserAdmOnlineStat 存在SQL注入漏洞",
-    "https://mp.weixin.qq.com/s/pTmMCIzHzVzN4T0ZubvRCQ": "漏洞复现｜西部数码 NAS login_mgr.cgi 存在命令执行漏洞"
+    "https://mp.weixin.qq.com/s/pTmMCIzHzVzN4T0ZubvRCQ": "漏洞复现｜西部数码 NAS login_mgr.cgi 存在命令执行漏洞",
+    "https://mp.weixin.qq.com/s/N_BHp8Dv-RUgjOStWhr2ow": "GitLab CVE-2026-97229 满分 RCE 分析：一条注释骗过校验，一次重编译引爆 Onigmo",
+    "https://mp.weixin.qq.com/s/XmioDZX0SquMgir32tQKgg": "【重要POC】金蝶产品线安全漏洞汇总",
+    "https://mp.weixin.qq.com/s/-RKtac9xjoBN6w9e4nRZOQ": "Curl客户端任意代码执行，还是Anthropic最新的OSS Scaner挖的？",
+    "https://mp.weixin.qq.com/s/r4rdlhwbnKZVROslK49p-w": "安全预警 | GitLab 正则表达式编译器远程代码执行漏洞（CVE-2026-97229）",
+    "https://mp.weixin.qq.com/s/ppr3knJHbGFz9Ei-ODYGkw": "学网络安全卡在第一步？这套资料库+靶场+6000份漏洞报告，全部免费领",
+    "https://mp.weixin.qq.com/s/HMUyySLGWsDUkhyXznwbDw": "思科警告：ISE 存在严重零日漏洞，已被攻击者利用"
 }

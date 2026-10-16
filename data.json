@@ -23141,5 +23141,10 @@
     "https://mp.weixin.qq.com/s/ol3DAgd2ptMXGZiWp5-DdQ": "Palo Alto：PAN-OS RCE 漏洞已遭利用",
     "https://mp.weixin.qq.com/s/nbdaXVu2erBZnR3l3dO37g": "CISA 警告管理员立即修复被利用为零日漏洞的 Ivanti 漏洞",
     "https://mp.weixin.qq.com/s/B3APEhizoOF2zg7qEAI3Rg": "「关键漏洞目录」新增「GitLab CE∕EE整数溢出漏洞(CVE-2026-97229)」等5个漏洞",
-    "https://mp.weixin.qq.com/s/6TaIJHUOfWJa5wmQmhuJLw": "全球具身智能应用创新挑战赛·漏洞挖掘挑战赛决赛晋级名单及优胜奖名单公布"
+    "https://mp.weixin.qq.com/s/6TaIJHUOfWJa5wmQmhuJLw": "全球具身智能应用创新挑战赛·漏洞挖掘挑战赛决赛晋级名单及优胜奖名单公布",
+    "https://mp.weixin.qq.com/s/YdZl7jQJWQ-kb5teskb9rQ": "Linux vhost高危漏洞PoC公开，可致root提权与虚拟机逃逸",
+    "https://mp.weixin.qq.com/s/FJ_KVpGS6uuHHrj04vNksg": "AI低质报告冲击漏洞赏金计划，英特尔、谷歌等科技巨头相继调整规则",
+    "https://mp.weixin.qq.com/s/cdxCUW9iUAb8vXmfDP6oVg": "CNNVD关于微软多个安全漏洞的通报",
+    "https://mp.weixin.qq.com/s/mH70UxF5sW0A3-YpBSVaqw": "微软发布3个Active Directory漏洞预警，支持远程绕过安全防护",
+    "https://mp.weixin.qq.com/s/fE5NH1A6sVMbWHeu3kGm0w": "CVE-2026-83834：Windows内核驱动UAF本地提权漏洞分析"
 }

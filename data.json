@@ -23279,5 +23279,6 @@
     "https://mp.weixin.qq.com/s/9sBGipCUnXNhtcEKeQOemg": "【已复现】Drupal Field UI 远程代码执行漏洞(CVE-2026-108097)安全风险通告",
     "https://mp.weixin.qq.com/s/tCEl8_DfEpBKtGPTZDBlGQ": "深度学习顶会ICLR 2026论文点评丨从漏洞描述到检测规则：QLCoder如何让静态分析查询自动写出来？",
     "https://mp.weixin.qq.com/s/3MfvK4D0nM3-WpODH7IEsQ": "第107篇 AI全栈 · 漏洞链的艺术",
-    "https://mp.weixin.qq.com/s/1ACjf2mQZdz8DhNnMdoTOg": "【漏洞通告】Windows Shell 安全功能绕过漏洞（CVE-2026-96951)"
+    "https://mp.weixin.qq.com/s/1ACjf2mQZdz8DhNnMdoTOg": "【漏洞通告】Windows Shell 安全功能绕过漏洞（CVE-2026-96951)",
+    "https://mp.weixin.qq.com/s/cIzQxn-clIRd-KsC89CU6Q": "SPIP X-Spip-Filtrej接口存在远程代码执行漏洞CVE-2026-77806  附POC"
 }

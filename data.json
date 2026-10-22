@@ -23525,5 +23525,6 @@
     "https://mp.weixin.qq.com/s/kBrtZrQzq_EpF8DvnivokA": "讲解一下这次PHP核弹级别漏洞的原理",
     "https://mp.weixin.qq.com/s/Q2n-wcLkrRWcMH8u8xmZqA": "速查！PHP 核心爆出超危漏洞，长亭已复现验证，全系产品支持检测",
     "https://mp.weixin.qq.com/s/1fQz6J1Fo7lt5_xRCCBPbQ": "【复现】php2shell（CVE-2026-109618∕109619）PHP 远程代码执行漏洞",
-    "https://mp.weixin.qq.com/s/1tDoEC3V2au7xUWwS8BFzw": "PHP Core远程代码执行漏洞爆出，天翼安全WAF已具备防护能力"
+    "https://mp.weixin.qq.com/s/1tDoEC3V2au7xUWwS8BFzw": "PHP Core远程代码执行漏洞爆出，天翼安全WAF已具备防护能力",
+    "https://mp.weixin.qq.com/s/0gdB5mXksCDILkyiEiO6IQ": "PHP2Shell：两个高危漏洞拉响全球安全“警报”"
 }

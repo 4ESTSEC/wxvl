@@ -23824,5 +23824,6 @@
     "https://mp.weixin.qq.com/s/9Fq5sQ8xMD9yhF39lzlhRQ": "漏洞复现 | 智慧综合管理平台 DDiscountDevices.ashx 存在SQL注入漏洞",
     "https://mp.weixin.qq.com/s/RYqpoGQ4dO-MSr1Gsy3DUw": "第114篇 AI全栈 · 逻辑漏洞背后隐藏的刷票总结",
     "https://mp.weixin.qq.com/s/LCY4XnitU6sgNaBiWjQ42A": "同一个模型，Shannon找到6个漏洞，Strix只找到1个——你追的“最强模型”可能根本不是瓶颈",
-    "https://mp.weixin.qq.com/s/WVXiSGEN1XNf133tkcS0SQ": "PHP2Shell 已被用于攻击 PAN-OS 管理接口：从 PHP RCE 到防火墙 Root"
+    "https://mp.weixin.qq.com/s/WVXiSGEN1XNf133tkcS0SQ": "PHP2Shell 已被用于攻击 PAN-OS 管理接口：从 PHP RCE 到防火墙 Root",
+    "https://mp.weixin.qq.com/s/u4y80MPHBu5OiItVRmxYxQ": "【CVE-2026-98432】TCP爆出释放后重用漏洞，CVSS 评分9.8！"
 }

@@ -23959,5 +23959,8 @@
     "https://mp.weixin.qq.com/s/c952I8VjUVrq3jU2T8j_RQ": "用友时空KSOA select.jsp SQL注入漏洞",
     "https://mp.weixin.qq.com/s/gb1euoIw29RHGs_jkwA50g": "花费120 万美元，让AI 找出 948 个 Linux 提权漏洞，价值数千万美元",
     "https://mp.weixin.qq.com/s/d8qh0ZwlNojTrNQMfaq7HA": "MindSearch-RCE复现：AI搜索一句提问直接拿shell （CVE-2026-105135）",
-    "https://mp.weixin.qq.com/s/1FR4uZzdw0mDiTGp0RnA0w": "币安63亿被盗、路由器老漏洞、PHP补丁被抢跑……这一周发生了什么？"
+    "https://mp.weixin.qq.com/s/1FR4uZzdw0mDiTGp0RnA0w": "币安63亿被盗、路由器老漏洞、PHP补丁被抢跑……这一周发生了什么？",
+    "https://mp.weixin.qq.com/s/hwfpPgQkBZMmJMOJ65Vs2A": "AiPy 首获 Microsoft 官方致谢，Windows 内核 Win32k 漏洞获 CVE 编号",
+    "https://mp.weixin.qq.com/s/6OD1diTo_RgE9Kfs0DyoEg": "【已复现】Synology DSM 身份认证绕过漏洞(CVE-2026-13639)安全风险通告",
+    "https://mp.weixin.qq.com/s/Uwj9TeXsnIG9kbpPbn04ZA": "【一天一个nacos漏洞·第五天】【严重】鉴权配置缺陷"
 }

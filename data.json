@@ -23999,5 +23999,6 @@
     "https://mp.weixin.qq.com/s/zO7NT6wRJXOAOLXmpz2dWA": "EIP-7702 深入分析：它不是漏洞，而是被“签名能力”武器化的账户委托机制",
     "https://mp.weixin.qq.com/s/uizyP8PVxBQoWh6vQjZtfg": "OpenSSH 紧急修复的 *sshole 漏洞：一串超长密码，免密登录你的 SSH",
     "https://mp.weixin.qq.com/s/6ck2Fgeve8SqXQQud-3lMw": "Zyxel修复了被利用的零日漏洞，该漏洞已导致近1000台网络交换机遭到入侵",
-    "https://mp.weixin.qq.com/s/I88QiLFt_yWIFHrH3XSyrA": "漏洞预警 | 泛微Ecology远程代码执行漏洞"
+    "https://mp.weixin.qq.com/s/I88QiLFt_yWIFHrH3XSyrA": "漏洞预警 | 泛微Ecology远程代码执行漏洞",
+    "https://mp.weixin.qq.com/s/vWQD2aQ-2zl3c8sLyDgSsA": "漏洞预警 | Windows Update Stack本地权限提升漏洞"
 }

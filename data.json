@@ -24277,5 +24277,6 @@
     "https://mp.weixin.qq.com/s/C4dqFPPHU16am7hDIpxaJw": "微软亲手挖的坑？CLFS认证机制曝出提权漏洞",
     "https://mp.weixin.qq.com/s/HU2w8pXviSqb-drdXNwM6Q": "【一天一个nacos漏洞·第十三天】【高危】发了的能改回来，没审的能改上去",
     "https://mp.weixin.qq.com/s/OT2IHKmKwzRwIDljzBgmiA": "一条 POST 拿 shell：AI 网关 LiteLLM 未授权 RCE，10 分",
-    "https://mp.weixin.qq.com/s/1BaoWYFQ3Dure_aJMzLYKg": "微软亲手挖的坑？CLFS认证机制曝出提权漏洞，可轻松绕过任意杀软防御"
+    "https://mp.weixin.qq.com/s/1BaoWYFQ3Dure_aJMzLYKg": "微软亲手挖的坑？CLFS认证机制曝出提权漏洞，可轻松绕过任意杀软防御",
+    "https://mp.weixin.qq.com/s/c1e02Poy3baobXZj095TsQ": "【已复现】CVE-2026-90436 Confluence 远程 API SOAP 组件 Apache Axis 命令执行漏洞"
 }

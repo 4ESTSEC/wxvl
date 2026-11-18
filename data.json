@@ -24323,5 +24323,6 @@
     "https://mp.weixin.qq.com/s/0O0MlOw57pvbWWqAZt3W2w": "OpenJDK Java4Shell Base64解码远程代码执行漏洞（CVE-2026-114938）",
     "https://mp.weixin.qq.com/s/UGay1NgqMErwWztAbmu4Fg": "Oracle 今日将修补 11 个 Java 漏洞，以修复关键 OpenJDK RCE (CVE-2026-114938) 漏洞被曝光",
     "https://mp.weixin.qq.com/s/Y83tE847jVsWqCWlwvvGwA": "突发 Java4Shell 漏洞——黑客现在无需密码即可劫持 Java 服务器",
-    "https://mp.weixin.qq.com/s/mq19PQb2QYfLUXlJ4To3cA": "高危预警：CVE-2026-90436 Apache Axis 1.x 未授权 RCE，Confluence Data Center 已在野被利用"
+    "https://mp.weixin.qq.com/s/mq19PQb2QYfLUXlJ4To3cA": "高危预警：CVE-2026-90436 Apache Axis 1.x 未授权 RCE，Confluence Data Center 已在野被利用",
+    "https://mp.weixin.qq.com/s/0fX4vyFtqadWmX0xpVSoWQ": "漏洞预警 | Apache Ofbiz远程代码执行漏洞"
 }

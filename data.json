@@ -24358,5 +24358,16 @@
     "https://mp.weixin.qq.com/s/6RHZli12EDMIHZD5YosWaA": "T00ls论坛 注册邀请码校验绕过复现",
     "https://mp.weixin.qq.com/s/PxVhBq9pyu2un1OpL3ggrg": "【独家情报】帆软FineReport FVS插件未授权远程代码执行漏洞",
     "https://mp.weixin.qq.com/s/E4APAWF1dhan2ynl4OWDpA": "GPGME 重大内存安全漏洞曝光: 潜伏24年的Double Free缺陷，可通过恶意签名数据窃取应用内存信息",
-    "https://mp.weixin.qq.com/s/8sdQcXmwrEgxQZivZHeSOQ": "群晖紧急修复两项 NAS 平台严重漏洞：CVSS 评分高达 9.8 与 8.1"
+    "https://mp.weixin.qq.com/s/8sdQcXmwrEgxQZivZHeSOQ": "群晖紧急修复两项 NAS 平台严重漏洞：CVSS 评分高达 9.8 与 8.1",
+    "https://mp.weixin.qq.com/s/SrRKv4FYdMDVZNOxWbXfXg": "【已复现】帆软 FineReport FVS 插件复用资源导入未授权远程代码执行漏洞",
+    "https://mp.weixin.qq.com/s/ldk0o9P-7_UMCinU8MYliA": "11月22日高危漏洞汇总：9 个在野利用、9 个紧急",
+    "https://mp.weixin.qq.com/s/yoKJMLP1efCCo3elwBFH-w": "从测绘索引里消失：子域名加反代白名单，挡掉 99.9% 的 0day 轰炸",
+    "https://mp.weixin.qq.com/s/13X6Mb7rqnK6Wu6MaPO17Q": "黑客利用NoisyTCP 的新漏洞可导致 Linux 服务器内核崩溃",
+    "https://mp.weixin.qq.com/s/3u2R1qQrQubc3pOHiPG3dg": "CVE-2026-129448：Apache Roller XML-RPC 反序列化——一次不完整的修复，如何让预认证RCE在三天内冲进KEV",
+    "https://mp.weixin.qq.com/s/zcDl1tdFAUq-bMVoHipHkg": "CVE-2026-129496：一条被启动日志“种”下的UAF，如何让PHP-FPM worker在第一个请求里执行命令",
+    "https://mp.weixin.qq.com/s/K5uqL2OafzOMHwj-RlR1cw": "【附exp】vcenter 免认证身份绕过 CVE-2026-123890",
+    "https://mp.weixin.qq.com/s/lHSokLMYm8_zxuzyIaEOZw": "VMware vCenter 严重漏洞被广泛利用",
+    "https://mp.weixin.qq.com/s/Mele79soUdCElFlKuM4nFw": "11月21日漏洞：340条，在野 RCE、制动控制器与反序列化",
+    "https://mp.weixin.qq.com/s/Pv2tgeJ4L6LG9zrdGRDC8Q": "如何在 Google 挖到 9 万美元的远程代码执行漏洞",
+    "https://mp.weixin.qq.com/s/DvGV-RNL_aep-r2G2qPMaQ": "【已复现】无需凭据获取管理员会话——VMware vCenter 认证绕过漏洞（CVE-2026-123890）"
 }

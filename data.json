@@ -24481,5 +24481,9 @@
     "https://mp.weixin.qq.com/s/d45HruygFGer1aoqHiwHKw": "评论 | 切断黑色链条，堵住“简历开盒”漏洞",
     "https://mp.weixin.qq.com/s/h6fFQT27aIeSJFKfbkls0A": "WordPress 插件 9.8 分未授权 RCE",
     "https://mp.weixin.qq.com/s/UiuKn9I_7sgdEKx9liG0xA": "【高危漏洞预警】Cacti Guest访客未授权远程代码执行漏洞",
-    "https://mp.weixin.qq.com/s/HyFujXw_KO7H-ztTX8qMGA": "逻辑漏洞导致0交互接管账号"
+    "https://mp.weixin.qq.com/s/HyFujXw_KO7H-ztTX8qMGA": "逻辑漏洞导致0交互接管账号",
+    "https://mp.weixin.qq.com/s/cguMd15zYiDtMxmjrsKSaw": "美国网络安全和基础设施安全局 (CISA) 警告：黑客正在积极利用思科、VMware、SAP 和 Apache 的漏洞",
+    "https://mp.weixin.qq.com/s/kJME5Zo4j0Kz9j3WMp9JBA": "LiteLLM MCP OAuth2 passthrough 认证绕过复现与分析",
+    "https://mp.weixin.qq.com/s/V3OinR4jGBuxYgz-re79ew": "俄罗斯黑客利用 Zimbra 0-Day 漏洞，零点击邮箱秒没",
+    "https://mp.weixin.qq.com/s/rKC3cCHyeEamnFoj5haqIg": "Node 单线程也有竞态：Parse Server 多 OAuth2 Provider CVE-2026-32242漏洞分析"
 }
